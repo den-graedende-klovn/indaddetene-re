@@ -1,0 +1,17 @@
+[
+  {
+    "id": "2026-10-14-test-roest",
+    "guid": "2026-10-14-test-roest-bdfab395",
+    "titel": "Testafsnit: knude på halsen (Røst)",
+    "beskrivelse": "Kort smagsprøve, der sammenligner to stemmemotorer på samme dialog. Ikke en fuld gennemgang af emnet.",
+    "kilder": [],
+    "manuskript": "2026-10-14-test.txt",
+    "fingeraftryk": "bdfab395",
+    "motor": "roest",
+    "motor_navn": "Røst",
+    "fil": "afsnit/2026-10-14-test-roest-bdfab395.mp3",
+    "bytes": 532709,
+    "sekunder": 66.5,
+    "udgivet": "2026-10-14T05:31:24+00:00"
+  }
+]
