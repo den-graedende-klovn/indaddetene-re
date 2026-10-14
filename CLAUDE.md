@@ -7,8 +7,9 @@ Dette repository er Mathias' private studiepodcast "Ind ad det ene øre". Bruger
 1. Skriv manuskriptet ud fra den gennemgang, der allerede er lavet i chatten. Tilføj ingen nye fakta, tal eller doser.
 2. Gem det som `manuskripter/ÅÅÅÅ-MM-DD-kort-emne.txt` (små bogstaver, bindestreger, ingen æøå i filnavnet).
 3. `git add`, `git commit -m "Afsnit: <emne>"`, `git fetch origin main && git rebase origin/main`, `git push origin HEAD:main`.
-4. Følg kørslen: `curl -s https://api.github.com/repos/den-graedende-klovn/indaddetene-re/actions/runs?per_page=3`. Når den er færdig: `git pull` og læs `status.json` (tidsforbrug, fejl).
-5. Fortæl brugeren, at afsnittet er på vej, og hvornår det cirka er klar. Røst er langsom på GitHubs maskiner, se `status.json` for seneste tidsforbrug pr. lydminut.
+4. Følg kørslen, til trinnet "Lav afsnit" er i gang: `curl -s "https://api.github.com/repos/den-graedende-klovn/indaddetene-re/actions/runs?per_page=3"` og `.../actions/runs/<id>/jobs`. Logfiler kan ikke hentes herfra.
+5. Fortæl brugeren, at afsnittet er på vej, og hvornår det cirka er klar. Beregn tiden ud fra `beregning_pr_lydminut` i `status.json` (cirka 11 minutter pr. lydminut på GitHubs maskiner i oktober 2026) plus cirka 3 minutters opstart. Vent kun på hele kørslen, hvis brugeren beder om det. GitHub mailer brugeren, hvis en kørsel fejler.
+6. Hvis en kørsel fejler: `git pull` og læs `fejl` i `status.json`.
 
 Ret et afsnit: ret manuskriptet og push. Det får et nyt fingeraftryk og laves om.
 Fjern et afsnit: slet manuskriptet og push.
