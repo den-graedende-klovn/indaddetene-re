@@ -13,5 +13,26 @@
     "bytes": 532709,
     "sekunder": 66.5,
     "udgivet": "2026-10-14T05:31:24+00:00"
+  },
+  {
+    "id": "2026-10-14-persisterende-postural-perceptuel-svimmelhed",
+    "guid": "2026-10-14-persisterende-postural-perceptuel-svimmelhed-5ee0cac7",
+    "titel": "Persisterende postural-perceptuel svimmelhed",
+    "beskrivelse": "Kronisk funktionel svimmelhed. Hvordan stillingen stilles, hvad der skal udelukkes, hvad evidensen siger om behandling, og hvilke faldgruber man skal kende.",
+    "kilder": [
+      "Staab et al., Diagnostic criteria for persistent postural-perceptual dizziness, Journal of Vestibular Research, 2017, https://pubmed.ncbi.nlm.nih.gov/29036855/",
+      "Webster et al., Non-pharmacological interventions for persistent postural-perceptual dizziness, Cochrane Database of Systematic Reviews, 2023, https://rehabilitation.cochrane.org/non-pharmacological-interventions-persistent-postural-perceptual-dizziness",
+      "Zheng et al., Effect of conservative therapy for persistent postural-perceptual dizziness, Frontiers in Psychiatry, 2025, https://www.frontiersin.org/journals/psychiatry/articles/10.3389/fpsyt.2025.1676218/full",
+      "Persistent Postural-Perceptual Dizziness: A Practical Approach to Diagnosis and Patient Communication, European Journal of Neurology, 2026, https://www.ncbi.nlm.nih.gov/pmc/articles/PMC12884132/",
+      "Persistent Postural-Perceptual Dizziness, StatPearls, 2026, https://www.ncbi.nlm.nih.gov/books/NBK578198/"
+    ],
+    "manuskript": "2026-10-14-persisterende-postural-perceptuel-svimmelhed.txt",
+    "fingeraftryk": "5ee0cac7",
+    "motor": "roest",
+    "motor_navn": "Røst",
+    "fil": "afsnit/2026-10-14-persisterende-postural-perceptuel-svimmelhed-5ee0cac7.mp3",
+    "bytes": 2568979,
+    "sekunder": 321.0,
+    "udgivet": "2026-10-14T15:42:42+00:00"
   }
 ]
