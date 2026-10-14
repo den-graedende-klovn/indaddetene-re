@@ -1,0 +1,14 @@
+titel: Testafsnit: knude på halsen
+beskrivelse: Kort smagsprøve, der sammenligner to stemmemotorer på samme dialog. Ikke en fuld gennemgang af emnet.
+motor: roest, edge
+---
+VÆRT: Velkommen til Ind ad det ene øre. I dag en kort smagsprøve om en knude på halsen hos en voksen.
+EKSPERT: Det vigtigste budskab først. En ensidig knude på halsen hos en voksen, som ikke forsvinder af sig selv, skal betragtes som mulig kræft, indtil det modsatte er bevist.
+VÆRT: Lad os tage en case. En mand på fireoghalvtreds år har mærket en knude under kæben i en måned. Den gør ikke ondt, og han ryger ikke. Hvad tænker du først?
+EKSPERT: Hvor sidder den? Sidder den i spytkirtlen, glandula submandibularis, eller i en lymfeknude lige ved siden af? Og har han haft en infektion, som kunne forklare en reaktiv lymfadenitis?
+VÆRT: Og hvis der ikke er en oplagt forklaring?
+EKSPERT: Så er næste skridt ultralyd af halsen med finnålsaspiration. Og husk, at også en ikke-ryger kan have et human papillomavirus-relateret planocellulært karcinom i oropharynx.
+VÆRT: Et spørgsmål til dig, der lytter. Hvilket pakkeforløb skal han henvises til ved begrundet mistanke om kræft? Tænk over det.
+[pause 4]
+EKSPERT: Pakkeforløbet for hoved- og halskræft.
+VÆRT: Det var smagsprøven. Tak fordi du lyttede.

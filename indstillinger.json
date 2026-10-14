@@ -1,0 +1,40 @@
+{
+  "titel": "Ind ad det ene øre",
+  "beskrivelse": "Korte dialoger om øre-næse-hals-emner til togturen. Manuskripterne er skrevet med kunstig intelligens på baggrund af en gennemgang af retningslinjer og litteratur, og stemmerne er syntetiske. Kan indeholde fejl.",
+  "forfatter": "Ind ad det ene øre",
+  "adresse": "https://den-graedende-klovn.github.io/indaddetene-re/",
+  "sprog": "da",
+  "standardmotor": "roest",
+  "roller": {
+    "VÆRT": {
+      "roest": "nic",
+      "edge": "da-DK-ChristelNeural",
+      "test": "lys"
+    },
+    "EKSPERT": {
+      "roest": "mic",
+      "edge": "da-DK-JeppeNeural",
+      "test": "dyb"
+    }
+  },
+  "pauser": {
+    "start": 0.4,
+    "slut": 1.0,
+    "mellem_saetninger": 0.22,
+    "samme_taler": 0.35,
+    "ny_taler": 0.5
+  },
+  "roest": {
+    "model": "CoRal-project/roest-v3-chatterbox-500m",
+    "temperature": 0.7,
+    "top_p": 0.95,
+    "cfg_weight": 0.5,
+    "exaggeration": 0.5,
+    "repetition_penalty": 2.0,
+    "min_p": 0.05,
+    "maks_saetning": 220
+  },
+  "edge": {
+    "hastighed": "+0%"
+  }
+}

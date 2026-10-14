@@ -1,0 +1,75 @@
+name: Lav afsnit
+
+on:
+  push:
+    branches: [main]
+    paths:
+      - "manuskripter/**"
+      - "motor/**"
+      - "indstillinger.json"
+      - ".github/workflows/lav-afsnit.yml"
+  workflow_dispatch:
+
+permissions:
+  contents: write
+
+concurrency:
+  group: lav-afsnit
+  cancel-in-progress: false
+
+jobs:
+  lav:
+    runs-on: ubuntu-latest
+    timeout-minutes: 300
+    env:
+      HF_HUB_DISABLE_PROGRESS_BARS: "1"
+      PYTHONUNBUFFERED: "1"
+    steps:
+      - uses: actions/checkout@v4
+
+      - uses: actions/setup-python@v5
+        with:
+          python-version: "3.11"
+
+      - name: Hvad skal laves?
+        id: behov
+        run: |
+          pip install -q "numpy<2"
+          echo "motorer=$(python motor/lav_afsnit.py --behov)" >> "$GITHUB_OUTPUT"
+
+      - name: Installer ffmpeg
+        run: sudo apt-get update -qq && sudo apt-get install -y -qq ffmpeg
+
+      - name: Installer Edge TTS
+        if: contains(steps.behov.outputs.motorer, 'edge')
+        run: pip install -q -r motor/krav-edge.txt
+
+      - name: Hent Røst-modellen fra cache
+        if: contains(steps.behov.outputs.motorer, 'roest')
+        uses: actions/cache@v4
+        with:
+          path: ~/.cache/huggingface
+          key: roest-v3-model-1
+
+      - name: Installer Røst
+        if: contains(steps.behov.outputs.motorer, 'roest')
+        run: |
+          pip install -q torch==2.6.0 torchaudio==2.6.0 --index-url https://download.pytorch.org/whl/cpu
+          pip install -q -r motor/krav-roest.txt
+
+      - name: Lav afsnit
+        run: python motor/lav_afsnit.py
+
+      - name: Gem afsnit og feed
+        if: always()
+        run: |
+          git config user.name "podcast-robot"
+          git config user.email "41898282+github-actions[bot]@users.noreply.github.com"
+          git add -A
+          if git diff --cached --quiet; then echo "Intet nyt."; exit 0; fi
+          git commit -q -m "Opdater afsnit og feed"
+          for i in 1 2 3; do
+            git pull -q --rebase origin main && git push -q origin HEAD:main && exit 0
+            sleep 5
+          done
+          exit 1
