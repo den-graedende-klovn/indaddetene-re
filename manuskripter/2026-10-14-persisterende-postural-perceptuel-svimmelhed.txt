@@ -1,0 +1,47 @@
+titel: Persisterende postural-perceptuel svimmelhed
+beskrivelse: Kronisk funktionel svimmelhed. Hvordan stillingen stilles, hvad der skal udelukkes, hvad evidensen siger om behandling, og hvilke faldgruber man skal kende.
+motor: roest
+kilder:
+- Staab et al., Diagnostic criteria for persistent postural-perceptual dizziness, Journal of Vestibular Research, 2017, https://pubmed.ncbi.nlm.nih.gov/29036855/
+- Webster et al., Non-pharmacological interventions for persistent postural-perceptual dizziness, Cochrane Database of Systematic Reviews, 2023, https://rehabilitation.cochrane.org/non-pharmacological-interventions-persistent-postural-perceptual-dizziness
+- Zheng et al., Effect of conservative therapy for persistent postural-perceptual dizziness, Frontiers in Psychiatry, 2025, https://www.frontiersin.org/journals/psychiatry/articles/10.3389/fpsyt.2025.1676218/full
+- Persistent Postural-Perceptual Dizziness: A Practical Approach to Diagnosis and Patient Communication, European Journal of Neurology, 2026, https://www.ncbi.nlm.nih.gov/pmc/articles/PMC12884132/
+- Persistent Postural-Perceptual Dizziness, StatPearls, 2026, https://www.ncbi.nlm.nih.gov/books/NBK578198/
+---
+VÆRT: Velkommen. I dag taler vi om persistent postural-perceptual dizziness. På dansk persisterende postural-perceptuel svimmelhed. Vi starter med en case.
+EKSPERT: En patient i fyrrerne kommer, fordi hun har været svimmel i flere måneder. Det begyndte med en neuritis vestibularis. Det akutte forløb er overstået. Men hun er stadig usikker på benene de fleste dage.
+VÆRT: Hvad spørger du til?
+EKSPERT: Først beder jeg hende beskrive det uden ordet svimmelhed. Mange siger gyngen, svajen eller at de står på en båd. Så spørger jeg til varighed og udløsere. Diagnosen kræver symptomer de fleste dage i mindst tre måneder. De skal forværres af oprejst stilling, af bevægelse og af visuelt komplekse omgivelser. For eksempel i et supermarked eller foran en skærm.
+VÆRT: Hvad er tilstanden egentlig?
+EKSPERT: En kronisk funktionel vestibulær tilstand. Den blev defineret af Bárány Society i to tusind og sytten. Funktionel betyder, at systemet er intakt, men fungerer forkert. Den er hverken strukturel eller psykiatrisk. Den er den hyppigste kroniske vestibulære lidelse hos tredive til halvtreds årige. Kvinder rammes op til fire gange så ofte som mænd.
+VÆRT: Hvordan opstår den?
+EKSPERT: En akut udløser giver en stiv og forsigtig postural strategi. Det kan være neuritis, lejringssvimmelhed, vestibulær migræne eller et panikanfald. Patienten bliver mere afhængig af synet og mere opmærksom på kroppen. Strategien bliver hængende, også når udløseren er væk. Patienterne oplever ofte mere usikkerhed, end man kan måle.
+VÆRT: Så kroppen beskytter sig mod en fare, der ikke længere er der.
+EKSPERT: Præcis. Udløseren kan også være en kronisk sygdom. Så kommer symptomerne gradvist og forværres langsomt.
+VÆRT: Hvad peger væk fra diagnosen?
+EKSPERT: Roterende anfald peger mod vestibulær migræne eller Menières sygdom. Høretab, tinnitus og øretryk peger mod øresygdom. Oscillopsi og svimmelhed i mørke peger mod bilateral vestibulopati. Symptomer, der bedres liggende, peger mod en ortostatisk årsag. Neurologiske udfald peger mod en central årsag. Men husk, at tilstanden ofte findes sammen med de andre.
+VÆRT: Også med migræne?
+EKSPERT: Ja. Hovedparten af patienterne opfylder kriterierne for migræne. Vestibulær migræne er en hyppig udløser.
+VÆRT: Og undersøgelsen?
+EKSPERT: Otoskopi, høretest, øjenbevægelser, head impulse test, Dix-Hallpike, gang og ortostatisk måling. Normale vestibulære fund understøtter diagnosen. De udelukker ikke samtidig sygdom. Der findes ingen biomarkør, så diagnosen er klinisk. Skanning med magnetisk resonans er kun til atypiske, ensidige eller progredierende fund. Det er erfaringsbaseret.
+VÆRT: Kan vi måle sværhedsgraden?
+EKSPERT: Ja. Niigata-spørgeskemaet og Dizziness Handicap Inventory kan bruges til sværhedsgrad og opfølgning.
+VÆRT: Hvad kan vi tilbyde?
+EKSPERT: Først en klar forklaring. Mange føler sig misforståede. Sig, at balancesystemet er for vagtsomt, og at det kan behandles. Psykologisk støtte betyder ikke, at det er indbildt. Så vestibulær rehabilitering med gradueret eksponering og kognitiv adfærdsterapi. Medicinsk bruges selektive serotoningenoptagshæmmere eller venlafaxin. Venlafaxin kan foretrækkes ved migræne.
+VÆRT: Så der er tre ben at stå på. Forklaring, træning og samtaleterapi, og eventuelt medicin.
+EKSPERT: Ja, og de kan kombineres.
+VÆRT: Hvad siger evidensen?
+EKSPERT: En metaanalyse fra to tusind og femogtyve omfatter toogtyve randomiserede forsøg med cirka sytten hundrede patienter. Den anbefaler serotoninmiddel kombineret med struktureret rehabilitering. Men sikkerheden i evidensen er moderat til meget lav. Cochrane fandt ekstremt begrænset evidens for ikke-medicinske tiltag. Kirurgi har ingen plads.
+VÆRT: Hvor går det galt?
+EKSPERT: Akut debut, nye neurologiske udfald, dobbeltsyn, sløret tale, ataksi eller retningsskiftende nystagmus kræver akut neurologisk vurdering. Progredierende ensidigt høretab eller ensidig tinnitus kræver magnetisk resonansskanning. Vestibulære dæmpende midler og benzodiazepiner virker ikke på lang sigt. De kan fastholde symptomerne. Medicin startes lavt og optrappes langsomt. Hos ældre er der risiko for lavt natrium. Hos patienter i blodfortyndende behandling øger serotoninmidlerne blødningsrisikoen.
+VÆRT: Så tre spørgsmål til dig, der lytter. Første spørgsmål. Hvilke tre faktorer forværrer symptomerne?
+[pause 5]
+EKSPERT: Oprejst stilling, bevægelse og visuelt komplekse omgivelser.
+VÆRT: Andet spørgsmål. Udelukker normale vestibulære fund diagnosen?
+[pause 5]
+EKSPERT: Nej. De understøtter den, men udelukker ikke samtidig vestibulær sygdom.
+VÆRT: Tredje spørgsmål. Hvad virker ikke som langtidsbehandling?
+[pause 5]
+EKSPERT: Vestibulære dæmpende midler og benzodiazepiner.
+VÆRT: Kort opsummering.
+EKSPERT: Spørg uden ordet svimmelhed. Kortlæg udløsere som stående, bevægelse og synsindtryk. Husk, at andre vestibulære sygdomme ofte findes samtidig. Forklar diagnosen positivt. Tilbyd rehabilitering, kognitiv adfærdsterapi og eventuelt medicin.
