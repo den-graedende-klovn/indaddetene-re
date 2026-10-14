@@ -5,6 +5,7 @@
   "adresse": "https://den-graedende-klovn.github.io/indaddetene-re/",
   "sprog": "da",
   "standardmotor": "roest",
+  "slaaet_fra": ["edge"],
   "roller": {
     "VÆRT": {
       "roest": "nic",

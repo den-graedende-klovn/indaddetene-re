@@ -48,11 +48,16 @@ def planlaeg(indst, episoder, tving_motor=None):
             forventede.update(i for i in efter_id if efter_id[i]["manuskript"] == sti.name)
             continue
         motorer = [tving_motor] if tving_motor else (m.motorer or [indst["standardmotor"]])
+        slaaet_fra = set(indst.get("slaaet_fra", [])) - {tving_motor}
         for motor in motorer:
+            ep_id = sti.stem if len(motorer) == 1 else f"{sti.stem}-{motor}"
+            if motor in slaaet_fra:
+                if ep_id in efter_id:
+                    forventede.add(ep_id)  # behold et eksisterende afsnit
+                continue
             if motor not in MOTORER:
                 fejl.append({"manuskript": sti.name, "fejl": f"ukendt motor: {motor}"})
                 continue
-            ep_id = sti.stem if len(motorer) == 1 else f"{sti.stem}-{motor}"
             forventede.add(ep_id)
             gammel = efter_id.get(ep_id)
             if gammel and gammel.get("fingeraftryk") == m.fingeraftryk and gammel.get("motor") == motor:
@@ -158,6 +163,10 @@ def main():
 
     for navn, motor in instanser.items():
         status["motorer"][navn].update(motor.stat.som_dict())
+
+    if not status["afsnit"] and not status["fejl"]:
+        print("Intet at lave.")
+        return 0
 
     gem_json(ROD / "episoder.json", sorted(episoder, key=lambda e: e["udgivet"]))
     feed.skriv(ROD, indst, episoder)
