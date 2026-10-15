@@ -35,8 +35,8 @@ EKSPERT: ...
 ## Skriv til øret (vigtigt for talesyntesen)
 
 - Dialog, ikke monolog. Værten har cirka en fjerdedel af ordene. Ingen tom snak eller overdreven begejstring.
-- Længde: 5 minutter, medmindre brugeren angiver andet (fx "podcast 10min"). Regn med cirka 130 ord pr. minut inklusive pauser: 5 minutter er cirka 650 ord, 10 minutter cirka 1300 ord. Målt på afsnittet om persisterende postural-perceptuel svimmelhed: 650 ord gav 5 minutter og 21 sekunder.
-- Skaler indholdet med længden: to lytterspørgsmål ved 5 minutter, tre til fire ved 10 minutter og derover. Ved længere afsnit uddybes differentialdiagnostik, udredning og faldgruber, ikke indledningen.
+- Længde: 5 minutter, medmindre brugeren angiver andet (fx "podcast 10min"). Længden gælder selve gennemgangen. Quizzen til sidst kommer oveni (se nedenfor). Regn med cirka 130 ord pr. minut inklusive pauser: 5 minutter er cirka 650 ord, 10 minutter cirka 1300 ord. Målt på afsnittet om persisterende postural-perceptuel svimmelhed: 650 ord gav 5 minutter og 21 sekunder.
+- Ved længere afsnit uddybes differentialdiagnostik, udredning og faldgruber, ikke indledningen.
 - Hvis gennemgangen ikke rækker til den ønskede længde, må stof fra gennemgangens egne kilder bruges, men ingen påstande uden kilde. Rækker det stadig ikke, så gør afsnittet kortere og sig det til brugeren.
 - Afsnit over cirka 25 minutter når ikke at blive færdige inden for GitHubs grænse på seks timer. Del dem i to manuskripter (fx "del 1" og "del 2").
 - Ingen akronymer eller forkortelser. Skriv alt ud: "computertomografi", "ultralyd", "human papillomavirus".
@@ -44,8 +44,19 @@ EKSPERT: ...
 - Latinske termer må gerne bruges, men kun når de er nødvendige, og gerne med den danske betegnelse ved siden af.
 - Korte sætninger, højst cirka 25 ord. Røst-motoren deler ved punktum.
 - Ingen doser i lyden.
-- Struktur: åbning med case, kernen (anamnese, fund, udredning, behandling), faldgruber, to til tre lytterspørgsmål med `[pause 5]` og svar, kort opsummering.
+- Struktur: åbning med case, kernen (anamnese, fund, udredning, behandling), faldgruber, quiz, kort opsummering.
 - Undgå tankestreger.
+
+## Quiz til sidst
+
+Brugeren sætter stor pris på quizzen. Den må ikke tage tid fra resten af afsnittet.
+
+- Quizzen ligger samlet efter faldgruberne og før opsummeringen. Den tæller ikke med i den ønskede længde, men kommer oveni.
+- Antal: seks spørgsmål ved 5 minutter, otte ved 10 minutter og derover. Brugeren kan angive et andet antal (fx "podcast 10min 10 spørgsmål"). Højst tolv.
+- Bland faktuelle spørgsmål, korte kliniske caser ("en kvinde på syvogtres år med ...") og ræsonnementsspørgsmål (næste skridt, hvad ændrer håndteringen). Spørgsmålene skal dække hele afsnittet, ikke kun slutningen.
+- Værten stiller spørgsmålet. Derefter `[pause 5]`, eller `[pause 8]` efter caser og ræsonnementsspørgsmål. Eksperten svarer kort og giver én sætning om hvorfor.
+- Hvert spørgsmål med svar er cirka 25 til 40 ord og fylder cirka 20 til 30 sekunder med pausen.
+- Spørgsmål og svar må kun bygge på stof, der er gennemgået i afsnittet.
 
 ## Teknik
 
