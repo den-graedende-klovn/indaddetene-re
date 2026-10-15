@@ -1,25 +1,25 @@
 {
-  "start": "2026-10-14T14:42:55+00:00",
-  "maskine": "runnervmmprz5 (x86_64)",
+  "start": "2026-10-15T19:54:02+00:00",
+  "maskine": "runnervm8k3b6 (x86_64)",
   "afsnit": [
     {
-      "id": "2026-10-14-persisterende-postural-perceptuel-svimmelhed",
+      "id": "2026-10-15-vestibulaer-migraene",
       "handling": "lavet",
       "motor": "roest",
-      "lyd_sekunder": 321.0,
-      "tegn": 4645,
-      "beregning_sekunder": 3535.6
+      "lyd_sekunder": 1021.6,
+      "tegn": 15164,
+      "beregning_sekunder": 10046.7
     }
   ],
   "motorer": {
     "roest": {
-      "opstart_sekunder": 52.2,
-      "lyd_sekunder": 289.6,
-      "beregning_sekunder": 3528.2,
-      "beregning_pr_lydminut": 730.9,
+      "opstart_sekunder": 38.0,
+      "lyd_sekunder": 914.7,
+      "beregning_sekunder": 10022.9,
+      "beregning_pr_lydminut": 657.4,
       "genforsoeg": 0
     }
   },
   "fejl": [],
-  "slut": "2026-10-14T15:42:42+00:00"
+  "slut": "2026-10-15T22:42:07+00:00"
 }

@@ -34,5 +34,30 @@
     "bytes": 2568979,
     "sekunder": 321.0,
     "udgivet": "2026-10-14T15:42:42+00:00"
+  },
+  {
+    "id": "2026-10-15-vestibulaer-migraene",
+    "guid": "2026-10-15-vestibulaer-migraene-68946a19",
+    "titel": "Vestibulær migræne",
+    "beskrivelse": "Diagnostiske kriterier, differentialdiagnoser, udredning og behandling af vestibulær migræne, med tyndt evidensgrundlag og en lang quiz til sidst.",
+    "kilder": [
+      "Vestibulær migræne (migræne-associeret svimmelhed), Lægehåndbogen, sundhed.dk, revideret 2023, https://cms.sundhed.dk/Laegehaandbogen/oere-naese-hals/tilstande-og-sygdomme/nervesygdomme/vestibulaer-migraene",
+      "Vestibular migraine: Diagnostic criteria, Bárány Society og International Headache Society, 2012 og opdatering, https://pmc.ncbi.nlm.nih.gov/articles/9249276",
+      "Pharmacological interventions for prophylaxis of vestibular migraine, Cochrane Database of Systematic Reviews, 2023, https://pmc.ncbi.nlm.nih.gov/articles/PMC10093999",
+      "Pharmacological interventions for acute attacks of vestibular migraine, Cochrane Database of Systematic Reviews, 2023, https://research-information.bris.ac.uk/en/publications/pharmacological-interventions-for-acute-attacks-of-vestibular-mig/",
+      "Results and lessons learnt from a randomized controlled trial: prophylactic treatment of vestibular migraine with metoprolol, Trials, 2019, https://www.ncbi.nlm.nih.gov/pmc/articles/PMC6937687/",
+      "Prophylactic treatments for vestibular migraine: a systematic review and network meta-analysis of randomized clinical trials, Frontiers in Pharmacology, 2023, https://www.frontiersin.org/articles/10.3389/fphar.2023.1332973/full",
+      "A placebo controlled, randomized clinical trial of galcanezumab for vestibular migraine: the INVESTMENT study, Headache, 2024, https://www.neurologylive.com/view/galcanezumab-demonstrates-promise-therapy-for-vestibular-migraine",
+      "Comparative effectiveness and safety of preventive treatments for vestibular migraine: a systematic review and network meta-analysis, 2025, https://www.ncbi.nlm.nih.gov/pmc/articles/PMC12754936/",
+      "Triptans in the acute treatment of vestibular migraine attacks, konferenceabstrakt, American Academy of Neurology, 2026, https://index.mirasmart.com/AAN2026/PDFfiles/AAN2026-004849.html"
+    ],
+    "manuskript": "2026-10-15-vestibulaer-migraene.txt",
+    "fingeraftryk": "68946a19",
+    "motor": "roest",
+    "motor_navn": "Røst",
+    "fil": "afsnit/2026-10-15-vestibulaer-migraene-68946a19.mp3",
+    "bytes": 8174015,
+    "sekunder": 1021.6,
+    "udgivet": "2026-10-15T22:42:07+00:00"
   }
 ]
