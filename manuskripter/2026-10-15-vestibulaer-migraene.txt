@@ -1,0 +1,138 @@
+titel: Vestibulær migræne
+beskrivelse: Diagnostiske kriterier, differentialdiagnoser, udredning og behandling af vestibulær migræne, med tyndt evidensgrundlag og en lang quiz til sidst.
+motor: roest
+kilder:
+- Vestibulær migræne (migræne-associeret svimmelhed), Lægehåndbogen, sundhed.dk, revideret 2023, https://cms.sundhed.dk/Laegehaandbogen/oere-naese-hals/tilstande-og-sygdomme/nervesygdomme/vestibulaer-migraene
+- Vestibular migraine: Diagnostic criteria, Bárány Society og International Headache Society, 2012 og opdatering, https://pmc.ncbi.nlm.nih.gov/articles/9249276
+- Pharmacological interventions for prophylaxis of vestibular migraine, Cochrane Database of Systematic Reviews, 2023, https://pmc.ncbi.nlm.nih.gov/articles/PMC10093999
+- Pharmacological interventions for acute attacks of vestibular migraine, Cochrane Database of Systematic Reviews, 2023, https://research-information.bris.ac.uk/en/publications/pharmacological-interventions-for-acute-attacks-of-vestibular-mig/
+- Results and lessons learnt from a randomized controlled trial: prophylactic treatment of vestibular migraine with metoprolol, Trials, 2019, https://www.ncbi.nlm.nih.gov/pmc/articles/PMC6937687/
+- Prophylactic treatments for vestibular migraine: a systematic review and network meta-analysis of randomized clinical trials, Frontiers in Pharmacology, 2023, https://www.frontiersin.org/articles/10.3389/fphar.2023.1332973/full
+- A placebo controlled, randomized clinical trial of galcanezumab for vestibular migraine: the INVESTMENT study, Headache, 2024, https://www.neurologylive.com/view/galcanezumab-demonstrates-promise-therapy-for-vestibular-migraine
+- Comparative effectiveness and safety of preventive treatments for vestibular migraine: a systematic review and network meta-analysis, 2025, https://www.ncbi.nlm.nih.gov/pmc/articles/PMC12754936/
+- Triptans in the acute treatment of vestibular migraine attacks, konferenceabstrakt, American Academy of Neurology, 2026, https://index.mirasmart.com/AAN2026/PDFfiles/AAN2026-004849.html
+---
+VÆRT: Velkommen til Ind ad det ene øre. I dag skal det handle om vestibulær migræne.
+EKSPERT: En hyppig tilstand, som ofte overses, og som er svær at behandle, fordi evidensen er tynd. Kort fortalt er det anfaldsvis svimmelhed hos en patient med migræne.
+VÆRT: Lad os starte med en case. En toogtredive år gammel kvinde kommer med anfald af svimmelhed, som varer fra en halv time til et halvt døgn. Hun har haft migræne i mange år. Hvad tænker du?
+EKSPERT: Jeg spørger, hvad der sker under anfaldet. Er der hovedpine, lysfølsomhed eller lydfølsomhed? Ser hun lysglimt? Har hun symptomer fra øret? Og hvor mange anfald har hun haft?
+VÆRT: Hvorfor lige de spørgsmål?
+EKSPERT: Fordi der ikke findes en test, der bekræfter vestibulær migræne. Diagnosen bygger på mønstret og på, at andre årsager til anfaldsvis svimmelhed er udelukket. Den er altså en udelukkelsesdiagnose.
+VÆRT: Hvor hyppig er den, og hvorfor er den vigtig?
+EKSPERT: Forekomsten i befolkningen angives til mellem en og tre procent. Lægehåndbogen skriver, at livstidsprævalensen er cirka en procent, og at tallet er meget usikkert. Tilstanden regnes for den hyppigste årsag til tilbagevendende spontan vertigo.
+VÆRT: Og hvad ved vi om årsagen?
+EKSPERT: Mekanismen er ukendt. Hypotesen er, at migræne giver en følsomhed i hjernens balancebaner. Kalcitonin gen-relateret peptid er i migrænemodeller knyttet til denne følsomhed. Men det er en hypotese og ikke bevist.
+VÆRT: Så kort sagt: hyppig, underdiagnosticeret og ukendt årsag.
+EKSPERT: Præcis. Og derfor er afgrænsningen mod de andre årsager så vigtig.
+VÆRT: Så lad os tage de andre årsager først. Hvad er de vigtigste differentialdiagnoser?
+EKSPERT: Start med benign paroksysmal positionel vertigo. Den varer sekunder og udløses af lejeændring. Nystagmus ved Dix-Hallpike er trætbar.
+VÆRT: Og hvordan adskiller vestibulær migræne sig?
+EKSPERT: Ved vestibulær migræne er positionel svimmelhed typisk til stede, så længe patienten holder stillingen. Den er ikke trætbar. Men sygdommene kan optræde sammen.
+VÆRT: Dernæst Menières sygdom.
+EKSPERT: Menière giver svingende høretab, tryk i øret og tinnitus, med anfald fra cirka tyve minutter til tolv timer. Progredierende sensorineuralt høretab peger på Menière. Vestibulær migræne ses dog hyppigere hos patienter med Menière.
+VÆRT: Og så de farlige.
+EKSPERT: Transitorisk cerebral iskæmi og apopleksi i den bagre cirkulation. Tænk på dem ved vaskulære risikofaktorer, nyopstået forløb og neurologiske udfald, ofte uden hovedpine.
+VÆRT: Hvad med de resterende?
+EKSPERT: Neuritis vestibularis er ét langvarigt anfald over dage. Vestibulær paroksysmi er mange korte anfald på sekunder hver dag. Migræne med hjernestammeaura kræver flere hjernestammesymptomer, som uklar tale, dobbeltsyn og ustabil gang. Ensidigt høretab får os til at tænke på vestibularisschwannom.
+VÆRT: Og vedvarende svimmelhed uden anfald?
+EKSPERT: Så tænker jeg på persisterende postural-perceptuel svimmelhed. Den kan udvikle sig oven på vestibulær migræne.
+VÆRT: Hvordan lyder kriterierne så?
+EKSPERT: De kommer fra Bárány-selskabet og det internationale hovedpineselskab. Der skal være mindst fem anfald med vestibulære symptomer af moderat eller svær intensitet. De skal vare fra fem minutter til tooghalvfjerds timer.
+VÆRT: Og migrænen?
+EKSPERT: Der skal være aktuel eller tidligere migræne. Desuden skal mindst halvdelen af anfaldene have mindst ét migrænetegn. Det kan være hovedpine med to ud af fire kendetegn, lysfølsomhed og lydfølsomhed, eller visuel aura. Og anfaldene må ikke være bedre forklaret af en anden diagnose.
+VÆRT: Hvad er de fire kendetegn ved hovedpinen?
+EKSPERT: Ensidig, pulserende, moderat til svær smerte og forværring ved fysisk aktivitet.
+VÆRT: Hvilke vestibulære symptomer tæller med?
+EKSPERT: Spontan vertigo, positionel vertigo, visuelt udløst vertigo, vertigo udløst af hovedbevægelser og svimmelhed med kvalme ved hovedbevægelser.
+VÆRT: Hvad hvis kriterierne ikke er helt opfyldt?
+EKSPERT: Så kan der være tale om sandsynlig vestibulær migræne. Her er kun ét af de to migrænekriterier opfyldt, enten migrænehistorien eller migrænetegn under anfaldene.
+VÆRT: Så hvad skal jeg huske i anamnesen?
+EKSPERT: Der er ikke altid sammenfald mellem svimmelhedsanfald og hovedpine. Fravær af hovedpine under svimmelheden udelukker derfor ikke diagnosen. Cirka en tredjedel har visuel aura, og det er den hyppigste auratype.
+VÆRT: Hvad med ørerne?
+EKSPERT: Tinnitus, øretryk og høretab kan forekomme under anfald. Men vedvarende eller progredierende høretab peger væk fra vestibulær migræne og mod Menière eller en tumor.
+VÆRT: Er patienterne symptomfri mellem anfaldene?
+EKSPERT: Ikke altid. Mange har vedvarende vestibulære symptomer, også mellem de akutte anfald. Det kan give en markant nedsat livskvalitet og bør spørges til.
+VÆRT: Hvad ellers?
+EKSPERT: Triggere som søvnmangel, stress, menstruation, kaffe og alkohol. Og spørg til medicinforbrug, altså triptaner, opioider og kvalmestillende. Familiær migræne og debut af migræne flere år før svimmelheden støtter diagnosen.
+VÆRT: Og hvad peger væk?
+EKSPERT: Alder over halvtreds, vaskulære risikofaktorer, nyopstået mønster og neurologiske udfald. Så er det ikke den klassiske vestibulære migræne, vi skal tænke på først.
+VÆRT: Hvordan undersøger jeg patienten?
+EKSPERT: Mellem anfaldene er den neurologiske, otologiske og vestibulære undersøgelse normal. Det støtter diagnosen. Jeg laver øremikroskopi og audiometri, og positionstest for at finde samtidig benign paroksysmal positionel vertigo.
+VÆRT: Hvad med nystagmus?
+EKSPERT: Under et akut anfald ser man nystagmus hos cirka halvfjerds procent. Den kan være spontan eller positionel, og mønsteret er meget forskelligt. Fravær af nystagmus udelukker altså ikke diagnosen, og et enkelt mønster er ikke diagnostisk.
+VÆRT: Og videohovedimpulstest og kalorisk test?
+EKSPERT: De bruges, hvis jeg skal vurdere perifer vestibulær sygdom. Lette afvigelser kan ses ved vestibulær migræne og er ikke i sig selv diagnostiske. Det er erfaring og ikke stærk evidens.
+VÆRT: Skal alle have magnetisk resonans skanning?
+EKSPERT: Lægehåndbogen skriver, at skanning af hjernen skal gennemføres af differentialdiagnostiske årsager hos specialisten. I praksis, og det er erfaringsbaseret, skanner jeg ved atypisk forløb, ensidigt høretab, neurologiske fund eller nyopstået mønster i høj alder. Ikke automatisk ved klassisk forløb.
+VÆRT: Og hvem stiller diagnosen i Danmark?
+EKSPERT: Lægehåndbogen angiver, at neurologen stiller den endelige diagnose. Men ørelægen skal ofte udelukke anden vestibulær årsag først. Og en hovedpinedagbog hjælper, hvis patienten har svært ved at huske anfaldene.
+VÆRT: Så til behandlingen. Hvor stærk er evidensen?
+EKSPERT: Svag. Det er vigtigt at sige først. Cochrane-oversigten om anfaldsbehandling fandt kun to forsøg med i alt hundrede og treogtredive deltagere, og al evidens havde meget lav sikkerhed. Oversigten om forebyggelse konkluderer, at evidensen fra placebokontrollerede forsøg er meget begrænset.
+VÆRT: Hvad gør jeg så først?
+EKSPERT: Information om, at tilstanden er generende, men ufarlig. Triggerrådgivning om regelmæssig søvn, stresshåndtering og begrænset kaffe og alkohol. Og vestibulær rehabilitering hos fysioterapeut, som Lægehåndbogen beskriver som gavnlig.
+VÆRT: Er der evidens for rehabilitering?
+EKSPERT: Blandet. Nogle studier viser bedring af symptomer og livskvalitet, andre kan ikke bekræfte effekt på de vestibulære symptomer. Det er derfor et supplement, ikke en erstatning for forebyggelse.
+VÆRT: Hvad med behandling af selve anfaldet?
+EKSPERT: Triptaner er afprøvet. Cochrane fandt ingen sikker forskel på bedring af vertigo, med meget lav sikkerhed. Et konferenceabstrakt fra i år samler fire forsøg. Det rapporterer, at rizatriptan reducerede moderat til svær vertigo hos knap halvdelen mod omkring en fjerdedel på placebo. Det er endnu ikke fagfællebedømt.
+VÆRT: Så triptaner er ikke afvist.
+EKSPERT: Nej, de er rimelige til migrænekomponenten, men det er erfaring. Langvarig brug af vestibulære dæmpende midler bør undgås, fordi det kan forsinke kompensationen. Det er omdiskuteret.
+VÆRT: Og forebyggelse? Her bruger man vel betablokker.
+EKSPERT: Det har været almindeligt, men det eneste store placebokontrollerede forsøg, med metoprolol, viste stort set ingen forskel. Forholdstallet for anfaldshyppighed var næsten præcis en. Til gengæld stoppede forsøget efter hundrede og tredive randomiserede patienter mod planlagte to hundrede og seksogtres. Det var altså underpowered.
+VÆRT: Hvad sagde netværksmetaanalysen?
+EKSPERT: En metaanalyse fra totusind og treogtyve med fem forsøg og tre hundrede og fireogtredive patienter fandt, at valproat reducerede antallet af svimmelhedsanfald mere end placebo. Flunarizin, valproat og venlafaxin forbedrede desuden gener målt med et spørgeskema. Men valproat og flunarizin tålte patienterne dårligt.
+VÆRT: Og valproat hos kvinder?
+EKSPERT: Valproat er teratogent og bør i praksis undgås hos kvinder i den fødedygtige alder. Det gælder også topiramat. Topiramat og antidepressiva bruges i praksis, men jeg fandt ikke forsøg, der er stærke nok til at støtte en anbefaling.
+VÆRT: Hvad er nyt med antistoffer mod kalcitonin gen-relateret peptid?
+EKSPERT: Det første placebokontrollerede forsøg kom i totusind og fireogtyve. Et amerikansk pilotforsøg med fyrre patienter og galcanezumab. Antal svimmelhedsdage faldt fra omkring atten til omkring syv i behandlingsgruppen, mod fra atten til omkring tolv og en halv på placebo.
+VÆRT: Så gennembrud?
+EKSPERT: Lovende, men det var et enkelt center, med få patienter, og producenten støttede forsøget. En netværksmetaanalyse fra totusind og femogtyve vurderede evidensen som moderat sikker kun for galcanezumab, og lav til meget lav for de øvrige midler.
+VÆRT: Kan jeg bruge det i Danmark?
+EKSPERT: Kun i begrænset omfang. Medicinrådet anbefaler antistofferne ved kronisk migræne efter svigt af mindst ét blodtrykssænkende middel og ét antiepileptikum. Ordinationen er begrænset til neurologer. En patient med vestibulær migræne får derfor kun adgang, hvis kriterierne for kronisk migræne er opfyldt.
+VÆRT: Kan du samle, hvad der har ændret sig de seneste år?
+EKSPERT: Fire punkter. I totusind og nitten var forsøget med metoprolol negativt, men underpowered. I totusind og treogtyve konkluderede begge Cochrane-oversigter, at evidensen er meget svag. I totusind og fireogtyve kom det første placebokontrollerede forsøg med galcanezumab. Og i totusind og femogtyve kom en netværksmetaanalyse, som kun giver moderat sikker evidens for ét middel.
+VÆRT: Og hvad er stadig uafklaret?
+EKSPERT: Hvilken forebyggende behandling der er bedst. Om gepanter virker, hvor der er registreret forsøg. Om anfaldsbehandling med triptaner virker. Og om vestibulær migræne er en selvstændig tilstand eller et spektrum inden for migræne.
+VÆRT: Er der kirurgi?
+EKSPERT: Nej, der er ingen kirurgisk indikation ved vestibulær migræne. Kirurgi hører til differentialdiagnoserne, som tumor og Menière.
+VÆRT: Så til faldgruberne. Hvad kræver handling samme dag?
+EKSPERT: Svimmelhed med nyopstået hovedpine, uklar tale, dobbeltsyn, ustabil gang, udfald fra hjernenerver eller bevidsthedspåvirkning. Især hos patienter med vaskulære risikofaktorer. Så mistænker jeg apopleksi, især i lillehjernen, eller blødning. Akut neurologisk vurdering og billeddiagnostik samme dag.
+VÆRT: Også ved et første anfald?
+EKSPERT: Ja. Mød aldrig et enkelt anfald med, at det nok bare er migræne. Det gælder også patienter i blodfortyndende behandling, hvor tærsklen for akut billeddiagnostik skal være lavere.
+VÆRT: Og alvorlig, men ikke akut sygdom?
+EKSPERT: Ensidigt eller progredierende høretab eller tinnitus. Så skal der audiometri og skanning af hjernen for vestibularisschwannom. Tænk også på nyopstået svimmelhed efter halvtreds år med atypiske træk, eller aftagende respons og nye neurologiske tegn.
+VÆRT: Og de mindre alvorlige fælder?
+EKSPERT: Overudredning med gentagne skanninger hos klassiske forløb. At overse samtidig benign paroksysmal positionel vertigo. At kalde al svimmelhed med hovedpine for vestibulær migræne, uden at kriterierne om fem anfald er opfyldt. Og overbehandling med langvarige dæmpende midler.
+VÆRT: Hvordan fejlfortolker man normale fund?
+EKSPERT: Normale fund mellem anfaldene udelukker ikke diagnosen, de støtter den snarere. Men normal audiometri kan også ses ved tidlig Menière. Patienten skal instrueres i at vende tilbage ved nye neurologiske symptomer, høretab, anfald over tooghalvfjerds timer, hovedtraume eller ændret mønster. Og vær opmærksom på medicinoverforbrug.
+VÆRT: Er der særlige grupper?
+EKSPERT: Børn har egne kriterier. Hos gravide og fødedygtige kvinder undgår man valproat og topiramat. Migræne med aura sammen med østrogenholdig prævention er en kendt risikokombination for apopleksi. Og ældre har højere sandsynlighed for en vaskulær årsag og større faldrisiko ved sløvende og antikolinerge midler.
+VÆRT: Giv mig tre ting, jeg kan tage med på vagten.
+EKSPERT: Ét. Spørg altid til lysfølsomhed, lydfølsomhed og aura under svimmelheden, ikke kun til hovedpine. To. Normal undersøgelse, audiometri og videohovedimpulstest mellem anfald støtter diagnosen, men ensidigt eller progredierende høretab og neurologiske udfald kræver udredning for anden årsag. Tre. Undgå langvarige dæmpende midler, tilbyd rehabilitering og triggerrådgivning, og husk at antistoffer i Danmark kræver kronisk migræne og en neurolog.
+VÆRT: Så er vi nået til quizzen. Første spørgsmål. Hvor mange anfald skal der mindst være, og hvilken varighed skal de have?
+[pause 5]
+EKSPERT: Mindst fem anfald, der varer fra fem minutter til tooghalvfjerds timer. Det er kernen i de diagnostiske kriterier.
+VÆRT: Spørgsmål to. En otteoghalvtreds år gammel mand med forhøjet blodtryk får for første gang svimmelhed, nyopstået hovedpine og dobbeltsyn. Hvad gør du?
+[pause 8]
+EKSPERT: Akut neurologisk vurdering og billeddiagnostik samme dag. Det er mistænkt apopleksi i den bagre cirkulation, og det er ikke vestibulær migræne, før det er udelukket.
+VÆRT: Spørgsmål tre. En enogtredive år gammel kvinde får svimmelhed i få sekunder, når hun vender sig i sengen. Dix-Hallpike giver trætbar nystagmus. Hvilken diagnose er mest sandsynlig?
+[pause 8]
+EKSPERT: Benign paroksysmal positionel vertigo. Korte anfald og trætbar nystagmus peger væk fra vestibulær migræne.
+VÆRT: Spørgsmål fire. Hvor ofte ses nystagmus under et akut anfald, og udelukker fraværet diagnosen?
+[pause 5]
+EKSPERT: Cirka halvfjerds procent. Nej, fravær udelukker ikke diagnosen, fordi nystagmus er variabel og ikke et diagnostisk krav.
+VÆRT: Spørgsmål fem. Hvad viste forsøget med metoprolol, og hvorfor kan det ikke afvise effekt?
+[pause 5]
+EKSPERT: Ingen forskel i anfaldshyppighed. Forsøget stoppede for tidligt med for få patienter, så det kunne ikke afvise en effekt.
+VÆRT: Spørgsmål seks. En fireogfyrre år gammel mand med svimmelhedsanfald får også gradvist ensidigt høretab. Hvad ændrer det?
+[pause 8]
+EKSPERT: Audiometri og skanning af hjernen for vestibularisschwannom, og Menière skal overvejes. Vedvarende ensidigt høretab peger væk fra vestibulær migræne.
+VÆRT: Spørgsmål syv. En patient med vestibulær migræne vil have antistof mod kalcitonin gen-relateret peptid. Hvad kræves i Danmark?
+[pause 5]
+EKSPERT: Kronisk migræne efter svigt af mindst ét blodtrykssænkende middel og ét antiepileptikum, og ordination ved neurolog. Det er Medicinrådets anbefaling.
+VÆRT: Spørgsmål otte. En kvinde på tre og tredive år, der ønsker graviditet, skal have forebyggende behandling. Hvilket middel undgår du?
+[pause 8]
+EKSPERT: Valproat, fordi det er teratogent. Det gælder i praksis også topiramat.
+VÆRT: Lad os opsummere. Vestibulær migræne er en mønsterdiagnose med mindst fem anfald, migræne og migrænetegn, og efter udelukkelse af andre årsager.
+EKSPERT: Normale fund mellem anfald støtter diagnosen. Ensidigt høretab, neurologiske udfald og nyopstået forløb med risikofaktorer kræver udredning for anden årsag.
+VÆRT: Behandlingen er trods alt lånt fra migræne, og evidensen er tynd. Vestibulær rehabilitering og triggerrådgivning er første skridt.
+EKSPERT: Og antistoffer mod kalcitonin gen-relateret peptid er lovende, men i Danmark kræves kronisk migræne. Tak fordi du lyttede.
