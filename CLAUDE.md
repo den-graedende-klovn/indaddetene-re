@@ -8,7 +8,7 @@ Dette repository er Mathias' private studiepodcast "Ind ad det ene øre". Bruger
 2. Gem det som `manuskripter/ÅÅÅÅ-MM-DD-kort-emne.txt` (små bogstaver, bindestreger, ingen æøå i filnavnet).
 3. `git add`, `git commit -m "Afsnit: <emne>"`, `git fetch origin main && git rebase origin/main`, `git push origin HEAD:main`.
 4. Følg kørslen, til trinnet "Lav afsnit" er i gang: `curl -s "https://api.github.com/repos/den-graedende-klovn/indaddetene-re/actions/runs?per_page=3"` og `.../actions/runs/<id>/jobs`. Logfiler kan ikke hentes herfra.
-5. Fortæl brugeren, at afsnittet er på vej, og hvornår det cirka er klar. Beregn tiden ud fra `beregning_pr_lydminut` i `status.json` (cirka 11 minutter pr. lydminut på GitHubs maskiner i oktober 2026) plus cirka 3 minutters opstart. Vent kun på hele kørslen, hvis brugeren beder om det. GitHub mailer brugeren, hvis en kørsel fejler.
+5. Fortæl brugeren, at afsnittet er på vej, og hvornår det cirka er klar. Beregn tiden ud fra `beregning_pr_lydminut` i `status.json` (cirka 12 minutter pr. lydminut på GitHubs maskiner i oktober 2026, så 5 minutters afsnit tager cirka en time og 10 minutters cirka to timer) plus cirka 3 minutters opstart. Vent kun på hele kørslen, hvis brugeren beder om det. GitHub mailer brugeren, hvis en kørsel fejler.
 6. Hvis en kørsel fejler: `git pull` og læs `fejl` i `status.json`.
 
 Ret et afsnit: ret manuskriptet og push. Det får et nyt fingeraftryk og laves om.
@@ -35,7 +35,10 @@ EKSPERT: ...
 ## Skriv til øret (vigtigt for talesyntesen)
 
 - Dialog, ikke monolog. Værten har cirka en fjerdedel af ordene. Ingen tom snak eller overdreven begejstring.
-- Længde: cirka 700 til 800 ord giver cirka 5 minutter.
+- Længde: 5 minutter, medmindre brugeren angiver andet (fx "podcast 10min"). Regn med cirka 130 ord pr. minut inklusive pauser: 5 minutter er cirka 650 ord, 10 minutter cirka 1300 ord. Målt på afsnittet om persisterende postural-perceptuel svimmelhed: 650 ord gav 5 minutter og 21 sekunder.
+- Skaler indholdet med længden: to lytterspørgsmål ved 5 minutter, tre til fire ved 10 minutter og derover. Ved længere afsnit uddybes differentialdiagnostik, udredning og faldgruber, ikke indledningen.
+- Hvis gennemgangen ikke rækker til den ønskede længde, må stof fra gennemgangens egne kilder bruges, men ingen påstande uden kilde. Rækker det stadig ikke, så gør afsnittet kortere og sig det til brugeren.
+- Afsnit over cirka 25 minutter når ikke at blive færdige inden for GitHubs grænse på seks timer. Del dem i to manuskripter (fx "del 1" og "del 2").
 - Ingen akronymer eller forkortelser. Skriv alt ud: "computertomografi", "ultralyd", "human papillomavirus".
 - Tal skrives med bogstaver: "fireoghalvtreds år", "tre uger". Ingen procenttegn, skråstreger, parenteser, punktopstillinger eller symboler.
 - Latinske termer må gerne bruges, men kun når de er nødvendige, og gerne med den danske betegnelse ved siden af.
