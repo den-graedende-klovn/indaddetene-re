@@ -1,0 +1,137 @@
+titel: Vestibulær paroksysmi
+beskrivelse: Hyppige, korte og stereotype svimmelhedsanfald. Kriterier fra Bárány Society, differentialdiagnoser, udredning, behandling med natriumkanalblokkere, evidensen og en lang quiz til sidst.
+motor: roest
+kilder:
+- Vestibular paroxysmia: Diagnostic criteria, Classification Committee of the Bárány Society, Journal of Vestibular Research, 2016, https://pmc.ncbi.nlm.nih.gov/articles/PMC9249278
+- Vestibular paroxysmia: a systematic review, Dieterich og Brandt, Journal of Neurology, 2025, https://pmc.ncbi.nlm.nih.gov/articles/PMC11814022
+- Vestibular Paroxysmia with Neurovascular Cross Compression and Antiepileptic Drugs: A Systematic Review, Reynard m.fl., Audiology Research, 2025, https://www.mdpi.com/2039-4349/15/2/28
+- Sodium Channel Blockers for Vestibular Paroxysmia in Children, Audiology Research, 2025, https://www.mdpi.com/2039-4349/15/3/65
+- A randomized double-blind, placebo-controlled, cross-over trial (Vestparoxy) of the treatment of vestibular paroxysmia with oxcarbazepine, Bayer m.fl., Journal of Neurology, 2018, https://pmc.ncbi.nlm.nih.gov/articles/PMC5808055
+- Vestibular paroxysmia: Long-term clinical outcome after treatment, Chen m.fl., Frontiers in Neurology, 2022, https://pmc.ncbi.nlm.nih.gov/articles/PMC9614226
+- Vestibular paroxysmia: diagnostic features and medical treatment, Hüfner m.fl., 2008, https://pubmed.ncbi.nlm.nih.gov/18809837/
+- Vestibular paroxysmia: a treatable neurovascular cross-compression syndrome, Brandt, Strupp og Dieterich, Journal of Neurology, 2016, https://pmc.ncbi.nlm.nih.gov/articles/PMC4833786
+- Treatment of vestibular paroxysmia with lacosamide, Neurology: Clinical Practice, https://pmc.ncbi.nlm.nih.gov/articles/PMC6927438
+- Vestibular paroxysmia: Clinical features and imaging findings; a literature review, 2021, https://www.em-consulte.com/article/1463856/vestibular-paroxysmia-clinical-features-and-imagin
+- Radiological and intraoperative findings of a rare case of vestibular paroxysmia, Neurological Sciences, 2024, https://link.springer.com/10.1007/s10072-024-07695-2
+- Dansk Selskab for Otorhinolaryngologi, Hoved- og Halskirurgi, Vestibulogi, kliniske retningslinjer, ingen retningslinje for vestibulær paroksysmi, https://dsohh.dk/publikationer/kliniske-retningslinjer/vestibulogi/
+---
+VÆRT: Velkommen til Ind ad det ene øre. I dag handler det om vestibulær paroksysmi. Vi starter med en case.
+VÆRT: En mand på tooghalvtreds år kommer i ambulatoriet. I flere måneder har han haft mange korte svimmelhedsanfald hver dag. Hvert anfald varer få sekunder. Han har også en fornemmelse af susen i det ene øre. Hvad tænker du?
+EKSPERT: Jeg lægger mærke til varigheden. Sekunder, mange gange om dagen, og altid den samme oplevelse. Det peger på vestibulær paroksysmi. Men først skal vi udelukke noget farligere.
+VÆRT: Før vi går i detaljer, så fortæl lige, hvad du kunne finde af retningslinjer.
+EKSPERT: Der findes ingen dansk eller nordisk retningslinje for tilstanden. Dansk Selskab for Otorhinolaryngologi, Hoved og Halskirurgi har retningslinjer for Menières sygdom og for neuritis vestibularis, men ikke for denne.
+EKSPERT: Vi bygger derfor på de diagnostiske kriterier fra Bárány Society fra to tusind og seksten. Dem har vi altså brugt i ti år. Dertil kommer en systematisk oversigt fra to tusind og femogtyve og primære studier.
+VÆRT: Så hvor placerer tilstanden sig blandt de andre anfaldsvise svimmelheder?
+EKSPERT: Vi skal sondre mod en række tilstande, og varigheden er nøglen. Menières sygdom giver anfald på tyve minutter til timer, med svingende høretab, tinnitus og øretryk. Vestibulær paroksysmi varer sekunder til under et minut.
+EKSPERT: Vestibulær migræne varer minutter til dage og kommer med migrænetræk som hovedpine og lysfølsomhed. Benign paroksysmal positionel svimmelhed udløses af positionsskift, varer sekunder og viser typisk nystagmus ved Dix Hallpike eller rulletest.
+VÆRT: Men positionsudløst kan jo også ligne, hvis anfaldene kommer ved hovedvending.
+EKSPERT: Netop. Nogle patienter med vestibulær paroksysmi har anfald, der udløses af hovedvending. Derfor skal man altid lave positionsprøver, før man går videre.
+EKSPERT: Så har vi de farlige. Paroksysmale hjernestammeanfald ved dissemineret sklerose eller efter hjernestammeinfarkt giver centrale tegn og andre hjernenervesymptomer. Epileptisk vestibulær aura giver bevidsthedspåvirkning eller automatismer.
+EKSPERT: Dehiscens af den superiore buegang udløses af lyd eller tryk og påvises med højopløselig computertomografi. Transitorisk cerebral iskæmi og panikanfald nævner Bárány Society også som differentialdiagnoser.
+VÆRT: Er det så en lang liste, man skal igennem hver gang?
+EKSPERT: Ikke helt. Dieterich og Brandt vurderer, at nogle af dem kun er relevante i undtagelsestilfælde, fordi anfaldene er så hyppige og korte og har audiovestibulære symptomer. Men man skal kende dem.
+VÆRT: Giv mig kerneessensen.
+EKSPERT: Vestibulær paroksysmi er en sjælden tilstand med hyppige, korte, stereotype vertigoanfald. Den skyldes formodentlig irritation af den proksimale del af ottende hjernenerve, oftest ved kompression fra et pulserende kar.
+EKSPERT: Den ses hos cirka tre ud af hundrede patienter på et tertiært svimmelhedscenter. Typisk begynder den mellem syvogfyrre og enoghalvtreds år, og kønnene er ramt lige hyppigt. Den er vigtig, fordi den kan behandles effektivt, men ofte forveksles med andet.
+VÆRT: Hvad sker der i nerven?
+EKSPERT: Der er en overgangszone, hvor nervens centrale myelin går over i perifert myelin. Den ligger tæt på hjernestammen og er særlig sårbar for mekanisk påvirkning.
+EKSPERT: Når et kar pulserer mod nerven, kan der opstå såkaldte ephaptiske udladninger. Det er unormal krydsaktivering mellem nervefibre. Mere sjældent ses ledningsblok. Mekanismen formodes at ligne trigeminusneuralgi og hemifacial spasme.
+VÆRT: Hvilket kar er det typisk?
+EKSPERT: Oftest arteria cerebelli inferior anterior. Sjældnere arteria cerebelli inferior posterior, arteria vertebralis eller en vene. Man skelner mellem tre former. Klassisk, med neurovaskulær kompression. Sekundær, hvor en proces i cerebellopontin vinkel trykker på nerven, for eksempel en tumor eller cyste. Og idiopatisk.
+VÆRT: Og her er der en vigtig modvægt, ikke?
+EKSPERT: Ja. Kompression på skanning er ikke diagnostisk og siger ikke noget om, hvilken side der er syg. Bárány Society påpeger, at man ser vaskulær kompression hos cirka tredive ud af hundrede raske uden symptomer.
+VÆRT: Så anamnesen er det vigtigste. Hvad spørger du til?
+EKSPERT: Først varigheden. Sekunder til under et minut peger mod vestibulær paroksysmi. Minutter til timer peger mod Menière eller vestibulær migræne.
+EKSPERT: Så hyppigheden. Op til tredive eller flere anfald om dagen er typisk. Mange daglige korte anfald peger mod vestibulær paroksysmi og væk fra Menière og migræne.
+EKSPERT: Så stereotypien. Er det den samme oplevelse hver gang hos den enkelte patient? Så peger det mod tilstanden og væk fra positionel svimmelhed, hvor oplevelsen varierer med position.
+VÆRT: Hvad med udløsere?
+EKSPERT: I Hüfners opfølgning af toogtredive patienter kom anfaldene udelukkende i hvile hos otteogtyve ud af hundrede. Hos toogtyve ud af hundrede blev de regelmæssigt udløst af en bestemt handling, oftest hovedvending. Spontane anfald peger mod vestibulær paroksysmi.
+EKSPERT: Udelukkende positionsudløste anfald peger mod positionel svimmelhed. Hyperventilation kan også fremkalde anfald.
+VÆRT: Hvordan beskriver patienterne selve anfaldet?
+EKSPERT: Drejende eller ikke drejende svimmelhed, ofte med ustabilitet. Usikkerhed i stand eller gang var det hyppigste ledsagesymptom, hos fem og halvfjerds ud af hundrede.
+EKSPERT: Kvalme, opkastning, bevidsthedstab og fald er utypiske. Hvis de er til stede, skal man tænke på andre diagnoser.
+VÆRT: Og øret?
+EKSPERT: Ensidig tinnitus, hyperakusi, en trykfornemmelse eller prikken i øret, eventuelt ensidigt høretab. Det kan optræde under anfaldene eller imellem dem. Det peger mod vestibulær paroksysmi. Men husk siden. Den kan også pege mod sekundær form.
+EKSPERT: Vedvarende, tiltagende høretab peger mod tumor eller Menière. Hovedpine og migrænehistorik peger mod vestibulær migræne. Hemifacial spasme eller trigeminusneuralgi sammen med anfaldene støtter en neurovaskulær mekanisme.
+VÆRT: Hvordan undersøger du ham?
+EKSPERT: Først en neurologisk og otologisk undersøgelse i den anfaldsfri periode. Hjernenerver, øjenbevægelser, spontan nystagmus og gang. Fokale fund peger væk fra tilstanden og mod en central årsag.
+EKSPERT: Så en hyperventilationstest med Frenzelbriller. I Hüfners materiale fandt man hyperventilationsudløst nystagmus hos syv ud af ti af de testede. En positiv test støtter diagnosen. En negativ udelukker den ikke.
+VÆRT: Og de vestibulære prøver og høreprøven?
+EKSPERT: Audiometri og vestibulær funktionstest. Resultaterne er heterogene. De kan være normale, vise ensidigt nedsat funktion eller samtidig tegn på både nedsat og øget funktion i samme nerve. Normale fund udelukker ikke diagnosen.
+EKSPERT: Asymmetrisk sensorineuralt høretab skal afklares for retrocochleær patologi.
+VÆRT: Og skanningen?
+EKSPERT: Magnetisk resonans skanning af cerebellopontin vinkel og indre øregang med højopløselige sekvenser. Dieterich og Brandt kalder billeddannelse af bageste fossa, inklusive det indre øre, obligatorisk for at skelne klassisk, sekundær og idiopatisk form.
+EKSPERT: En litteraturoversigt fra to tusind og enogtyve fandt tredimensionel højopløselig sekvens, der fremhæver nerver og kar, overlegen til at vise neurovaskulær kontakt. Kompression støtter, men beviser ikke. Fravær af kompression udelukker ikke idiopatisk form. Tumor eller cyste definerer sekundær form.
+VÆRT: Hvordan lyder kriterierne fra Bárány Society?
+EKSPERT: For definitiv vestibulær paroksysmi kræves mindst ti anfald af spontan, drejende eller ikke drejende svimmelhed. Varighed under et minut. Stereotyp oplevelse hos den enkelte patient. Respons på carbamazepin eller oxcarbazepin. Og ikke bedre forklaret af anden diagnose.
+EKSPERT: For sandsynlig vestibulær paroksysmi kræves mindst fem anfald, varighed under fem minutter, spontane eller udløst af bestemte hovedbevægelser, stereotypi og ingen bedre forklaring. Her kræves ikke behandlingsrespons. Kategorien kan derfor bruges ved første konsultation.
+VÆRT: Så behandlingsrespons er en del af selve diagnosen?
+EKSPERT: Ja, og det er en svaghed. Kriteriet er delvist cirkulært. Diagnosen defineres af, at behandlingen virker.
+VÆRT: Så til behandlingen.
+EKSPERT: Førstevalg er carbamazepin eller oxcarbazepin. Det er evidensbaseret, men evidensniveauet er lavt. Begge virker selv ved lave doser. Dieterich og Brandt nævner også lacosamid som praktisk mulighed.
+EKSPERT: I Hüfners opfølgning faldt anfaldsfrekvensen til cirka en tiendedel af udgangspunktet. Intensiteten faldt til knap en sjettedel, og varigheden til cirka en niendedel.
+VÆRT: Findes der et randomiseret forsøg?
+EKSPERT: Kun ét. Vestparoxy fra to tusind og atten, et placebokontrolleret krydsforsøg med oxcarbazepin. Treogfyrre patienter blev randomiseret, men kun atten gav brugbare data.
+EKSPERT: Risikoen for en dag med mindst ét anfald var lidt over fire ud af ti under oxcarbazepin og lidt over seks ud af ti under placebo. Antallet af anfald var næsten halveret. Frafaldet var cirka tre ud af fem.
+VÆRT: Det er et lille forsøg.
+EKSPERT: Ja, og lige præcis derfor er evidensen tynd. Men effekten er konsistent med de observationelle studier.
+EKSPERT: Chen og kolleger fulgte niogtyve patienter, som alle startede på oxcarbazepin. Næsten alle rapporterede god til fremragende effekt efter to uger, og alle efter fire uger. Ved langtidsopfølgning fra otte til seksoghalvtreds måneder bevarede godt otte ud af ti effekten ved lave doser.
+VÆRT: Og kompressionen på skanning, forudsagde den respons?
+EKSPERT: Nej. Næsten to tredjedele havde kompression, men tilstedeværelsen forudsagde hverken behandlingsrespons eller remission. Det udfordrer ideen om, at skanningen skal styre behandlingen.
+VÆRT: Hvad hvis patienten ikke tåler det?
+EKSPERT: Lacosamid er et alternativ. I en lille observationel serie faldt antallet af anfald fra gennemsnitligt tretten til tre om måneden, med få bivirkninger. Men serien var lille og ukontrolleret, så evidensen er svag.
+EKSPERT: Andre stoffer som lamotrigin, phenytoin, gabapentin, topiramat og baclofen hviler på meget lav evidens.
+VÆRT: Hvor længe skal man behandle?
+EKSPERT: Det er uafklaret. Chen og kolleger foreslår, at man kan overveje seponering efter en symptomfri periode, for eksempel seks måneder, fordi nogle patienter forbliver i remission. Det er forfatternes forslag og ikke en retningslinje.
+VÆRT: Og bivirkninger?
+EKSPERT: Her er det almen farmakologi, som ikke er verificeret i de kilder, vi fandt. Carbamazepin og oxcarbazepin kan give for lavt natrium, svimmelhed, døsighed og udslæt, også sjældne alvorlige hudreaktioner. Carbamazepin giver desuden påvirkning af lever og blod og kraftig enzyminduktion. Oxcarbazepin tåles generelt bedre.
+VÆRT: Og kirurgi?
+EKSPERT: Mikrovaskulær dekompression er effektiv ved sekundær form. Ved klassisk eller idiopatisk form er den sidste udvej, når medicin ikke tåles. En kasuistik anbefaler, at siden for tinnitus eller høretab stemmer overens med siden for kompression på skanning, før man overvejer operation. Evidensen er kasuistisk.
+VÆRT: Så til faldgruberne. Hvad skal ikke overses?
+EKSPERT: De akutte først. Svimmelhed med nye neurologiske udfald, dobbeltsyn, taleforstyrrelse, ataksi, kraftig hovedpine eller pludselig døvhed. Så mistænker man central årsag, for eksempel hjernestammeinfarkt. Det er en akut indlæggelse og neurologisk vurdering samme dag.
+EKSPERT: Bevidsthedstab eller automatismer under anfald giver mistanke om epilepsi, og patienten henvises akut til neurologi. Vestibulær paroksysmi er altså ikke i sig selv akut. Hvis anfaldene er nye og atypiske, skal man først udelukke det farlige.
+VÆRT: Og det alvorlige, men ikke akutte?
+EKSPERT: Tiltagende ensidigt høretab eller asymmetrisk audiometri sammen med korte svimmelhedsanfald giver mistanke om vestibularisschwannom eller anden proces i cerebellopontin vinkel. Det udløser magnetisk resonans skanning med kontrast inden for dage til uger.
+EKSPERT: Hjernenerver som facialis og trigeminus kan også være involveret. Et specifikt dansk pakkeforløb har jeg ikke kunnet verificere, så følg lokal praksis.
+VÆRT: Hvilke fælder er der i håndteringen?
+EKSPERT: Normale vestibulære prøver og normal skanning udelukker ikke tilstanden. Respons på carbamazepin er heller ikke specifik. Et japansk kasuistisk arbejde beskriver respons hos patienter, der ikke opfyldte kriterierne.
+EKSPERT: Patienten skal vide, at man ikke stopper medicinen pludseligt. Og at man vender tilbage ved udslæt, feber, mundsår, gulsot, markant døsighed eller forvirring, nye neurologiske symptomer og ved graviditetsønske.
+VÆRT: Og særlige grupper?
+EKSPERT: Hos børn er tilstanden meget sjælden. En oversigt fra to tusind og femogtyve rapporterer lovende effekt af natriumkanalblokkere, men kun carbamazepin og oxcarbazepin er brugt, og evidensen er meget begrænset.
+EKSPERT: Kvinder i den fertile alder skal have rådgivning inden opstart, fordi stofferne er fosterskadende og kan påvirke prævention. Hos ældre er der større risiko for lavt natrium, ustabilitet og fald. Hos antikoagulerede og immunsupprimerede giver enzyminduktion interaktioner. Det er almen farmakologi.
+VÆRT: Hvad er nyt, og hvad er uafklaret?
+EKSPERT: I to tusind og femogtyve udkom Dieterich og Brandts systematiske oversigt. De understreger, at randomiserede forsøg stadig mangler. En anden oversigt af Reynard og kolleger inkluderede kun syv studier og fandt manglende data i større materialer.
+EKSPERT: Uafklaret er behandlingsvarighed og seponering, værdien af skanning som kriterium, indikationen for operation og hvem der har gavn af lacosamid. Et større veldesignet forsøg findes ikke, så vidt jeg kunne finde.
+VÆRT: Tre perler til vagten?
+EKSPERT: Et. Under et minut, mange gange om dagen, stereotypt og uden kvalme eller bevidsthedstab, så tænk vestibulær paroksysmi. Men udeluk først de farlige.
+EKSPERT: To. Kar og nerve i kontakt på skanning beviser ikke diagnosen, og normal skanning udelukker den ikke. Stol på anamnesen og tag asymmetrisk høretab alvorligt.
+EKSPERT: Tre. Start forsigtigt med carbamazepin eller oxcarbazepin, og husk natrium og interaktioner. Respons inden for få uger støtter diagnosen.
+VÆRT: Nu til quizzen. Jeg stiller spørgsmålet, du venter lidt, og så kommer svaret.
+VÆRT: Første spørgsmål. Hvad er det afgørende klinisk skel mellem vestibulær paroksysmi og Menières sygdom?
+[pause 5]
+EKSPERT: Varigheden af anfaldene. Vestibulær paroksysmi varer sekunder til under et minut, Menière tyve minutter til timer. Desuden har Menière svingende høretab og øretryk.
+VÆRT: Andet spørgsmål. Hvor stor en andel af raske uden symptomer har kompression af nerven på skanning?
+[pause 5]
+EKSPERT: Cirka tredive ud af hundrede. Derfor er kompression på skanning hverken diagnostisk eller side forudsigende.
+VÆRT: Tredje spørgsmål, en case. En kvinde på femoghalvtreds år har fem gange om dagen få sekunder med svimmelhed og tinnitus i venstre øre. Normal skanning og normale vestibulære prøver. Kan du udelukke vestibulær paroksysmi?
+[pause 8]
+EKSPERT: Nej. Normale prøver og normal skanning udelukker ikke tilstanden, og idiopatisk form findes. Anamnesen og behandlingsrespons er afgørende.
+VÆRT: Fjerde spørgsmål. Hvad kræves for sandsynlig vestibulær paroksysmi, men ikke for definitiv?
+[pause 5]
+EKSPERT: Mindst fem anfald, varighed under fem minutter, og behandlingsrespons kræves ikke. Definitiv kræver mindst ti anfald, under et minut og respons på carbamazepin eller oxcarbazepin.
+VÆRT: Femte spørgsmål. Hvilket randomiseret forsøg findes, og hvad var dets svaghed?
+[pause 5]
+EKSPERT: Vestparoxy, placebokontrolleret krydsforsøg med oxcarbazepin. Det var lille, kun atten gav brugbare data, og frafaldet var højt.
+VÆRT: Sjette spørgsmål, en case. En mand har korte svimmelhedsanfald og et tiltagende ensidigt høretab. Hvad er næste skridt?
+[pause 8]
+EKSPERT: Magnetisk resonans skanning med kontrast inden for dage til uger. Tiltagende ensidigt høretab giver mistanke om vestibularisschwannom eller anden proces i cerebellopontin vinkel, altså sekundær form.
+VÆRT: Syvende spørgsmål. Patienten tåler ikke carbamazepin og oxcarbazepin. Hvad er et alternativ, og hvor stærk er evidensen?
+[pause 8]
+EKSPERT: Lacosamid. Evidensen er svag, en lille, ukontrolleret observationel serie, men med få bivirkninger.
+VÆRT: Ottende spørgsmål. Forudsagde kompression på skanning behandlingsrespons i Chens langtidsstudie, og hvad betyder det?
+[pause 5]
+EKSPERT: Nej, hverken respons eller remission. Det udfordrer ideen om, at skanningen skal styre behandlingen.
+VÆRT: Lad os opsummere. Vestibulær paroksysmi er hyppige, korte, stereotype anfald, formodentlig fra irritation af ottende hjernenerve, ofte ved karkompression. Diagnosen hviler på anamnesen, og skanningen støtter, men beviser ikke.
+VÆRT: Førstevalg er carbamazepin eller oxcarbazepin, med lavt evidensniveau, men god klinisk effekt. Udeluk først de akutte og alvorlige årsager, og tag asymmetrisk høretab alvorligt.
+VÆRT: Tak fordi du lyttede.
+[pause 3]
