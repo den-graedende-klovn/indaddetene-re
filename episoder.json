@@ -59,5 +59,33 @@
     "bytes": 8174015,
     "sekunder": 1021.6,
     "udgivet": "2026-10-15T22:42:07+00:00"
+  },
+  {
+    "id": "2026-10-16-vestibulaer-paroksysmi",
+    "guid": "2026-10-16-vestibulaer-paroksysmi-b6c30a85",
+    "titel": "Vestibulær paroksysmi",
+    "beskrivelse": "Hyppige, korte og stereotype svimmelhedsanfald. Kriterier fra Bárány Society, differentialdiagnoser, udredning, behandling med natriumkanalblokkere, evidensen og en lang quiz til sidst.",
+    "kilder": [
+      "Vestibular paroxysmia: Diagnostic criteria, Classification Committee of the Bárány Society, Journal of Vestibular Research, 2016, https://pmc.ncbi.nlm.nih.gov/articles/PMC9249278",
+      "Vestibular paroxysmia: a systematic review, Dieterich og Brandt, Journal of Neurology, 2025, https://pmc.ncbi.nlm.nih.gov/articles/PMC11814022",
+      "Vestibular Paroxysmia with Neurovascular Cross Compression and Antiepileptic Drugs: A Systematic Review, Reynard m.fl., Audiology Research, 2025, https://www.mdpi.com/2039-4349/15/2/28",
+      "Sodium Channel Blockers for Vestibular Paroxysmia in Children, Audiology Research, 2025, https://www.mdpi.com/2039-4349/15/3/65",
+      "A randomized double-blind, placebo-controlled, cross-over trial (Vestparoxy) of the treatment of vestibular paroxysmia with oxcarbazepine, Bayer m.fl., Journal of Neurology, 2018, https://pmc.ncbi.nlm.nih.gov/articles/PMC5808055",
+      "Vestibular paroxysmia: Long-term clinical outcome after treatment, Chen m.fl., Frontiers in Neurology, 2022, https://pmc.ncbi.nlm.nih.gov/articles/PMC9614226",
+      "Vestibular paroxysmia: diagnostic features and medical treatment, Hüfner m.fl., 2008, https://pubmed.ncbi.nlm.nih.gov/18809837/",
+      "Vestibular paroxysmia: a treatable neurovascular cross-compression syndrome, Brandt, Strupp og Dieterich, Journal of Neurology, 2016, https://pmc.ncbi.nlm.nih.gov/articles/PMC4833786",
+      "Treatment of vestibular paroxysmia with lacosamide, Neurology: Clinical Practice, https://pmc.ncbi.nlm.nih.gov/articles/PMC6927438",
+      "Vestibular paroxysmia: Clinical features and imaging findings; a literature review, 2021, https://www.em-consulte.com/article/1463856/vestibular-paroxysmia-clinical-features-and-imagin",
+      "Radiological and intraoperative findings of a rare case of vestibular paroxysmia, Neurological Sciences, 2024, https://link.springer.com/10.1007/s10072-024-07695-2",
+      "Dansk Selskab for Otorhinolaryngologi, Hoved- og Halskirurgi, Vestibulogi, kliniske retningslinjer, ingen retningslinje for vestibulær paroksysmi, https://dsohh.dk/publikationer/kliniske-retningslinjer/vestibulogi/"
+    ],
+    "manuskript": "2026-10-16-vestibulaer-paroksysmi.txt",
+    "fingeraftryk": "b6c30a85",
+    "motor": "roest",
+    "motor_navn": "Røst",
+    "fil": "afsnit/2026-10-16-vestibulaer-paroksysmi-b6c30a85.mp3",
+    "bytes": 8653003,
+    "sekunder": 1081.5,
+    "udgivet": "2026-10-16T11:32:27+00:00"
   }
 ]

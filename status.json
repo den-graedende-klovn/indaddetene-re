@@ -1,25 +1,25 @@
 {
-  "start": "2026-10-15T19:54:02+00:00",
+  "start": "2026-10-16T08:57:38+00:00",
   "maskine": "runnervm8k3b6 (x86_64)",
   "afsnit": [
     {
-      "id": "2026-10-15-vestibulaer-migraene",
+      "id": "2026-10-16-vestibulaer-paroksysmi",
       "handling": "lavet",
       "motor": "roest",
-      "lyd_sekunder": 1021.6,
-      "tegn": 15164,
-      "beregning_sekunder": 10046.7
+      "lyd_sekunder": 1081.5,
+      "tegn": 15902,
+      "beregning_sekunder": 9258.9
     }
   ],
   "motorer": {
     "roest": {
-      "opstart_sekunder": 38.0,
-      "lyd_sekunder": 914.7,
-      "beregning_sekunder": 10022.9,
-      "beregning_pr_lydminut": 657.4,
+      "opstart_sekunder": 29.8,
+      "lyd_sekunder": 981.6,
+      "beregning_sekunder": 9237.5,
+      "beregning_pr_lydminut": 564.6,
       "genforsoeg": 0
     }
   },
   "fejl": [],
-  "slut": "2026-10-15T22:42:07+00:00"
+  "slut": "2026-10-16T11:32:27+00:00"
 }
