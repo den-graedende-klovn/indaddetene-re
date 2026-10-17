@@ -17,6 +17,7 @@ Afprøvning:
 
 import re
 import sys
+import unicodedata
 from pathlib import Path
 
 ROD = Path(__file__).resolve().parent.parent
@@ -71,6 +72,19 @@ REGLER = [
 REGLER = [(re.compile(m), e) for m, e in REGLER]
 
 
+# Accenter ignoreres i undtagelser, så "Menière" også rammer "Ménière". æ, ø og å er egne bogstaver.
+_VARIANTER = {
+    "a": "aáàâäã", "e": "eéèêë", "i": "iíìîï", "o": "oóòôõö", "u": "uúùûü", "y": "yýÿü", "c": "cç", "n": "nñ",
+}
+
+
+def _bogstav(t):
+    if t.lower() in "æøå":
+        return re.escape(t)
+    grund = unicodedata.normalize("NFKD", t.lower())[0]
+    return f"[{_VARIANTER[grund]}]" if grund in _VARIANTER else re.escape(t)
+
+
 class Undtagelser:
     def __init__(self, sti=UNDTAGELSESFIL):
         self.erstatninger = []  # (regex, erstatning)
@@ -96,7 +110,7 @@ class Undtagelser:
     @staticmethod
     def _monster(term):
         start_fri, slut_fri = term.startswith("*"), term.endswith("*")
-        kerne = r"\s+".join(re.escape(d) for d in term.strip("*").split())
+        kerne = r"\s+".join("".join(_bogstav(t) for t in d) for d in term.strip("*").split())
         foer = "" if start_fri else f"(?<![{L}])"
         efter = "" if slut_fri else f"(?![{L}])"
         return re.compile(foer + kerne + efter, re.IGNORECASE)

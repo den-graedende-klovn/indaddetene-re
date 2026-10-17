@@ -12,8 +12,8 @@
 
 latin: caput, facies, caries, ascendens, descendens
 
-# Sammensatte ord med cochlea (cochleaimplantat, cochleær)
-cochle* = kokle
+# cochlea i alle sammensætninger (cochleaimplantat, cochleær, retrocochleær)
+*cochle* = kokle
 
 # Danske ord, der ligner latin, men skal læses som normalt
 computer* = computer

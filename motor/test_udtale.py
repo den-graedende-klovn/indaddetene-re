@@ -79,7 +79,7 @@ def main():
 
     with tempfile.NamedTemporaryFile("w", suffix=".txt", delete=False, encoding="utf-8") as f:
         f.write("oropharynx = oro-farynks\nnervus vestibulocochlearis = nervus vestibulo-koklearis\n"
-                "cochle* = kokle\nfascia = fascia\nlatin: caput\n")
+                "cochle* = kokle\nfascia = fascia\nlatin: caput\nMenière* = menjær\n")
     und = Undtagelser(Path(f.name))
     tilfaelde = {
         "Oropharynx og larynx.": "Oro-farynks og larynks.",
@@ -87,6 +87,7 @@ def main():
         "Et cochleaimplantat.": "Et kokleaimplantat.",
         "Fascia og cella.": "Fascia og sella.",
         "Caput.": "Kaput.",
+        "Ménière og Menières sygdom.": "Menjær og Menjærs sygdom.",
     }
     for o, f_ in tilfaelde.items():
         r, _ = til_tale(o, und=und)

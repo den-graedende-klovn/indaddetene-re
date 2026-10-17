@@ -45,6 +45,7 @@ EKSPERT: ...
 - Latinske termer må gerne bruges, men kun når de er nødvendige, og gerne med den danske betegnelse ved siden af.
 - Korte sætninger, højst cirka 25 ord. Røst-motoren deler ved punktum.
 - Ingen doser i lyden.
+- Foretræk danske betegnelser frem for engelske i lyden: "hovedimpulstest", "Bárány-selskabet", "calcitonin-genrelateret peptid", "Menières sygdom" (ikke "Menière's"). Engelske titler på spørgeskemaer, selskaber og studier omskrives på dansk. De må gerne stå i kilderne.
 - Struktur: åbning med case, kernen (anamnese, fund, udredning, behandling), faldgruber, quiz, kort opsummering.
 - Undgå tankestreger.
 
@@ -69,6 +70,9 @@ Udtalelaget (`motor/udtale.py`) omskriver latinske og medicinske ord til dansk l
 - Ikke med: eu (Anatomionline siger æw, men ordbøger og klinisk praksis siger øw, som modellen gør i forvejen), au (læses allerede rigtigt), adskilte vokaler i -eus og -eum, og tryk, som ikke kan styres med stavning.
 - Ændringerne for hvert afsnit står i `status.json` under `udtale`. Test: `python motor/test_udtale.py`.
 - `udtale: fra` i manuskriptets hoved slår begge lag fra (bruges til udtaletests).
+
+- `udtale/kandidater.md` er arbejdslisten over ord, der kan blive udtalt forkert, med forslag og status. Hold den opdateret.
+- Accenter ignoreres i undtagelser, så `Menière*` også rammer "Ménière".
 
 ### Når brugeren hører et ord udtalt forkert
 1. Tilføj en linje i `udtale/undtagelser.txt`, fx `oropharynx = orofarynks`. Brug `*` til sammensatte ord (`cochle* = kokle`). Skriv lydskriften med almindelig dansk stavning.

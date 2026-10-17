@@ -1,9 +1,10 @@
-titel: Udtaletest: før og efter de nye regler
-beskrivelse: Seksten termer. Eksperten siger hvert ord to gange, først som det staves og derefter efter de nye udtaleregler. Notér numrene, hvor den første udgave lyder bedst.
+titel: Udtaletest: før og efter
+beskrivelse: Hvert ord siges to gange, først som det staves og derefter med den nye udtale. Del et, nummer et til femten, er latinske ord efter de faste regler. Del to, nummer seksten til femogtredive, er forslag til undtagelser. 1: Oropharynx. 2: Cochlea. 3: Nervus vestibulocochlearis. 4: Nervus facialis. 5: Processus mastoideus. 6: Chorda tympani. 7: Concha nasalis. 8: Oesophagus. 9: Cholesteatoma. 10: Otosclerosis. 11: Streptococcus pneumoniae. 12: Moraxella catarrhalis. 13: Haemophilus influenzae. 14: Vestibularisschwannom. 15: Arteria cerebelli inferior anterior. 16: Menières sygdom. 17: Dix-Hallpike. 18: Cochrane. 19: Hüfner. 20: Dieterich. 21: Schell. 22: Chen. 23: Frenzelbriller. 24: Head impulse test. 25: Test of skew. 26: Dizziness. 27: Bárány Society. 28: Calcitonin gene-related peptide. 29: Phenytoin. 30: Ephaptiske. 31: Otorhinolaryngologi. 32: Dehiscens. 33: Quizzen. 34: Galcanezumab. 35: Methylprednisolon.
 motor: roest
 udtale: fra
 ---
-VÆRT: Udtaletest. For hvert ord siger eksperten det først, som det staves, og derefter efter de nye udtaleregler.
+VÆRT: Udtaletest. For hvert ord siger eksperten det først, som det staves, og derefter med den nye udtale.
+VÆRT: Del et. Latinske ord efter de faste regler.
 VÆRT: Ord nummer et.
 EKSPERT: Oropharynx.
 [pause 0.8]
@@ -61,11 +62,88 @@ EKSPERT: Vestibularisschwannom.
 [pause 0.8]
 EKSPERT: Vestibularissjvannom.
 VÆRT: Ord nummer femten.
-EKSPERT: Planocellulært karcinom.
+EKSPERT: Arteria cerebelli inferior anterior.
 [pause 0.8]
-EKSPERT: Planocellulært karsinom.
+EKSPERT: Arteria serebelli inferior anterior.
+VÆRT: Del to. Navne, engelske udtryk og lægemidler med forslag til udtale.
 VÆRT: Ord nummer seksten.
-EKSPERT: Ménière.
+EKSPERT: Menières sygdom.
 [pause 0.8]
-EKSPERT: Menjær.
-VÆRT: Det var testen.
+EKSPERT: Menjærs sygdom.
+VÆRT: Ord nummer sytten.
+EKSPERT: Dix-Hallpike.
+[pause 0.8]
+EKSPERT: Diks-Hålpajk.
+VÆRT: Ord nummer atten.
+EKSPERT: Cochrane.
+[pause 0.8]
+EKSPERT: Kokren.
+VÆRT: Ord nummer nitten.
+EKSPERT: Hüfner.
+[pause 0.8]
+EKSPERT: Hyfner.
+VÆRT: Ord nummer tyve.
+EKSPERT: Dieterich.
+[pause 0.8]
+EKSPERT: Diterik.
+VÆRT: Ord nummer enogtyve.
+EKSPERT: Schell.
+[pause 0.8]
+EKSPERT: Sjell.
+VÆRT: Ord nummer toogtyve.
+EKSPERT: Chen.
+[pause 0.8]
+EKSPERT: Tjen.
+VÆRT: Ord nummer treogtyve.
+EKSPERT: Frenzelbriller.
+[pause 0.8]
+EKSPERT: Frentselbriller.
+VÆRT: Ord nummer fireogtyve.
+EKSPERT: Head impulse test.
+[pause 0.8]
+EKSPERT: Hed impals test.
+VÆRT: Ord nummer femogtyve.
+EKSPERT: Test of skew.
+[pause 0.8]
+EKSPERT: Test of skju.
+VÆRT: Ord nummer seksogtyve.
+EKSPERT: Dizziness.
+[pause 0.8]
+EKSPERT: Dissines.
+VÆRT: Ord nummer syvogtyve.
+EKSPERT: Bárány Society.
+[pause 0.8]
+EKSPERT: Barani Sosajeti.
+VÆRT: Ord nummer otteogtyve.
+EKSPERT: Calcitonin gene-related peptide.
+[pause 0.8]
+EKSPERT: Kalsitonin djin-rilejtid peptajd.
+VÆRT: Ord nummer niogtyve.
+EKSPERT: Phenytoin.
+[pause 0.8]
+EKSPERT: Fenytoin.
+VÆRT: Ord nummer tredive.
+EKSPERT: Ephaptiske.
+[pause 0.8]
+EKSPERT: Efaptiske.
+VÆRT: Ord nummer enogtredive.
+EKSPERT: Otorhinolaryngologi.
+[pause 0.8]
+EKSPERT: Otorinolaryngologi.
+VÆRT: Ord nummer toogtredive.
+EKSPERT: Dehiscens.
+[pause 0.8]
+EKSPERT: Dehissens.
+VÆRT: Ord nummer treogtredive.
+EKSPERT: Quizzen.
+[pause 0.8]
+EKSPERT: Kvissen.
+VÆRT: Ord nummer fireogtredive.
+EKSPERT: Galcanezumab.
+[pause 0.8]
+EKSPERT: Galkanesumab.
+VÆRT: Ord nummer femogtredive.
+EKSPERT: Methylprednisolon.
+[pause 0.8]
+EKSPERT: Metylprednisolon.
+VÆRT: Det var testen. Notér de numre, hvor den første udgave lyder bedst, eller hvor ingen af dem lyder rigtigt.
