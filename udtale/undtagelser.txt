@@ -1,0 +1,19 @@
+# Håndlavet udtaleliste. Bruges lige før talesyntesen og har forrang over de generelle regler.
+# Manuskripter og shownotes beholder den korrekte stavning.
+#
+# Format, én pr. linje:
+#   term = sådan skal det lyde          fx  oropharynx = orofarynks
+#   term = term                         beskytter et ord mod reglerne (fx et dansk ord, der ligner latin)
+#   cochle* = kokle                     * betyder "og resten af ordet", så det også virker i sammensatte ord
+#   latin: ord, ord                     behandl ordene som latin, selvom de ikke har en latinsk endelse
+#
+# Store og små bogstaver er ligegyldige. Skriv lydskriften med almindelig dansk stavning.
+# Tilføj en linje, når et ord lyder forkert i et afsnit.
+
+latin: caput, facies, caries, ascendens, descendens
+
+# Sammensatte ord med cochlea (cochleaimplantat, cochleær)
+cochle* = kokle
+
+# Danske ord, der ligner latin, men skal læses som normalt
+computer* = computer

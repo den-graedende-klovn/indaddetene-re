@@ -15,6 +15,7 @@ Otorhinolaryngologisk AI-genereret podcastserie: korte dialoger om øre-næse-ha
 | `manuskripter/` | Et manuskript pr. afsnit. Slet filen for at fjerne afsnittet. Ret filen for at lave afsnittet om. |
 | `afsnit/` | De færdige MP3-filer (laves automatisk). |
 | `motor/` | Koden. |
+| `udtale/undtagelser.txt` | Håndlavet udtaleliste. Latinske ord omskrives desuden efter faste regler lige før talesyntesen (`motor/udtale.py`). |
 | `indstillinger.json` | Titel, stemmer, pauser og indstillinger for talemotorerne. |
 | `status.json` | Resultat af seneste kørsel, inklusive tidsforbrug og fejl. |
 

@@ -18,6 +18,7 @@ sys.path.insert(0, str(Path(__file__).resolve().parent))
 
 import feed  # noqa: E402
 import lyd  # noqa: E402
+import udtale  # noqa: E402
 from manuskript import Pause, laes  # noqa: E402
 from motorer import MOTORER  # noqa: E402
 
@@ -66,7 +67,8 @@ def planlaeg(indst, episoder, tving_motor=None):
     return opgaver, forventede, fejl
 
 
-def byg_lyd(manus, motor, indst):
+def byg_lyd(manus, motor, indst, aendringer=None):
+    """Bygger afsnittets lyd. Udtalelaget anvendes på hver replik lige før talesyntesen."""
     p = indst["pauser"]
     stykker = [lyd.stilhed(p["start"])]
     forrige = None
@@ -78,7 +80,10 @@ def byg_lyd(manus, motor, indst):
         if forrige is not None:
             stykker.append(lyd.stilhed(p["samme_taler"] if forrige == d.rolle else p["ny_taler"]))
         stemme = indst["roller"][d.rolle][motor.navn]
-        stykker.append(motor.tal_replik(d.tekst, stemme))
+        tale, aendr = udtale.til_tale(d.tekst) if manus.udtale else (d.tekst, {})
+        if aendringer is not None:
+            aendringer.update(aendr)
+        stykker.append(motor.tal_replik(tale, stemme))
         forrige = d.rolle
     stykker.append(lyd.stilhed(p["slut"]))
     import numpy as np
@@ -125,7 +130,8 @@ def main():
             motor = instanser[navn]
             m = opg["manus"]
             t0 = time.time()
-            x = byg_lyd(m, motor, indst)
+            udtale_aendringer = {}
+            x = byg_lyd(m, motor, indst, udtale_aendringer)
             fil = f"afsnit/{opg['id']}-{m.fingeraftryk}.mp3"
             titel = m.titel + (f" ({motor.visningsnavn})" if opg["flere"] else "")
             bytes_ = lyd.gem_mp3(x, ROD / fil, titel, indst["titel"])
@@ -155,6 +161,7 @@ def main():
                 "id": opg["id"], "handling": "lavet", "motor": navn,
                 "lyd_sekunder": round(sekunder, 1), "tegn": m.antal_tegn,
                 "beregning_sekunder": round(time.time() - t0, 1),
+                "udtale": dict(sorted(udtale_aendringer.items(), key=lambda t: t[0].lower())),
             })
             print(f"OK  {opg['id']} ({navn}): {sekunder:.0f} s lyd på {time.time() - t0:.0f} s", flush=True)
         except Exception as e:  # noqa: BLE001

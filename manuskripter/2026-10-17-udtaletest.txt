@@ -1,0 +1,71 @@
+titel: Udtaletest: før og efter de nye regler
+beskrivelse: Seksten termer. Eksperten siger hvert ord to gange, først som det staves og derefter efter de nye udtaleregler. Notér numrene, hvor den første udgave lyder bedst.
+motor: roest
+udtale: fra
+---
+VÆRT: Udtaletest. For hvert ord siger eksperten det først, som det staves, og derefter efter de nye udtaleregler.
+VÆRT: Et.
+EKSPERT: Oropharynx.
+[pause 0.8]
+EKSPERT: Orofarynks.
+VÆRT: To.
+EKSPERT: Cochlea.
+[pause 0.8]
+EKSPERT: Koklea.
+VÆRT: Tre.
+EKSPERT: Nervus vestibulocochlearis.
+[pause 0.8]
+EKSPERT: Nervus vestibulokoklearis.
+VÆRT: Fire.
+EKSPERT: Nervus facialis.
+[pause 0.8]
+EKSPERT: Nervus fasialis.
+VÆRT: Fem.
+EKSPERT: Processus mastoideus.
+[pause 0.8]
+EKSPERT: Prosessus mastoideus.
+VÆRT: Seks.
+EKSPERT: Chorda tympani.
+[pause 0.8]
+EKSPERT: Korda tympani.
+VÆRT: Syv.
+EKSPERT: Concha nasalis.
+[pause 0.8]
+EKSPERT: Konka nasalis.
+VÆRT: Otte.
+EKSPERT: Oesophagus.
+[pause 0.8]
+EKSPERT: Øsofagus.
+VÆRT: Ni.
+EKSPERT: Cholesteatoma.
+[pause 0.8]
+EKSPERT: Kolesteatoma.
+VÆRT: Ti.
+EKSPERT: Otosclerosis.
+[pause 0.8]
+EKSPERT: Otosklerosis.
+VÆRT: Elleve.
+EKSPERT: Streptococcus pneumoniae.
+[pause 0.8]
+EKSPERT: Streptokokkus pneumoniæ.
+VÆRT: Tolv.
+EKSPERT: Moraxella catarrhalis.
+[pause 0.8]
+EKSPERT: Moraksella katarralis.
+VÆRT: Tretten.
+EKSPERT: Haemophilus influenzae.
+[pause 0.8]
+EKSPERT: Hæmofilus influensæ.
+VÆRT: Fjorten.
+EKSPERT: Vestibularisschwannom.
+[pause 0.8]
+EKSPERT: Vestibularissjvannom.
+VÆRT: Femten.
+EKSPERT: Planocellulært karcinom.
+[pause 0.8]
+EKSPERT: Planocellulært karsinom.
+VÆRT: Seksten.
+EKSPERT: Ménière.
+[pause 0.8]
+EKSPERT: Menjær.
+VÆRT: Det var testen.
