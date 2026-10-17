@@ -4,67 +4,67 @@ motor: roest
 udtale: fra
 ---
 VÆRT: Udtaletest. For hvert ord siger eksperten det først, som det staves, og derefter efter de nye udtaleregler.
-VÆRT: Et.
+VÆRT: Ord nummer et.
 EKSPERT: Oropharynx.
 [pause 0.8]
 EKSPERT: Orofarynks.
-VÆRT: To.
+VÆRT: Ord nummer to.
 EKSPERT: Cochlea.
 [pause 0.8]
 EKSPERT: Koklea.
-VÆRT: Tre.
+VÆRT: Ord nummer tre.
 EKSPERT: Nervus vestibulocochlearis.
 [pause 0.8]
 EKSPERT: Nervus vestibulokoklearis.
-VÆRT: Fire.
+VÆRT: Ord nummer fire.
 EKSPERT: Nervus facialis.
 [pause 0.8]
 EKSPERT: Nervus fasialis.
-VÆRT: Fem.
+VÆRT: Ord nummer fem.
 EKSPERT: Processus mastoideus.
 [pause 0.8]
 EKSPERT: Prosessus mastoideus.
-VÆRT: Seks.
+VÆRT: Ord nummer seks.
 EKSPERT: Chorda tympani.
 [pause 0.8]
 EKSPERT: Korda tympani.
-VÆRT: Syv.
+VÆRT: Ord nummer syv.
 EKSPERT: Concha nasalis.
 [pause 0.8]
 EKSPERT: Konka nasalis.
-VÆRT: Otte.
+VÆRT: Ord nummer otte.
 EKSPERT: Oesophagus.
 [pause 0.8]
 EKSPERT: Øsofagus.
-VÆRT: Ni.
+VÆRT: Ord nummer ni.
 EKSPERT: Cholesteatoma.
 [pause 0.8]
 EKSPERT: Kolesteatoma.
-VÆRT: Ti.
+VÆRT: Ord nummer ti.
 EKSPERT: Otosclerosis.
 [pause 0.8]
 EKSPERT: Otosklerosis.
-VÆRT: Elleve.
+VÆRT: Ord nummer elleve.
 EKSPERT: Streptococcus pneumoniae.
 [pause 0.8]
 EKSPERT: Streptokokkus pneumoniæ.
-VÆRT: Tolv.
+VÆRT: Ord nummer tolv.
 EKSPERT: Moraxella catarrhalis.
 [pause 0.8]
 EKSPERT: Moraksella katarralis.
-VÆRT: Tretten.
+VÆRT: Ord nummer tretten.
 EKSPERT: Haemophilus influenzae.
 [pause 0.8]
 EKSPERT: Hæmofilus influensæ.
-VÆRT: Fjorten.
+VÆRT: Ord nummer fjorten.
 EKSPERT: Vestibularisschwannom.
 [pause 0.8]
 EKSPERT: Vestibularissjvannom.
-VÆRT: Femten.
+VÆRT: Ord nummer femten.
 EKSPERT: Planocellulært karcinom.
 [pause 0.8]
 EKSPERT: Planocellulært karsinom.
-VÆRT: Seksten.
+VÆRT: Ord nummer seksten.
 EKSPERT: Ménière.
 [pause 0.8]
 EKSPERT: Menjær.

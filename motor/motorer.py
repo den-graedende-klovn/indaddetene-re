@@ -150,11 +150,18 @@ class RoestMotor:
         return lyd.trim(wav.squeeze(0).cpu().numpy().astype(np.float32))
 
     def _saetning(self, tekst, stemme):
-        """Genererer én sætning og prøver igen, hvis længden er urimelig (fx løbsk generering)."""
+        """Genererer én sætning og prøver igen, hvis længden er urimelig (fx løbsk generering),
+        eller hvis modellen fejler. Det sker af og til ved meget korte replikker som "Et.",
+        hvor modellen ikke laver nogen lydbidder."""
         forventet = forventet_varighed(tekst)
-        bedst, bedst_afvig = None, None
-        for forsoeg in range(3):
-            x = self._generer(tekst, seed=1000 + forsoeg)
+        bedst, bedst_afvig, sidste_fejl = None, None, None
+        for forsoeg in range(4):
+            try:
+                x = self._generer(tekst, seed=1000 + forsoeg)
+            except Exception as e:  # noqa: BLE001
+                sidste_fejl = e
+                self.stat.genforsoeg += 1
+                continue
             varighed = x.size / lyd.SR
             if 0.4 * forventet <= varighed <= 2.2 * forventet + 1.5:
                 return x
@@ -162,6 +169,8 @@ class RoestMotor:
             afvig = abs(np.log(max(varighed, 0.05) / forventet))
             if bedst is None or afvig < bedst_afvig:
                 bedst, bedst_afvig = x, afvig
+        if bedst is None or bedst.size == 0:
+            raise RuntimeError(f"Røst kunne ikke lave lyd til {tekst!r}: {sidste_fejl}")
         return bedst
 
     def tal_replik(self, tekst, stemme):
