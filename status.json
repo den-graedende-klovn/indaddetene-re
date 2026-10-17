@@ -1,25 +1,22 @@
 {
-  "start": "2026-10-16T08:57:38+00:00",
+  "start": "2026-10-17T11:44:00+00:00",
   "maskine": "runnervm8k3b6 (x86_64)",
-  "afsnit": [
-    {
-      "id": "2026-10-16-vestibulaer-paroksysmi",
-      "handling": "lavet",
-      "motor": "roest",
-      "lyd_sekunder": 1081.5,
-      "tegn": 15902,
-      "beregning_sekunder": 9258.9
-    }
-  ],
+  "afsnit": [],
   "motorer": {
     "roest": {
-      "opstart_sekunder": 29.8,
-      "lyd_sekunder": 981.6,
-      "beregning_sekunder": 9237.5,
-      "beregning_pr_lydminut": 564.6,
+      "opstart_sekunder": 36.5,
+      "lyd_sekunder": 9.3,
+      "beregning_sekunder": 126.9,
+      "beregning_pr_lydminut": 819.4,
       "genforsoeg": 0
     }
   },
-  "fejl": [],
-  "slut": "2026-10-16T11:32:27+00:00"
+  "fejl": [
+    {
+      "afsnit": "2026-10-17-udtaletest",
+      "motor": "roest",
+      "fejl": "IndexError: max(): Expected reduction dim 1 to have non-zero size."
+    }
+  ],
+  "slut": "2026-10-17T11:46:45+00:00"
 }
