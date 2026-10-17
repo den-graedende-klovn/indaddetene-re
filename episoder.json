@@ -87,5 +87,49 @@
     "bytes": 8653003,
     "sekunder": 1081.5,
     "udgivet": "2026-10-16T11:32:27+00:00"
+  },
+  {
+    "id": "2026-10-17-menieres-sygdom",
+    "guid": "2026-10-17-menieres-sygdom-ef6723f1",
+    "titel": "Menières sygdom",
+    "beskrivelse": "Diagnosekriterier, differentialdiagnoser, udredning, behandling efter dansk og amerikansk retningslinje, faldgruber og nyere evidens om Menières sygdom.",
+    "kilder": [
+      "Sundhedsstyrelsen, National klinisk retningslinje for behandling af Menières, 2018, https://www.sst.dk/-/media/Udgivelser/2018/NKR-Menieres/297832-Quick-Guide-NKR-for-behandling-af-menieres.ashx",
+      "Dansk Selskab for Vestibulologi under Dansk Selskab for Otorhinolaryngologi, Hoved- og Halskirurgi, Menières sygdom, klinisk retningslinje version 1, 2022, https://dsohh.dk/wp-content/uploads/2022/05/Meniere.pdf",
+      "Holmelund, Menières sygdom, Lægehåndbogen på sundhed.dk, fagligt opdateret 2023, https://www.sundhed.dk/sundhedsfaglig/laegehaandbogen/oere-naese-hals/tilstande-og-sygdomme/indre-oere/menieres-sygdom/",
+      "Basura et al., Clinical practice guideline: Ménière's disease, Otolaryngology Head and Neck Surgery, 2020, https://www.guidelinecentral.com/guideline/7061/",
+      "Lopez-Escamez et al., Diagnostic criteria for Menière's disease, Journal of Vestibular Research, 2015, https://pubmed.ncbi.nlm.nih.gov/25882471",
+      "Adrion et al., Efficacy and safety of betahistine treatment in patients with Meniere's disease, British Medical Journal, 2016, https://doi.org/10.1136/bmj.h6816",
+      "Patel et al., Intratympanic methylprednisolone versus gentamicin in patients with unilateral Meniere's disease, The Lancet, 2016, https://doi.org/10.1016/S0140-6736(16)31461-1",
+      "Wu et al., Comparative efficacy of intratympanic gentamicin and intratympanic corticosteroid in the treatment of Meniere's disease, Frontiers in Neurology, 2024, https://doi.org/10.3389/fneur.2024.1471010",
+      "van Esch et al., Interventions for Menière's disease: an umbrella systematic review, BMJ Evidence-Based Medicine, 2022, https://ebm.bmj.com/content/27/4/235",
+      "Devantier et al., Current state of evidence for endolymphatic sac surgery in Menière's disease, systematic review, årstal ikke verificeret, https://research.regionh.dk/en/publications/current-state-of-evidence-for-endolymphatic-sac-surgery-in-meni%C3%A8r/",
+      "Hegemann og Schell, Treating Menière's disease with rimegepant, Swiss Medical Weekly, 2025, https://doi.org/10.57187/s.4147",
+      "Bernaerts et al., Role of hydrops MRI in differentiating between Menière's disease and vestibular migraine, Frontiers in Neurology, 2025, https://doi.org/10.3389/fneur.2025.1582754",
+      "Hammer, De Foer og Korda, Editorial: Menière's disease, from diagnosis to treatment, Frontiers in Neurology, 2025, https://doi.org/10.3389/fneur.2025.1707265"
+    ],
+    "manuskript": "2026-10-17-menieres-sygdom.txt",
+    "fingeraftryk": "ef6723f1",
+    "motor": "roest",
+    "motor_navn": "Røst",
+    "fil": "afsnit/2026-10-17-menieres-sygdom-ef6723f1.mp3",
+    "bytes": 8304413,
+    "sekunder": 1038.0,
+    "udgivet": "2026-10-17T17:07:24+00:00"
+  },
+  {
+    "id": "2026-10-17-udtaletest",
+    "guid": "2026-10-17-udtaletest-96787870",
+    "titel": "Udtaletest: før og efter",
+    "beskrivelse": "Hvert ord siges to gange, først som det staves og derefter med den nye udtale. Del et, nummer et til femten, er latinske ord efter de faste regler. Del to, nummer seksten til femogtredive, er forslag til undtagelser. 1: Oropharynx. 2: Cochlea. 3: Nervus vestibulocochlearis. 4: Nervus facialis. 5: Processus mastoideus. 6: Chorda tympani. 7: Concha nasalis. 8: Oesophagus. 9: Cholesteatoma. 10: Otosclerosis. 11: Streptococcus pneumoniae. 12: Moraxella catarrhalis. 13: Haemophilus influenzae. 14: Vestibularisschwannom. 15: Arteria cerebelli inferior anterior. 16: Menières sygdom. 17: Dix-Hallpike. 18: Cochrane. 19: Hüfner. 20: Dieterich. 21: Schell. 22: Chen. 23: Frenzelbriller. 24: Head impulse test. 25: Test of skew. 26: Dizziness. 27: Bárány Society. 28: Calcitonin gene-related peptide. 29: Phenytoin. 30: Ephaptiske. 31: Otorhinolaryngologi. 32: Dehiscens. 33: Quizzen. 34: Galcanezumab. 35: Methylprednisolon.",
+    "kilder": [],
+    "manuskript": "2026-10-17-udtaletest.txt",
+    "fingeraftryk": "96787870",
+    "motor": "roest",
+    "motor_navn": "Røst",
+    "fil": "afsnit/2026-10-17-udtaletest-96787870.mp3",
+    "bytes": 1727425,
+    "sekunder": 215.8,
+    "udgivet": "2026-10-17T17:55:14+00:00"
   }
 ]
