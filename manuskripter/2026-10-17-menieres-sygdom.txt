@@ -1,0 +1,111 @@
+titel: Menières sygdom
+beskrivelse: Diagnosekriterier, differentialdiagnoser, udredning, behandling efter dansk og amerikansk retningslinje, faldgruber og nyere evidens om Menières sygdom.
+motor: roest
+kilder:
+- Sundhedsstyrelsen, National klinisk retningslinje for behandling af Menières, 2018, https://www.sst.dk/-/media/Udgivelser/2018/NKR-Menieres/297832-Quick-Guide-NKR-for-behandling-af-menieres.ashx
+- Dansk Selskab for Vestibulologi under Dansk Selskab for Otorhinolaryngologi, Hoved- og Halskirurgi, Menières sygdom, klinisk retningslinje version 1, 2022, https://dsohh.dk/wp-content/uploads/2022/05/Meniere.pdf
+- Holmelund, Menières sygdom, Lægehåndbogen på sundhed.dk, fagligt opdateret 2023, https://www.sundhed.dk/sundhedsfaglig/laegehaandbogen/oere-naese-hals/tilstande-og-sygdomme/indre-oere/menieres-sygdom/
+- Basura et al., Clinical practice guideline: Ménière's disease, Otolaryngology Head and Neck Surgery, 2020, https://www.guidelinecentral.com/guideline/7061/
+- Lopez-Escamez et al., Diagnostic criteria for Menière's disease, Journal of Vestibular Research, 2015, https://pubmed.ncbi.nlm.nih.gov/25882471
+- Adrion et al., Efficacy and safety of betahistine treatment in patients with Meniere's disease, British Medical Journal, 2016, https://doi.org/10.1136/bmj.h6816
+- Patel et al., Intratympanic methylprednisolone versus gentamicin in patients with unilateral Meniere's disease, The Lancet, 2016, https://doi.org/10.1016/S0140-6736(16)31461-1
+- Wu et al., Comparative efficacy of intratympanic gentamicin and intratympanic corticosteroid in the treatment of Meniere's disease, Frontiers in Neurology, 2024, https://doi.org/10.3389/fneur.2024.1471010
+- van Esch et al., Interventions for Menière's disease: an umbrella systematic review, BMJ Evidence-Based Medicine, 2022, https://ebm.bmj.com/content/27/4/235
+- Devantier et al., Current state of evidence for endolymphatic sac surgery in Menière's disease, systematic review, årstal ikke verificeret, https://research.regionh.dk/en/publications/current-state-of-evidence-for-endolymphatic-sac-surgery-in-meni%C3%A8r/
+- Hegemann og Schell, Treating Menière's disease with rimegepant, Swiss Medical Weekly, 2025, https://doi.org/10.57187/s.4147
+- Bernaerts et al., Role of hydrops MRI in differentiating between Menière's disease and vestibular migraine, Frontiers in Neurology, 2025, https://doi.org/10.3389/fneur.2025.1582754
+- Hammer, De Foer og Korda, Editorial: Menière's disease, from diagnosis to treatment, Frontiers in Neurology, 2025, https://doi.org/10.3389/fneur.2025.1707265
+---
+VÆRT: Velkommen. I dag taler vi om Menières sygdom, på latin morbus Menière. Vi starter med en case.
+EKSPERT: En patient i halvtredserne kommer med gentagne anfald af voldsom karrusel-svimmelhed. Hvert anfald varer nogle timer og giver kvalme og opkastninger. Hun har tryk og susen i det ene øre og hører dårligere, mens det står på. Mellem anfaldene bliver hørelsen næsten normal igen.
+VÆRT: Så er det Menière?
+EKSPERT: Det er den mest oplagte mistanke. Men diagnosen er klinisk, og andre årsager skal være udelukket. Det er det, vi gennemgår i dag.
+VÆRT: Hvad er tilstanden, og hvorfor er den vigtig?
+EKSPERT: Menières sygdom er en kronisk indre-ørelidelse med anfald af spontan vertigo, svingende høretab i de dybe frekvenser, tinnitus og tryk i øret. Diagnosen stilles efter internationale kriterier fra Bárány Society i to tusind og femten. Den er vigtig, fordi den invaliderer og giver fremadskridende høretab og ubalance. Og fordi der stadig ikke findes en dokumenteret effektiv sygdomsmodificerende behandling. Det konkluderede en samlet oversigt fra to tusind og toogtyve.
+VÆRT: Hvilke tilstande skal man skelne den fra?
+EKSPERT: Først og fremmest vestibulær migræne. Spørg til migrænehovedpine, lysfølsomhed og lydfølsomhed, og til anfaldenes varighed. Hørelsen er typisk normal ved vestibulær migræne. Men de to tilstande kan forekomme sammen. Så er der neuritis vestibularis og labyrintitis. Dér er der ét langvarigt anfald over dage uden gentagelser.
+VÆRT: Og lejringssvimmelhed?
+EKSPERT: Benign paroxystisk positionel vertigo giver anfald på sekunder til under et minut, udløst af hovedets stilling. Den er hyppigere hos patienter med Menières sygdom, så de to kan findes samtidig. Vestibularis schwannom giver snarere fremadskridende ensidigt høretab og ubalance end episodiske anfald. Perilymfatisk fistel og dehiscens af den øvre buegang giver tryk- eller lydudløst vertigo og kan udelukkes med computertomografi af tindingebenet. Husk også sekundær hydrops efter traume, infektion eller kirurgi. Og autoimmun indre-ørelidelse, karsygdom i hjernen og syfilis.
+VÆRT: Hvad ved vi om mekanismen?
+EKSPERT: Det kendetegnende fund er endolymfatisk hydrops. Årsagen er ukendt. Hydrops regnes for den sandsynlige mekanisme, men en årsagssammenhæng er ikke bevist. Hydrops er heller ikke specifik for Menière. Op til tyve procent har familiære tilfælde, og migræne hænger sammen med sygdommen. Der er også en hypotese om, at calcitonin gene-related peptide spiller en rolle. Den er omdiskuteret.
+VÆRT: Så til anamnesen. Hvad spørger du om?
+EKSPERT: Om anfald, der kommer af sig selv og varer mellem tyve minutter og tolv timer. Det peger mod Menière og væk fra lejringssvimmelhed, som er for kort. Og væk fra neuritis, som er for langvarig. Varer anfaldene op til fireogtyve timer, er det sandsynlig Menière. Typisk er der drejende svimmelhed med kvalme og opkastninger, og patienten er hele tiden ved bevidsthed.
+VÆRT: Og symptomerne fra øret?
+EKSPERT: De er afgørende. Svingende høretab i de dybe frekvenser, tinnitus eller tryk i øret, før, under eller efter anfaldet. Tidligt i forløbet ses ofte isolerede symptomer, og nogle debuterer kun med høretab. Hører patienten normalt mellem anfaldene, passer det på Menière i tidligt forløb. Fremadskridende høretab uden anfald peger mod schwannom eller anden årsag.
+VÆRT: Er der røde flag?
+EKSPERT: Ja. Neurologiske udfald, dobbeltsyn, taleforstyrrelse eller nye hovedpineanfald peger mod central årsag og skal udredes akut. Spørg også til pludselige fald uden varsel og uden bevidsthedstab. Det er Tumarkins anfald. De peger mod sen eller svær sygdom og væk fra besvimelse. Spørg til familie, begge ører, stress, søvn og arbejde. Angst, depression og social angst er hyppige.
+VÆRT: Hvordan undersøger du?
+EKSPERT: Jeg starter med den otoneurologiske undersøgelse. Hjernenerver, spontan nystagmus og undersøgelse med Frenzels briller eller videonystagmografi. Under et anfald ses vandret nystagmus, eventuelt med en drejende komponent. En normal eller central test af hoveddrejning, nystagmus og skew under akut vertigo peger væk fra neuritis og mod central årsag.
+VÆRT: Så audiogrammet.
+EKSPERT: Tonaudiometri er obligatorisk. Den amerikanske retningslinje giver en stærk anbefaling. Tag den helst under eller kort efter et anfald. Hørelsen svinger, så ét normalt audiogram mellem anfaldene udelukker ikke diagnosen. Lægehåndbogens kriterier er disse. Gennemsnittet for to hundrede og halvtreds hertz, fem hundrede hertz og ét tusind hertz skal være mindst femten decibel højere. Det sammenlignes med gennemsnittet for ét, to og tre tusind hertz.
+VÆRT: Og ved ensidig eller dobbeltsidig sygdom?
+EKSPERT: Ved ensidig sygdom er gennemsnittet for fem hundrede til tre tusind hertz mindst tyve decibel højere end på det andet øre. Ved dobbeltsidig sygdom er det mindst femogtyve decibel hørenivå.
+VÆRT: Hvad med scanning?
+EKSPERT: Magnetisk resonans af fossa posterior og indre øre tages for at udelukke vestibularis schwannom og andre organiske forklaringer. Den amerikanske retningslinje siger, at man kan tilbyde den ved mulig Menière og asymmetrisk høretab. Rutinemæssig vestibulær funktionstest og elektrokokleografi frarådes til selve diagnosen af den amerikanske retningslinje. Den danske lister dem som supplerende. Scanning for hydrops bruges ikke rutinemæssigt til at stille diagnosen.
+VÆRT: Så kort sagt. Audiogram under anfald, scanning ved asymmetri og ingen rutinemæssig vestibulær test.
+EKSPERT: Ja. Og diagnosen skal være på plads, før man går i gang med langvarig behandling. Lægehåndbogen skriver, at kriterierne bør være opfyldt, før man overvejer langvarig medicin, kirurgi, destruktiv behandling eller deltagelse i studier.
+VÆRT: Hvordan forløber sygdommen, når man skal informere patienten?
+EKSPERT: Uregelmæssigt, med lange rolige perioder. Anfaldene kan komme i klynger over kort tid og så udeblive i mange måneder. Med årene øges høretabet og bliver til sidst permanent. Anfaldene aftager hos de fleste, men ubalancen kan bestå. Lægehåndbogens tal om, at over halvdelen bliver langvarigt sygemeldt eller pensioneret, er ældre data.
+VÆRT: Så til behandlingen. Hvad er udgangspunktet?
+EKSPERT: Evidensen er generelt svag. Det skriver den danske retningslinje direkte. Under selve anfaldet gives ro og kvalmestillende eller antihistamin, og kun under anfaldet. Antihistamin må ikke tages fast. Den amerikanske retningslinje siger det samme om vestibulære dæmpende midler. Lavt salt og lav koffein kan afprøves, men det er erfaringsbaseret. Stresshåndtering er fornuftigt.
+VÆRT: Hvad med forebyggende medicin?
+EKSPERT: Betahistin er omdiskuteret. Sundhedsstyrelsens retningslinje fra to tusind og atten giver en svag anbefaling imod rutinemæssig brug. Den siger, at man bør lægge en plan for seponering ved opstart. I det tyske multicenterforsøg fra to tusind og seksten var antallet af anfald ens i placebogruppen og i begge dosisgrupper. Den amerikanske retningslinje gør betahistin og vanddrivende midler til en valgmulighed. Thiaziddiuretika er ikke god praksis rutinemæssigt i Danmark.
+VÆRT: Dræn og tryk?
+EKSPERT: Trommehindedræn er god praksis ifølge den danske retningslinje. Overtryksterapi har en svag anbefaling for i Danmark, men den amerikanske retningslinje anbefaler imod. En samlet oversigt fandt, at den sandsynligvis ikke virker bedre end placebo. Dansk og amerikansk retningslinje er altså uenige.
+VÆRT: Hvis det ikke hjælper?
+EKSPERT: Så kommer behandling med indsprøjtning i mellemøret. Steroid har en svag anbefaling, hvis tidligere behandling ikke har virket. Det er off-label. Et systematisk review fra Aalborg Universitet vurderede effekten som tvivlsom. Gentamicin har også en svag anbefaling ved utilstrækkelig effekt eller svære Tumarkin-anfald. Risikoen for blivende høretab skal indgå. Den amerikanske retningslinje anbefaler gentamicin til aktiv sygdom, som ikke svarer på ikke-ablative metoder. Steroid er en valgmulighed.
+VÆRT: Findes der en direkte sammenligning?
+EKSPERT: Ja. Et britisk forsøg fra to tusind og seksten med tres patienter sammenlignede methylprednisolon og gentamicin. Anfaldene faldt med halvfems procent efter steroid og syvogfirs procent efter gentamicin, uden statistisk forskel. En metaanalyse fra to tusind og fireogtyve af tolv studier fandt bedre vertigokontrol med gentamicin. Men ikke efter tolv måneder. Evidensen peger altså ikke samme vej.
+VÆRT: Og kirurgi?
+EKSPERT: Kirurgi på den endolymfatiske sæk har en svag anbefaling imod i Danmark, kun efter nøje overvejelse. Randomiserede forsøg viste forbedring i både placebogruppen og den aktive gruppe. Det tyder på placeboeffekt. Internationalt er indgrebet dog udbredt, så det er omdiskuteret. Destruktion af balanceorganet og overskæring af balancenerven bruges sjældent i Danmark og kun ved kronisk svær sygdom. Den amerikanske retningslinje siger, at labyrintektomi kan tilbydes ved aktiv sygdom og hørelse, der ikke kan bruges. Cochlea-implantat kan komme på tale ved dobbeltsidig svær sygdom, typisk sent.
+VÆRT: Hvad med støttende behandling?
+EKSPERT: Høreapparat og vejledning om tinnitus. Vestibulær rehabilitering har en svag anbefaling i den danske retningslinje og gives i en rolig sygdomsfase. Den amerikanske siger, at den skal tilbydes ved kronisk ubalance, men ikke til akutte anfald. Psykologisk støtte er god praksis.
+VÆRT: Fylder den psykiske side meget?
+EKSPERT: Ja. Angst for uforudsigelige anfald, social angst og depression forekommer. Den danske retningslinje siger, at man skal spørge til psykiske symptomer og tilbyde adgang til psykologisk støtte. Vestibulær rehabilitering bør startes tidligt i forløbet, men i en stabil periode.
+VÆRT: Så trappen er ro og kvalmestillende under anfald, dræn, derefter steroid eller gentamicin, og kirurgi sjældent?
+EKSPERT: Ja. Betahistin og overtryksterapi er de omdiskuterede mellemtrin. Og alt sammen med lav evidens.
+VÆRT: Hvad er nyt, og hvad er uafklaret?
+EKSPERT: Der er to nyere spor. I to tusind og femogtyve behandlede Hegemann og Schell seks patienter med både Menière og migræne med rimegepant. Det er en hæmmer af calcitonin gene-related peptide. De fem, der fik forebyggende behandling, fik fuld ophør af Menière-symptomer i op til otte måneder. Det er en lille åben serie, så evidensen er lav. Randomiserede forsøg er undervejs, men jeg har ikke fundet resultater.
+VÆRT: Og det andet spor?
+EKSPERT: Scanning for hydrops. Et belgisk studie fra to tusind og femogtyve med enogtredive patienter klassificerede alle korrekt mellem Menière og vestibulær migræne. Materialet er lille og fra ét center, og det er endnu ikke i retningslinjer.
+VÆRT: Findes der nyere data om de vestibulære prøver?
+EKSPERT: Ja. En redaktionel oversigt fra to tusind og femogtyve fremhæver, at nedsat kalorisk respons med normal video head impulse test er en meget specifik markør for Menière. Den adskiller fra vestibulær migræne. Det står heller ikke i retningslinjerne endnu.
+VÆRT: Hvad er uafklaret?
+EKSPERT: Uafklaret er kirurgi på den endolymfatiske sæk, den rette måde at måle effekt på og sygdommens naturlige forløb. Svimmelhedsanfaldene aftager ofte med tiden, men ubalance og psykosociale symptomer består. Og både den danske og den amerikanske retningslinje er over fem år gamle.
+VÆRT: Så faldgruberne. Hvad kræver handling med det samme?
+EKSPERT: Første anfald med pludseligt høretab og vertigo. Behandl det som pludseligt sensorineuralt høretab, indtil andet er vist, med audiogram og vurdering samme dag. Det er erfaringsbaseret og ikke gennemgået i kilderne. Akut vertigo med centrale tegn eller neurologiske udfald kan være blodprop i lillehjernen eller hjernestammen, også med høretab. Det kræver akut henvisning til neurologi og billeddiagnostik. Og fald med skade ved Tumarkin kræver, at man overvejer besvimelse, hjertesygdom og epilepsi.
+VÆRT: Og alvorlig, men ikke akut sygdom?
+EKSPERT: Ensidigt fremadskridende høretab uden klassiske anfald skal have magnetisk resonans af fossa posterior for vestibularis schwannom. Mistænker man autoimmun sygdom eller syfilis, udredes målrettet. Jeg har ikke fundet et pakkeforløb, der er relevant for Menière.
+VÆRT: Hvilke fejl ser man i håndteringen?
+EKSPERT: Et normalt audiogram mellem anfaldene afkræfter ikke diagnosen. Gentag det under eller lige efter et anfald. Fast brug af antihistamin eller dæmpende midler er en fejl. Gentamicin kan give blivende høretab og kan selv udløse anfald, så overvej vestibulær rehabilitering før. Steroid og gentamicin er off-label, så informér og dokumentér. Betahistin uden plan for seponering er også en fejl. Og rutinemæssig vestibulær testning er ikke anbefalet.
+VÆRT: Hvad skal patienten vende tilbage med?
+EKSPERT: Nyt eller vedvarende høretab, der ikke går tilbage. Pludselige fald. Nye neurologiske symptomer. Angst eller depression. Og uvarslede svære anfald. Det sidste har betydning for kørsel. Patienten kan som udgangspunkt køre bil, men er uegnet ved uvarslede, svært invaliderende anfald, indtil tre måneder efter, at de er ophørt.
+VÆRT: Særlige patientgrupper?
+EKSPERT: Ved dobbeltsidig sygdom bliver gentamicin mindre attraktivt, og steroid er mere relevant. Ifølge den danske retningslinje rammer sygdommen begge ører hos femogtyve til fyrre procent over tid. Hos ældre vejer fald og sløvhed af kvalmestillende midler tungere. Børn er sjældne, og de danske kilder beskriver ingen særlig tilgang.
+VÆRT: Nu kommer quizzen. Otte spørgsmål. Første spørgsmål. Hvor længe varer et vertigoanfald ved sikker Menières sygdom?
+[pause 5]
+EKSPERT: Mellem tyve minutter og tolv timer. Ved sandsynlig sygdom op til fireogtyve timer. Tidsrammen adskiller fra lejringssvimmelhed og neuritis.
+VÆRT: Spørgsmål to. En kvinde på treoghalvtreds år har haft to anfald med drejende svimmelhed i flere timer og svingende susen og tryk i højre øre. Audiogram taget mellem anfaldene er normalt. Kan du udelukke Menière?
+[pause 8]
+EKSPERT: Nej. Hørelsen svinger og normaliseres mellem anfaldene. Gentag audiogrammet under eller lige efter et anfald.
+VÆRT: Spørgsmål tre. Hvad anbefaler den danske retningslinje om betahistin?
+[pause 5]
+EKSPERT: En svag anbefaling imod rutinemæssig brug. Hvis man bruger det, lægges en plan for seponering ved opstart, fordi den gavnlige effekt er usikker.
+VÆRT: Spørgsmål fire. En patient har normal hørelse, migrænehovedpine og lysfølsomhed under anfaldene. Hvad overvejer du, og udelukker det Menière?
+[pause 8]
+EKSPERT: Vestibulær migræne. Den udelukker ikke Menière, for de to kan findes samtidig. Men den er den vigtigste differentialdiagnose.
+VÆRT: Spørgsmål fem. Hvad siger den danske og den amerikanske retningslinje om overtryksterapi?
+[pause 5]
+EKSPERT: Dansk retningslinje giver en svag anbefaling for. Amerikansk anbefaler imod. De er uenige, og en samlet oversigt fandt, at den sandsynligvis ikke virker bedre end placebo.
+VÆRT: Spørgsmål seks. En mand på toogfyrre år har ensidigt fremadskridende høretab og ubalance, men ingen klassiske anfald. Hvad er næste skridt?
+[pause 8]
+EKSPERT: Magnetisk resonans af fossa posterior for at udelukke vestibularis schwannom. Forløbet passer ikke på Menière, så organisk årsag skal først udelukkes.
+VÆRT: Spørgsmål syv. Hvad viste det britiske forsøg, der sammenlignede methylprednisolon og gentamicin i mellemøret?
+[pause 5]
+EKSPERT: Ingen statistisk forskel i vertigokontrol. Anfaldene faldt med omkring halvfems procent i begge grupper. Men gentamicin kan skade hørelsen, og en nyere metaanalyse pegede på bedre kontrol med gentamicin.
+VÆRT: Spørgsmål otte. En patient har dobbeltsidig Menière med invaliderende anfald, og anden behandling har ikke virket. Hvilken behandling i mellemøret er mest relevant, og hvorfor?
+[pause 8]
+EKSPERT: Steroid. Gentamicin er en dårligere mulighed, når begge ører er ramt, på grund af risikoen for blivende høretab.
+VÆRT: Så en kort opsummering.
+EKSPERT: Menières sygdom er en klinisk diagnose. Der skal være mindst to spontane anfald på tyve minutter til tolv timer, bashøretab dokumenteret på audiogram, svingende symptomer fra øret og ingen bedre forklaring. Skel fra vestibulær migræne. Tag audiogram under anfald og scanning ved asymmetri. Betahistin kun med plan for seponering. Dræn, derefter steroid eller gentamicin i mellemøret. Kirurgi er sjælden. Husk reglerne for kørsel og psykologisk støtte. Evidensen er svag, så vær ærlig over for patienten.
+VÆRT: Tak fordi du lyttede.
