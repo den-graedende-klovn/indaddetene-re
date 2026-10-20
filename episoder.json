@@ -131,5 +131,37 @@
     "bytes": 1727425,
     "sekunder": 215.8,
     "udgivet": "2026-10-17T17:55:14+00:00"
+  },
+  {
+    "id": "2026-10-20-audiologisk-diagnostik",
+    "guid": "2026-10-20-audiologisk-diagnostik-4fb5f303",
+    "titel": "A-Kursus i Audiologi, episode 1: Audiologisk diagnostik, måling og tolkning",
+    "beskrivelse": "Forberedelse til A-kursus i audiologi. Tonaudiometri, taleaudiometri, tympanometri, stapediusreflekser, recruitment, maskering og Stenger test, med lokalisation af høretab og typiske faldgruber.",
+    "kilder": [
+      "Dansk Medicinsk Audiologisk Selskab under Dansk Selskab for Otorhinolaryngologi, Hoved- og Halskirurgi, Audiometri til audiologisk diagnostik og til vurdering af indikation for høreapparatbehandling til voksne, udkast 2013, opdateret 2014, https://dsohh.dk/wp-content/uploads/2022/04/DSOHH-KKR-audiometri1.pdf",
+      "Dansk Selskab for Otorhinolaryngologi, Hoved- og Halskirurgi, Udredning af asymmetrisk hørelse, udkast 2013, opdateret 2021, https://dsohh.dk/wp-content/uploads/2022/04/KKR-ASYMMETRI.pdf",
+      "Dansk Selskab for Otorhinolaryngologi, Hoved- og Halskirurgi, Otosclerose, 2023, https://dsohh.dk/wp-content/uploads/2023/09/DSOHH-KKR-otosclerose_2023.pdf",
+      "Sundhedsstyrelsen, Faglige kvalitetskrav og anbefalinger til høreapparatbehandling af voksne, juli 2025, https://www.sst.dk/udgivelser/2025/kvalitetskrav-til-hoereapparatbehandling",
+      "Tauris, Hørenedsættelse, Lægehåndbogen på sundhed.dk, opdateret 2025, https://www.sundhed.dk/sundhedsfaglig/laegehaandbogen/oere-naese-hals/symptomer-og-tegn/hoerenedsaettelse/",
+      "Tauris, Tympanometri, Lægehåndbogen på sundhed.dk, opdateret 2025, https://www.sundhed.dk/sundhedsfaglig/laegehaandbogen/undersoegelser-og-proever/kliniske-procedurer/oere-naese-hals/tympanometri/",
+      "British Society of Audiology, Recommended procedure: pure-tone air-conduction and bone-conduction threshold audiometry with and without masking, 2018, https://www.thebsa.org.uk/wp-content/uploads/2023/10/OD104-32-Recommended-Procedure-Pure-Tone-Audiometry-August-2018-FINAL-1.pdf",
+      "British Society of Audiology, Recommended procedure: tympanometry and acoustic reflex thresholds, 2024, revideret 2026, https://www.thebsa.org.uk/wp-content/uploads/2026/03/BSA-Recommended-Procedure-Tympanometry-Acoustic-Reflex-Thresholds-March-2026-minor-revision.pdf",
+      "World Health Organization, World report on hearing, 2021, https://cdn.who.int/media/docs/default-source/documents/health-topics/deafness-and-hearing-loss/world-report-on-hearing/wrh-executive-summary.en.pdf",
+      "Salmon et al., Audiogram interpretation, StatPearls, 2026, https://www.ncbi.nlm.nih.gov/sites/books/NBK578179/",
+      "StatPearls, Audiology clinical masking, https://www.ncbi.nlm.nih.gov/sites/books/NBK580541/",
+      "Shi et al., A review of the neurobiological mechanisms that distinguish between loudness recruitment and hyperacusis, Medical Science Monitor, 2022, https://pmc.ncbi.nlm.nih.gov/articles/PMC9006468/",
+      "Anderson og Jerger, Acoustic reflex and reflex decay, 1975, https://pubmed.ncbi.nlm.nih.gov/1164228",
+      "A critique of the Stenger test, 2025, https://pubmed.ncbi.nlm.nih.gov/40981394/",
+      "Efficiency of Stenger test in confirming profound, unilateral pseudohypacusis, Journal of Laryngology and Otology, https://pubmed.ncbi.nlm.nih.gov/19296863/",
+      "Elberling, Ludvigsen og Lyregaard, Dantale: a new Danish speech material, Scandinavian Audiology, 1989, https://www.tandfonline.com/doi/abs/10.3109/01050398909070742"
+    ],
+    "manuskript": "2026-10-20-audiologisk-diagnostik.txt",
+    "fingeraftryk": "4fb5f303",
+    "motor": "roest",
+    "motor_navn": "Røst",
+    "fil": "afsnit/2026-10-20-audiologisk-diagnostik-4fb5f303.mp3",
+    "bytes": 10703618,
+    "sekunder": 1337.8,
+    "udgivet": "2026-10-20T12:31:06+00:00"
   }
 ]
