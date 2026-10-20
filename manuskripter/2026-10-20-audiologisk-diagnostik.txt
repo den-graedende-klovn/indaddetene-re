@@ -1,0 +1,141 @@
+titel: A-Kursus i Audiologi, episode 1: Audiologisk diagnostik, måling og tolkning
+beskrivelse: Forberedelse til A-kursus i audiologi. Tonaudiometri, taleaudiometri, tympanometri, stapediusreflekser, recruitment, maskering og Stenger test, med lokalisation af høretab og typiske faldgruber.
+motor: roest
+kilder:
+- Dansk Medicinsk Audiologisk Selskab under Dansk Selskab for Otorhinolaryngologi, Hoved- og Halskirurgi, Audiometri til audiologisk diagnostik og til vurdering af indikation for høreapparatbehandling til voksne, udkast 2013, opdateret 2014, https://dsohh.dk/wp-content/uploads/2022/04/DSOHH-KKR-audiometri1.pdf
+- Dansk Selskab for Otorhinolaryngologi, Hoved- og Halskirurgi, Udredning af asymmetrisk hørelse, udkast 2013, opdateret 2021, https://dsohh.dk/wp-content/uploads/2022/04/KKR-ASYMMETRI.pdf
+- Dansk Selskab for Otorhinolaryngologi, Hoved- og Halskirurgi, Otosclerose, 2023, https://dsohh.dk/wp-content/uploads/2023/09/DSOHH-KKR-otosclerose_2023.pdf
+- Sundhedsstyrelsen, Faglige kvalitetskrav og anbefalinger til høreapparatbehandling af voksne, juli 2025, https://www.sst.dk/udgivelser/2025/kvalitetskrav-til-hoereapparatbehandling
+- Tauris, Hørenedsættelse, Lægehåndbogen på sundhed.dk, opdateret 2025, https://www.sundhed.dk/sundhedsfaglig/laegehaandbogen/oere-naese-hals/symptomer-og-tegn/hoerenedsaettelse/
+- Tauris, Tympanometri, Lægehåndbogen på sundhed.dk, opdateret 2025, https://www.sundhed.dk/sundhedsfaglig/laegehaandbogen/undersoegelser-og-proever/kliniske-procedurer/oere-naese-hals/tympanometri/
+- British Society of Audiology, Recommended procedure: pure-tone air-conduction and bone-conduction threshold audiometry with and without masking, 2018, https://www.thebsa.org.uk/wp-content/uploads/2023/10/OD104-32-Recommended-Procedure-Pure-Tone-Audiometry-August-2018-FINAL-1.pdf
+- British Society of Audiology, Recommended procedure: tympanometry and acoustic reflex thresholds, 2024, revideret 2026, https://www.thebsa.org.uk/wp-content/uploads/2026/03/BSA-Recommended-Procedure-Tympanometry-Acoustic-Reflex-Thresholds-March-2026-minor-revision.pdf
+- World Health Organization, World report on hearing, 2021, https://cdn.who.int/media/docs/default-source/documents/health-topics/deafness-and-hearing-loss/world-report-on-hearing/wrh-executive-summary.en.pdf
+- Salmon et al., Audiogram interpretation, StatPearls, 2026, https://www.ncbi.nlm.nih.gov/sites/books/NBK578179/
+- StatPearls, Audiology clinical masking, https://www.ncbi.nlm.nih.gov/sites/books/NBK580541/
+- Shi et al., A review of the neurobiological mechanisms that distinguish between loudness recruitment and hyperacusis, Medical Science Monitor, 2022, https://pmc.ncbi.nlm.nih.gov/articles/PMC9006468/
+- Anderson og Jerger, Acoustic reflex and reflex decay, 1975, https://pubmed.ncbi.nlm.nih.gov/1164228
+- A critique of the Stenger test, 2025, https://pubmed.ncbi.nlm.nih.gov/40981394/
+- Efficiency of Stenger test in confirming profound, unilateral pseudohypacusis, Journal of Laryngology and Otology, https://pubmed.ncbi.nlm.nih.gov/19296863/
+- Elberling, Ludvigsen og Lyregaard, Dantale: a new Danish speech material, Scandinavian Audiology, 1989, https://www.tandfonline.com/doi/abs/10.3109/01050398909070742
+---
+VÆRT: Velkommen til første episode i forberedelsen til A-kurset i audiologi. I dag handler det om audiologisk diagnostik, altså måling og tolkning. Vi starter med en case.
+EKSPERT: En mand i femoghalvtredserne kommer med nedsat hørelse på det ene øre og susen i øret. Audiogrammet viser et ensidigt tab. Spørgsmålet er, hvad han fejler, og hvad vi gør. For at svare skal vi kunne læse alle målingerne som en helhed.
+VÆRT: Hvad er emnet, og hvorfor er det vigtigt?
+EKSPERT: Audiometri måler tre ting. Hørelsens følsomhed, altså tærsklerne. Dens kvalitet, altså skelneevnen. Og mellemørets mekanik. Kombinationen placerer læsionen i mellemøret, i sneglen eller i hørenerven og hjernestammen. Det afgør, om patienten skal opereres, have høreapparat eller scannes. Og en enkelt fejlmåling kan skjule en tumor eller give en unødvendig operation.
+VÆRT: Hvilke sondringer skal jeg have i baghovedet?
+EKSPERT: Fire. Konduktivt eller perceptivt: er der et gab mellem luftledning og benledning? Cochleært eller retrocochleært: er der asymmetri, og passer skelneevnen til tærsklerne? Organisk eller funktionelt: stemmer taletærsklen med tonemiddelværdien? Og akut eller kronisk, for pludseligt perceptivt tab er tidskritisk. Det tager vi i en senere episode.
+VÆRT: Og de nærliggende tilstande?
+EKSPERT: Sekretorisk otitis media, otosklerose, Menières sygdom med tab i de dybe frekvenser, støjskade, presbyakuse med symmetrisk diskanttab og vestibularis schwannom med asymmetrisk diskanttab.
+[pause 2]
+VÆRT: Lad os tage lyden først. Hvordan skal jeg tænke decibel?
+EKSPERT: Decibel er tyve gange titalslogaritmen til trykforholdet. Hver tyve decibel er en tidobling af lydtrykket, og det svarer nogenlunde til, hvordan øret opfatter styrke. På audiogrammet bruges decibel hørelsesniveau. Her er nul den gennemsnitlige normale tærskel ved hver frekvens. Det er altså ikke fravær af lyd, og nogle hører under nul. Almindelig tale ligger mellem fem hundrede og tre tusind hertz, ved femogfyrre til tres decibel. Audiometeret skal kalibreres mindst en gang om året.
+VÆRT: Hvilken anatomi forklarer målingerne?
+EKSPERT: Mellemøret først. Uden det ville det meste af lydenergien blive kastet tilbage ved overgangen fra luft til væske. Trommehindens areal er sytten til tyve gange større end stapesfodpladens, og løftearmen giver lidt oveni. Samlet er den mekaniske fordel cirka toogtyve gange.
+VÆRT: Hvad betyder det klinisk?
+EKSPERT: At et konduktivt tab højst bliver omkring tres decibel. Er tabet større, må der være en perceptiv komponent.
+VÆRT: Og sneglen?
+EKSPERT: Basilarmembranen er tonotopisk. Diskanten registreres ved basis og bassen ved toppen. Derfor rammer støj, aldring og ototoksicitet typisk diskanten først. De ydre hårceller er sneglens forstærker. Skade på dem hæver tærsklen med op til halvtreds til tres decibel og giver recruitment. De indre hårceller er de egentlige sanseceller.
+[pause 2]
+VÆRT: Så til patientens historie. Hvad peger på hvad?
+EKSPERT: Jeg hører, men forstår ikke, især i støj, peger på perceptivt tab. Det peger væk fra rent konduktivt tab, hvor forståelsen er god, når lyden er kraftig nok. Bedre hørelse i støj og lav tale peger på konduktivt tab, for eksempel otosklerose. Ubehag ved kraftige lyde, mens svage ikke høres, er recruitment ved cochleært tab. Lydoverfølsomhed med normal hørelse er hyperakuse. Ensidigt høretab eller ensidig tinnitus peger på vestibularis schwannom, Menière eller pludselig døvhed, og væk fra symmetrisk presbyakuse. Støjskade giver et hak ved fire kilohertz ved kontinuerlig støj og ved seks kilohertz ved impulsstøj. Ototoksisk medicin giver symmetrisk diskanttab.
+VÆRT: Hvad spørger du altid om?
+EKSPERT: Hvilket øre der er bedst, for testen starter dér. Om der har været kraftig støj de sidste fireogtyve timer. Om tinnitus, som kan forstyrre tonedetektionen. Og om tidligere øreoperationer. En forsikringssag får mig til at tænke på funktionelt høretab, men det er ikke diagnostisk alene.
+[pause 2]
+VÆRT: Så til undersøgelsen. Hvad siger den danske retningslinje?
+EKSPERT: Retningslinjen om audiometri er et udkast fra to tusind og tretten, opdateret i to tusind og fjorten. Den er altså over tolv år gammel og bygger på konsensus og erfaring. Først otoskopi eller otomikroskopi, så nøje instruktion. Fuld audiometri er tonetærskler for luft og ben, taletærskel og talediskrimination. Weber tages ved mere end ti decibel forskel mellem ørerne. Benledning maskeres ved mistanke om gab over ti decibel. Og tympanometri og reflekser tages altid, medmindre det er kontraindiceret.
+VÆRT: Hvornår er det kontraindiceret?
+EKSPERT: Efter tympanoplastik type to og tre og efter otoskleroseoperation. Det britiske audiologiselskab nævner også udflåd, en rød og bulnende trommehinde, mistanke om perilymfefistel og nylig kirurgi, og anbefaler to måneders ventetid efter øreoperation. Rinne og Bing kommer i næste episode. Otoakustiske emissioner og hjernestammeaudiometri bruges ved usikker audiometri eller mistanke om simulation.
+[pause 2]
+VÆRT: Hvordan læser jeg et audiogram?
+EKSPERT: Frekvensen står vandret med bassen til venstre, hørelsesniveauet lodret med dårligere hørelse nedad. Højre øre er rødt med cirkler, venstre blåt med kryds. Luftledning tester hele vejen fra øregang til hjerne. Benledning omgår ydre øre og mellemøre og måles normalt kun mellem fem hundrede og to tusind hertz. Normalområdet er nul til tyve decibel. Al måling har en usikkerhed på mindst fem decibel, så fem decibel forskel mellem to audiogrammer er støj, ikke progression.
+VÆRT: Hvordan graderer man tabet?
+EKSPERT: Verdenssundhedsorganisationen har siden to tusind og enogtyve inddelt efter gennemsnittet af fem hundrede, et tusind, to tusind og fire tusind hertz på det bedste øre. Under tyve decibel er normalt. Tyve til under femogtredive er let. Femogtredive til under halvtreds er moderat. Halvtreds til under femogtres er moderat svært. Femogtres til under firs er svært. Firs til under femoghalvfems er meget svært. Femoghalvfems eller mere er komplet. Det er en epidemiologisk inddeling for voksne. Det britiske selskab bruger en anden, og jeg har ikke fundet en selvstændig dansk. Angiv derfor altid, hvilket system du bruger.
+VÆRT: Og konfigurationerne og gabet?
+EKSPERT: Faldende symmetrisk diskanttab er presbyakuse eller ototoksicitet. Hak ved fire eller seks kilohertz er støjskade. Tab i bas og mellemtoner er Menière, men sekretorisk otitis media giver også ofte et let lavfrekvent konduktivt tab. Asymmetrisk diskanttab er vestibularis schwannom, indtil andet er bevist. Et gab mellem luft og ben på ti decibel eller mere, efter korrekt maskering, betyder en konduktiv komponent. Ved perceptivt tab er begge lige meget nedsat. Ved blandet tab er benledningen nedsat, og luftledningen endnu mere.
+[pause 2]
+VÆRT: Hvad tilføjer taleaudiometri?
+EKSPERT: Taletærsklen bestemmes i Danmark med talordstripletter fra Dantale en. Den skal ligge tæt på tonemiddelværdien. Er den mere end ti til femten decibel bedre, tyder det på funktionelt høretab. Talediskriminationen måles med lister på femogtyve enstavelsesord ved mest behagelige niveau. Hvert ord svarer til fire procent. Den skal ofte maskeres, fordi den måles over tærsklen.
+VÆRT: Hvordan bruger jeg tone og tale sammen?
+EKSPERT: Konduktivt tab giver normal diskrimination. Cochleært tab giver en diskrimination, der passer til tærsklerne. Uforholdsmæssigt lav eller asymmetrisk diskrimination peger mod en retrocochleær årsag. Retningslinjen om asymmetri regner tyve procent eller mere forskel mellem ørerne som asymmetri. Rollover, hvor ordscoren falder ved højere niveau, er klassisk retrocochleært, men ikke selvstændigt diagnostisk.
+[pause 2]
+VÆRT: Så tympanometri.
+EKSPERT: Den måler, hvor let lyd ledes ind i mellemøret, mens trykket i øregangen ændres. Man aflæser compliance, altså toppens højde, mellemøretryk, altså toppens placering, og øregangsvolumen. Fra seks måneders korrigeret alder bruges en sondetone på to hundrede og seksogtyve hertz. Under seks måneder bruges et tusind hertz, fordi standardtonen giver falsk normale kurver. Normalværdierne varierer, så brug klinikkens egne.
+VÆRT: Hvad betyder kurverne?
+EKSPERT: Type A har top ved omkring nul tryk og normal compliance. Det er normalt mellemøre, men udelukker ikke otosklerose. Type As har lav compliance og peger på et stivt system: otosklerose, tympanosklerose eller fiksation af hammeren. Type Ad har meget høj compliance og peger på en slap trommehinde, sjældnere en afbrudt knoglekæde. Type C har top forskudt mod negativt tryk og peger på tubadysfunktion eller rekonvalescens efter otitis. Type B er en flad kurve.
+VÆRT: Og den flade kurve?
+EKSPERT: Se på volumen, før du konkluderer. Normalt volumen betyder væske i mellemøret. Stort volumen betyder hul i trommehinden eller åbent dræn. Lille volumen betyder, at proben sidder mod øregangsvæggen eller er blokeret af voks. For sekretorisk otitis media har metoden en sensitivitet på cirka femogfirs procent og en specificitet på cirka halvfems procent.
+[pause 2]
+VÆRT: Så stapediusrefleksen. Hvad er refleksbuen?
+EKSPERT: Hørenerven, nucleus cochlearis, oliva superior og ansigtsnervens kerne, og derfra ansigtsnerven til stapediusmusklen. Buen krydser i hjernestammen, så lyd i det ene øre giver reflekser i begge. Kontralateral måling tester derfor mellemøre, snegl, hørenerve, hjernestamme og ansigtsnerve på én gang, og er mest følsom for retrocochleær patologi. Ipsilateral måling er følsom for mellemørepatologi, men sårbar for artefakter.
+VÆRT: Hvilke mønstre skal jeg kende?
+EKSPERT: Ved konduktivt tab mangler reflekserne, når proben sidder i det syge øre. Selv et lille gab kan ophæve dem. Ved otosklerose er der arefleksi ved fiksation af stapes. Ved cochleært tab op til moderat grad er reflekserne bevaret ved lav sensation level, altså under tres decibel over tærsklen, og der er ingen nedbrydning. Ved retrocochleært tab mangler reflekserne eller er forhøjede ved lyd i det syge øre, og der er nedbrydning. Ved læsion af ansigtsnerven mangler reflekserne, når proben sidder på den lammede side. Er lammelsen distal for nerven til stapedius, er de bevaret.
+VÆRT: Hvad er refleksnedbrydning?
+EKSPERT: En tone ved fem hundrede eller et tusind hertz gives kontralateralt ti decibel over reflekstærsklen i ti sekunder. Falder amplituden til halvdelen eller mindre, er testen positiv og peger mod hørenerven. Sensitiviteten varierer meget, så testen er et supplement, ikke en udelukkelsesundersøgelse. Og efter retningslinjen om asymmetri udredes patienter med alene asymmetri i reflekstærskel ikke.
+[pause 2]
+VÆRT: Så recruitment. Hvad er det?
+EKSPERT: Ved tab af ydre hårceller forsvinder forstærkningen af svage lyde. Kraftige lyde opleves næsten normalt. Styrken vokser derfor unormalt hurtigt over tærsklen. Patienten hører ikke svag tale, men kraftig tale er hurtigt ubehagelig. Dynamikområdet, altså afstanden fra høretærskel til ubehagstærskel, er smalt.
+VÆRT: Hvordan påvises det, og hvorfor er det vigtigt?
+EKSPERT: Bedst med stapediusrefleksen ved lav sensation level og ved måling af ubehagstærsklen. Ældre tests bruges sjældent, fordi magnetisk resonans har overtaget den retrocochleære differentialdiagnostik. Recruitment placerer tabet i sneglen og forklarer, hvorfor høreapparater skal komprimere. Det skal skelnes fra hyperakuse, hvor ubehagstærsklen kan ligge på halvfjerds til firs decibel trods tærskler omkring nul.
+[pause 2]
+VÆRT: Så maskering. Hvorfor er det nødvendigt?
+EKSPERT: Fordi lyd fra den ene lydgiver kan nå det andet øres snegl gennem kraniet. Interaural dæmpning er tabet på vejen. Det er fyrre til firs decibel med hovedtelefoner og mindst femoghalvtreds med korrekt anlagte insertpropper. For benledning er den lidt eller ingen og regnes klinisk som nul. Uden maskering får man en skyggekurve, hvor det døve øres kurve ligger fyrre til tres decibel under det godes. Stol aldrig på patientens angivelse af, hvilket øre der hører.
+VÆRT: Hvornår skal jeg maskere?
+EKSPERT: Tre regler, frekvens for frekvens. Første regel: umaskeret luftledning med forskel på fyrre decibel eller mere med hovedtelefoner, femoghalvtreds med insertpropper. Anden regel: umaskeret benledning er ti decibel eller mere bedre end luftledning på det ene øre. Tredje regel: benledningen på det ene øre er fyrre eller mere bedre end det andet øres umaskerede luftledning. Diskriminationen maskeres også ofte.
+VÆRT: Hvordan gør man?
+EKSPERT: Plateaumetoden. Find tærsklen uden støj. Giv smalbåndsstøj i det andet øre ved dets egen tærskel. Hæv støjen i trin på ti decibel, og find tonetærsklen hver gang. Når tre støjniveauer i træk giver samme tonetærskel, er plateauet nået, og det er den sande tærskel. Stiger tonetærsklen en decibel for hver decibel støj, er der stadig overhøring.
+VÆRT: Hvad kan gå galt?
+EKSPERT: Okklusionseffekten forbedrer benledningen i bassen, når det ikke testede øre lukkes. Central maskering hæver tærsklen med nogle få decibel, uden at støjen når sneglen. Overmaskering overhører støjen til det testede øre og hæver tærsklen falsk. Og maskeringsdilemmaet: ved store tosidige konduktive tab skal støjen være så kraftig, at den overhøres, før plateauet nås. Så er det ofte umuligt at bestemme benledningen for hvert øre, og usikkerheden skal noteres.
+[pause 2]
+VÆRT: Så Stenger test. Hvornår bruger man den?
+EKSPERT: Ved ensidigt eller markant asymmetrisk høretab med mistanke om funktionelt høretab. Det kan være manglende skyggekurve, svingende tærskler eller en taletærskel, der er meget bedre end tonemiddelværdien. Princippet er, at samme tone til begge ører kun høres i det øre, hvor den opleves kraftigst.
+VÆRT: Hvordan udføres den?
+EKSPERT: Tonen gives cirka ti decibel over tærsklen på det gode øre og samtidig ti decibel under den angivne tærskel på det døve øre. Den, der virkelig er døv på det ene øre, hører tonen i det gode øre og svarer. Det er en negativ Stenger. Den, der har et funktionelt tab, hører tonen i det døve øre, nægter at høre noget og svarer ikke. Det er en positiv Stenger.
+VÆRT: Hvor god er testen?
+EKSPERT: Den kræver en asymmetri på mindst cirka tyve til femogtyve decibel. En positiv test beviser ikke simulation, for funktionelt tab kan være ubevidst. Testen er omdiskuteret. En kritisk gennemgang fra to tusind og femogtyve foreslår, at fænomenet delvist kan skyldes muskelsammentrækning i mellemøret eller central maskering. Ved positiv test går man videre med objektive målinger.
+[pause 2]
+VÆRT: Kan du samle det hele?
+EKSPERT: Konduktivt tab: gab mellem luft og ben, ofte unormalt tympanogram, reflekser mangler med proben i det syge øre, normal diskrimination. Cochleært tab: luft og ben lige meget nedsat, normalt tympanogram, reflekser bevaret uden nedbrydning, diskrimination der passer til tabet. Retrocochleært tab: ofte asymmetrisk diskanttab, reflekser mangler eller er forhøjede med nedbrydning, uforholdsmæssigt lav diskrimination, og næste skridt er magnetisk resonans.
+VÆRT: Hvad fører diagnostikken til?
+EKSPERT: Konduktivt tab fører til otomikroskopi og eventuelt kirurgi eller høreapparat. Ukompliceret cochleært tab fører til høreapparat efter Sundhedsstyrelsens kvalitetskrav fra juli to tusind og femogtyve. Kompliceret tab, for eksempel asymmetri eller svingende tab, skal til en audiologisk sygehusafdeling. Funktionelt høretab kræver objektiv verifikation og en rolig tilbagemelding. Det må ikke føre til høreapparat eller operation.
+[pause 2]
+VÆRT: Så til faldgruberne. Hvad er akut?
+EKSPERT: Pludseligt perceptivt høretab. Tone og taleaudiometri samme dag, med maskeret benledning, så konduktivt og perceptivt ikke forveksles. Retningslinjen om asymmetri siger, at tilstanden altid skal udredes med magnetisk resonans, også ved bedring. Og høretab efter meningitis skal straks til et cochlear implant-center, så sneglen ikke forbener.
+VÆRT: Alvorligt, men ikke akut?
+EKSPERT: Asymmetri. Retningslinjen definerer den som femten decibel eller mere i luftledning på to nabofrekvenser mellem to og otte kilohertz, eller tyve decibel i det øvrige område, eller tyve procent forskel i diskrimination. Cirka halvfems procent af vestibularis schwannomer debuterer med asymmetrisk diskanttab, men asymmetri i bas og mellemtoner udelukker ikke en retrocochleær årsag. En ny version af retningslinjen om vestibularis schwannom er lagt op i juni to tusind og seksogtyve. Den har jeg ikke kunnet læse, så tjek kriterierne. Et særligt pakkeforløb har jeg ikke kunnet finde.
+VÆRT: Og fejl i håndteringen?
+EKSPERT: De hyppigste er manglende eller forkert maskering. Umaskeret benledning tolket som ørespecifik giver falsk konduktivt tab på det døve øre. Skyggekurve tolket som reel hørelse giver et falsk levende øre. Overmaskering giver falsk perceptivt eller blandet tab. Kollaberede øregange under hovedtelefoner giver falsk diskanttab. Voks giver falsk konduktivt tab. Ved svære tab kan patienten mærke vibrationer i stedet for at høre, så benledningen bliver falsk god i bassen. Og en forudsigelig tonerytme giver falsk positive svar.
+VÆRT: Særlige patienter?
+EKSPERT: Børn under seks måneder, hvor standardtympanometri er upålidelig. Ældre, hvor få pålidelige frekvenser er bedre end en komplet, upålidelig test. Og nyopererede, hvor impedans kun måles efter lægelig godkendelse.
+VÆRT: Hvad er nyt, og hvad er uafklaret?
+EKSPERT: To tusind og enogtyve sænkede Verdenssundhedsorganisationen grænsen for let høretab fra seksogtyve til tyve decibel og indførte ensidigt høretab som kategori. I juli to tusind og femogtyve kom Sundhedsstyrelsens kvalitetskrav. Uafklaret er bredbåndstympanometri, hvor der mangler enighed om protokol, og fortolkningen af Stenger test. De fleste danske audiologiske retningslinjer er fra to tusind og tretten til fjorten.
+VÆRT: Perler til vagten?
+EKSPERT: Tre. Én: flad kurve, se på volumen, før du konkluderer. To: et ensidigt dødt øre uden skyggekurve er fysiologisk umuligt, for lyden overhøres. Tænk funktionelt tab, sammenhold med taletærsklen, og lav Stenger test. Tre: ved ensidigt perceptivt tab skal benledningen maskeres, før du kalder det perceptivt, for umaskeret benledning er altid det bedste øres snegl.
+[pause 2]
+VÆRT: Så til quizzen. Otte spørgsmål. Første spørgsmål. Hvor stort kan et konduktivt tab højst blive, og hvad betyder det, hvis tabet er større?
+[pause 5]
+EKSPERT: Omkring tres decibel. Er tabet større, må der være en perceptiv komponent, fordi mellemørets mekaniske fordel kun rækker så langt.
+VÆRT: Andet spørgsmål. Et tympanogram viser en flad kurve med stort øregangsvolumen. Hvad peger det på?
+[pause 8]
+EKSPERT: Hul i trommehinden eller et åbent dræn. Normalt volumen ville betyde væske, og lille volumen en probe mod væggen eller voks.
+VÆRT: Tredje spørgsmål. Hvilket refleksmønster peger på cochleært tab, og hvilket på retrocochleært?
+[pause 5]
+EKSPERT: Cochleært: reflekser bevaret ved lav sensation level og ingen nedbrydning. Retrocochleært: reflekserne mangler eller er forhøjede, og der er nedbrydning, fordi hørenerven er ramt.
+VÆRT: Fjerde spørgsmål. En mand på tooghalvtreds år har et ensidigt tab. Umaskeret luftledning er femoghalvtreds decibel dårligere på det ene øre end på det andet, målt med hovedtelefoner. Hvad gør du?
+[pause 8]
+EKSPERT: Jeg maskerer. Forskellen er over fyrre decibel, så reglen er opfyldt. Ellers risikerer jeg en skyggekurve, hvor det gode øre svarer for det døve.
+VÆRT: Femte spørgsmål. Taletærsklen er femten decibel bedre end tonemiddelværdien. Hvad mistænker du, og hvad gør du næste gang?
+[pause 8]
+EKSPERT: Funktionelt høretab, for de to værdier skal ligge tæt. Jeg laver Stenger test ved ensidigt tab og går videre til objektive målinger. En positiv test beviser dog ikke simulation.
+VÆRT: Sjette spørgsmål. Hvilke frekvenser indgår i Verdenssundhedsorganisationens gennemsnit, og på hvilket øre?
+[pause 5]
+EKSPERT: Fem hundrede, et tusind, to tusind og fire tusind hertz, målt på det bedste øre. Under tyve decibel er normalt.
+VÆRT: Syvende spørgsmål. Hvilken sondetone bruges under seks måneders korrigeret alder, og hvorfor?
+[pause 5]
+EKSPERT: Et tusind hertz. Standardtonen på to hundrede og seksogtyve hertz giver falsk normale kurver hos spædbørn.
+VÆRT: Ottende spørgsmål. Hvilke fund udløser udredning for asymmetri, og hvad er næste skridt?
+[pause 8]
+EKSPERT: Femten decibel eller mere på to nabofrekvenser mellem to og otte kilohertz, eller tyve decibel i det øvrige område, eller tyve procent forskel i diskrimination. Næste skridt er magnetisk resonans.
+[pause 2]
+VÆRT: Lad os samle op.
+EKSPERT: Audiometri kombinerer tone, tale, tympanometri og reflekser til én tolkning. Tæl altid gabet mellem luft og ben, og maskér, når reglerne kræver det. Sammenhold taletærskel og tonemiddelværdi. Og husk, at ensidigt eller asymmetrisk tab skal tænkes retrocochleært, indtil andet er vist.
