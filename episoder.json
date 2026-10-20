@@ -163,5 +163,38 @@
     "bytes": 10703618,
     "sekunder": 1337.8,
     "udgivet": "2026-10-20T12:31:06+00:00"
+  },
+  {
+    "id": "2026-10-20-konduktive-hoeretab-otosklerose",
+    "guid": "2026-10-20-konduktive-hoeretab-otosklerose-69c5b86c",
+    "titel": "A-Kursus i Audiologi, episode 2: Konduktive høretab og otosklerose",
+    "beskrivelse": "Forberedelse til A-kursus i audiologi. Konduktivt høretab, Carhart notch, stemmegafler, årsager, otosklerose og stapedotomi, og kirurgi versus høreapparat versus knogleforankret høreapparat.",
+    "kilder": [
+      "Dansk Selskab for Otorhinolaryngologi, Hoved- og Halskirurgi, Otosklerose, klinisk retningslinje, opdateret 2023, https://dsohh.dk/wp-content/uploads/2023/09/DSOHH-KKR-otosclerose_2023.pdf",
+      "Dansk Selskab for Otorhinolaryngologi, Hoved- og Halskirurgi, Knogleforankret høreapparat BAHA, klinisk retningslinje, 2019, https://dsohh.dk/wp-content/uploads/2022/05/DSOHH-KKR-BAHA_2019.pdf",
+      "Dansk Selskab for Otorhinolaryngologi, Hoved- og Halskirurgi, Tubulation af trommehinden, klinisk retningslinje, 2019, https://dsohh.dk/wp-content/uploads/2022/05/DSOHH-KKR-TUBULATION_2019.pdf",
+      "Dansk Selskab for Otorhinolaryngologi, Hoved- og Halskirurgi, Mellemørekolesteatom, klinisk retningslinje, revideret 2024, https://dsohh.dk/wp-content/uploads/2024/05/Mellemoerekolesteatom_rev2024_final.pdf",
+      "Dansk Medicinsk Audiologisk Selskab under Dansk Selskab for Otorhinolaryngologi, Hoved- og Halskirurgi, Audiometri til audiologisk diagnostik, udkast 2013, opdateret 2014, https://dsohh.dk/wp-content/uploads/2022/04/DSOHH-KKR-audiometri1.pdf",
+      "Holmelund, Otosklerose, Lægehåndbogen på sundhed.dk, opdateret 2024, https://www.sundhed.dk/sundhedsfaglig/laegehaandbogen/oere-naese-hals/tilstande-og-sygdomme/mellemoere/otosklerose/",
+      "Lægehåndbogen på sundhed.dk, Mellemørebetændelse kronisk, https://www.sundhed.dk/sundhedsfaglig/laegehaandbogen/oere-naese-hals/tilstande-og-sygdomme/mellemoere/mellemoerebetaendelse-kronisk/",
+      "Toscano et al., Stapes surgery for otosclerosis, StatPearls, 2025, https://www.ncbi.nlm.nih.gov/sites/books/NBK562205/",
+      "Otosclerosis, StatPearls, opdateret 2024, https://www.ncbi.nlm.nih.gov/sites/books/NBK560671/",
+      "Chau et al., Interventions for the diagnosis and management of otosclerosis, an umbrella review, Otolaryngology Head and Neck Surgery, 2026, https://aao-hnsfjournals.onlinelibrary.wiley.com/doi/10.1002/ohn.70161",
+      "Diagnostic accuracy of tuning fork tests for hearing loss, a systematic review, Otolaryngology Head and Neck Surgery, 2018, https://www.academia.edu/78467534/Diagnostic_Accuracy_of_Tuning_Fork_Tests_for_Hearing_Loss_A_Systematic_Review",
+      "Sabbe et al., Otosclerosis, shift in bone conduction after stapedotomy, B-ENT, 2015, https://pubmed.ncbi.nlm.nih.gov/26601550/",
+      "Wiatr et al., Carhart notch, a prognostic factor in surgery for otosclerosis, Ear, Nose and Throat Journal, 2021, https://journals.sagepub.com/doi/10.1177/0145561319864571",
+      "Zhou et al., Clinical and diagnostic characterization of canal dehiscence syndrome, Otology and Neurotology, 2007, https://pubmed.ncbi.nlm.nih.gov/17955609/",
+      "Albazee et al., Endoscopic versus microscopic stapedotomy, systematic review and meta-analysis, Otolaryngology Head and Neck Surgery, 2025, https://pubmed.ncbi.nlm.nih.gov/39749405/",
+      "Endoscopic versus microscopic stapedotomy, a comprehensive systematic review and meta-analysis, European Archives of Oto-Rhino-Laryngology, 2026, https://pubmed.ncbi.nlm.nih.gov/41838154/",
+      "Long-term hearing outcomes following cochlear implantation in far advanced otosclerosis, 2025, https://pubmed.ncbi.nlm.nih.gov/40105439/"
+    ],
+    "manuskript": "2026-10-20-konduktive-hoeretab-otosklerose.txt",
+    "fingeraftryk": "69c5b86c",
+    "motor": "roest",
+    "motor_navn": "Røst",
+    "fil": "afsnit/2026-10-20-konduktive-hoeretab-otosklerose-69c5b86c.mp3",
+    "bytes": 10439868,
+    "sekunder": 1304.9,
+    "udgivet": "2026-10-20T21:46:29+00:00"
   }
 ]
