@@ -1,0 +1,157 @@
+titel: A-Kursus i Audiologi, episode 3: Perceptive høretab hos voksne
+beskrivelse: Forberedelse til A-kursus i audiologi. Presbyakuse, støjskade med lovgivning og anmeldelse, tinnitus, hyperakuse, pludseligt høretab, asymmetri og vestibularis schwannom, og hvornår et høretab er kompliceret.
+motor: roest
+kilder:
+- Dansk Selskab for Vestibulogi og Dansk Medicinsk Audiologisk Selskab under Dansk Selskab for Otorhinolaryngologi, Hoved- og Halskirurgi, Vestibulært schwannom, version 1, godkendt 7. juni 2026, https://dsohh.dk/wp-content/uploads/2026/06/VS%20til%20DSOHH%20endelig%20version%2028052026.pdf
+- Sundhedsstyrelsen, Faglige kvalitetskrav og anbefalinger til høreapparatbehandling af voksne, version 1, juli 2025, https://www.sst.dk/da/udgivelser/2025/Kvalitetskrav-til-hoereapparatbehandling
+- Dansk Medicinsk Audiologisk Selskab under Dansk Selskab for Otorhinolaryngologi, Hoved- og Halskirurgi, Udredning og behandling af patienter med tinnitus, udkast 2013, opdateret 2014, https://dsohh.dk/wp-content/uploads/2022/04/DSOHH-KKR-tinnitus1.pdf
+- Dansk Selskab for Vestibulogi under Dansk Selskab for Otorhinolaryngologi, Hoved- og Halskirurgi, Menières sygdom, 2022, https://dsohh.dk/wp-content/uploads/2022/05/Meniere.pdf
+- Holmelund, Pludseligt sensorineuralt høretab, Lægehåndbogen på sundhed.dk, opdateret 2025, https://www.sundhed.dk/sundhedsfaglig/laegehaandbogen/oere-naese-hals/tilstande-og-sygdomme/indre-oere/pludseligt-sensorineuralt-hoeretab/
+- Tauris, Støjskade, Lægehåndbogen på sundhed.dk, opdateret 2026, https://www.sundhed.dk/sundhedsfaglig/laegehaandbogen/oere-naese-hals/tilstande-og-sygdomme/indre-oere/stoejskade/
+- Lægehåndbogen på sundhed.dk, Hørenedsættelse hos ældre, https://www.sundhed.dk/sundhedsfaglig/laegehaandbogen/oere-naese-hals/tilstande-og-sygdomme/indre-oere/hoerenedsaettelse-hos-aeldre/
+- Udredning og behandling af tinnitus, Ugeskrift for Læger, 2023, https://ugeskriftet.dk/videnskab/udredning-og-behandling-af-tinnitus-0
+- Arbejdstilsynet, Bekendtgørelse om beskyttelse mod udsættelse for støj i forbindelse med arbejdet, 2006 med senere ændringer, https://at.dk/regler/bekendtgoerelse-om-beskyttelse-mod-udsaettelse-for-stoej-i-forbindelse-med-arbejdet-sammenskrivning/
+- Arbejdsmarkedets Erhvervssikring, Læger og tandlægers anmeldepligt, https://www.aes.dk/sagsforloeb/laeger-og-tandlaegers-anmeldepligt
+- Arbejdsmarkedets Erhvervssikring, Vejledning om erhvervssygdomme anmeldt fra 1. januar 2005, 2020, https://www.retsinformation.dk/eli/retsinfo/2020/9563/dan/xml
+- Chandrasekhar et al., Clinical practice guideline, sudden hearing loss, update, Otolaryngology Head and Neck Surgery, 2019, https://journals.sagepub.com/doi/full/10.1177/0194599819859885
+- Plontke et al., Intratympanic corticosteroids for sudden sensorineural hearing loss, Cochrane Database of Systematic Reviews, 2022, https://www.cochranelibrary.com/cdsr/doi/10.1002/14651858.CD008080.pub2
+- Mirian og Ovesen, Intratympanic versus systemic corticosteroids in first-line treatment of idiopathic sudden sensorineural hearing loss, JAMA Otolaryngology Head and Neck Surgery, 2020, https://jamanetwork.com/journals/jamaotolaryngology/fullarticle/2762718
+- Cima et al., A multidisciplinary European guideline for tinnitus, HNO, 2019, https://link.springer.com/article/10.1007/s00106-019-0633-7
+- Tunkel et al., Clinical practice guideline, tinnitus, Otolaryngology Head and Neck Surgery, 2014, https://journals.sagepub.com/doi/10.1177/0194599814545325
+- Sound tolerance conditions, hyperacusis, misophonia, noise sensitivity and phonophobia, American Journal of Audiology, 2022, https://pubs.asha.org/doi/10.1044/2022_AJA-22-00035
+- Livingston et al., Dementia prevention, intervention, and care, 2024 report of the Lancet standing commission, The Lancet, 2024, https://www.thelancet.com/journals/lancet/article/PIIS0140-6736(24)01296-0/fulltext
+- Lin et al., Hearing intervention versus health education control to reduce cognitive decline in older adults with hearing loss, ACHIEVE, The Lancet, 2023, https://www.thelancet.com/journals/lancet/article/PIIS0140-6736(23)01406-X/fulltext
+---
+VÆRT: Velkommen til tredje episode i forberedelsen til A-kurset i audiologi. I dag handler det om perceptive høretab hos voksne. Vi starter med to patienter.
+EKSPERT: Den første er en mand på otteoghalvfjerds år. Hørelsen er blevet langsomt dårligere på begge ører. Han kan høre, at folk taler, men ikke forstå, hvad de siger, især i selskab. Hans kone har lagt mærke til det længe før ham. Den anden er en kvinde på femoghalvtreds år. Hun vågnede i morges med et døvt øre, tinnitus og en følelse af tryk. Otoskopien er normal. Den første patient har tid. Den anden har ikke.
+VÆRT: Hvad har de til fælles?
+EKSPERT: Begge har et perceptivt høretab, altså en skade i sneglen eller i hørenerven og de centrale baner. Det er oftest irreversibelt. Hos de fleste voksne skyldes det aldring og støj. Din opgave er at finde de få, hvor tid eller diagnose ændrer forløbet. Det er pludseligt høretab, tumor på hørenerven, central årsag og autoimmun sygdom.
+[pause 2]
+VÆRT: Hvilke årsager skal jeg have i baghovedet?
+EKSPERT: Aldring, støj, ototoksiske stoffer og genetik er de hyppigste. Så kommer infektion som viral labyrintitis, meningitis, syfilis, borrelia og herpes zoster oticus. Dertil Menières sygdom, autoimmun sygdom inklusive Cogans syndrom, vaskulær sygdom, tumor, traume og idiopatisk tab.
+VÆRT: Hvordan sorterer man dem?
+EKSPERT: Med fire spørgsmål. Første spørgsmål: konduktivt eller perceptivt. Otoskopi, stemmegafler og benledning afgør det. Det gennemgik vi sidst. Andet spørgsmål: akut, svingende eller gradvist. Akut peger på pludseligt høretab, akustisk traume eller apopleksi. Svingende tab i de dybe toner peger på Menières sygdom. Langsomt og symmetrisk peger på presbyakuse eller kronisk støjskade.
+VÆRT: Og de to sidste?
+EKSPERT: Tredje spørgsmål: symmetrisk eller asymmetrisk. Asymmetri peger på vestibularis schwannom, Menière eller pludseligt høretab. Fjerde spørgsmål: ledsagesymptomer. Svimmelhed, udfald af kranienerver og pulssynkron tinnitus ændrer alle sporet.
+VÆRT: Så alt pludseligt og alt asymmetrisk skal jeg tage alvorligt?
+EKSPERT: Ja. Resten er oftest aldring og støj, men også de patienter skal tilbydes behandling.
+VÆRT: Kan du give nogle anamnestiske nøgler?
+EKSPERT: Pårørende, der har opdaget det før patienten, peger på presbyakuse. Mange års støjende arbejde, jagt eller skydning peger på støjskade. Et tab efter knald, koncert eller eksplosion er akut akustisk traume. Tab i ung alder i familien peger på genetik. Behandling med aminoglykosider, cisplatin, høje doser loopdiuretika eller acetylsalicylsyre peger på ototoksicitet, hvor salicylat ofte er reversibel.
+VÆRT: Og undersøgelsen?
+EKSPERT: Otoskopi først, for cerumen, væske og perforation. Normal otoskopi peger på perceptivt tab, men udelukker ikke otosklerose. Så stemmegafler, hvor Weber til det raske øre og positiv Rinne bekræfter et ensidigt perceptivt tab. Derefter audiometri med maskering, taleaudiometri, tympanometri og stapediusreflekser. Er diskriminationen dårligere, end tærsklen tilsiger, peger det på en retrocochleær eller neural årsag.
+VÆRT: Og hvad lægger man oveni?
+EKSPERT: Otoakustiske emissioner. Er de bevarede, men taleforståelsen dårlig og hjernestammeaudiometrien unormal, peger det på auditiv neuropati. Der hjælper høreapparat ofte dårligt. Otoneurologisk undersøgelse med kranienerver, nystagmus og hovedimpulstest peger på retrocochleær eller central årsag. Ved pulssynkron tinnitus lytter man over hals og øre efter durafistel.
+VÆRT: Hvorfor forstår man tale så dårligt, selv når tærsklen kun er moderat nedsat?
+EKSPERT: De ydre hårceller forstærker svage lyde og skærper frekvensselektiviteten. Når de går til grunde, stiger tærsklen, og lydstyrken vokser unormalt hurtigt. Det er recruitment fra første episode. Tale i støj bliver svær. Derfor hjælper et høreapparat på hørbarheden, men ikke fuldt på taleforståelsen i støj. Den basale del af sneglen koder diskanten. Den er mest sårbar over for aldring, støj og ototoksiske stoffer. Derfor starter de fleste tab i diskanten.
+[pause 2]
+VÆRT: Så til den hyppigste årsag. Presbyakuse.
+EKSPERT: Et symmetrisk, jævnt faldende diskanttab. Arbejdsmarkedets Erhvervssikring bemærker, at alder alene giver en jævn, symmetrisk faldende tærskel. Klassisk deler man presbyakuse i fire former efter Schuknecht. Sensorisk med hårcelletab og stejlt diskanttab. Neural med tab af nerveceller og dårlig diskrimination i forhold til tærsklen. Strial med fladt tab. Og mekanisk med jævnt faldende tab. I praksis er de fleste blandingsformer.
+VÆRT: Så presbyakuse er ikke én sygdom?
+EKSPERT: Nej. Lægehåndbogen beskriver den som en genetisk betinget aldringsproces med erhvervet auditivt stress, skade og anden øresygdom oven i.
+VÆRT: Hvornår tilbyder man høreapparat?
+EKSPERT: Lægehåndbogen regner med høreapparat, når gennemsnittet ved et, to og fire kilohertz er tredive decibel eller dårligere. Men også mindre tab kan give gavn. Sundhedsstyrelsen siger, at man ikke kan angive et mindste tab. Indikationen beror på en samlet vurdering af patientens behov. Dertil kommer kommunikationsråd, høretekniske hjælpemidler og hørepædagogisk undervisning gennem kommunikationscentrene.
+VÆRT: Og demens?
+EKSPERT: Sammenhængen mellem høretab og demens er solid. Kommissionen under tidsskriftet Lancet regner høretab som en af de største risikofaktorer, man kan gøre noget ved. Men kausaliteten er ikke bevist. Det store amerikanske forsøg fra to tusind og treogtyve viste ingen signifikant effekt af høreintervention på kognitiv tilbagegang i hele gruppen. Brug det som et ekstra argument for høreapparat. Ikke som et løfte om at forebygge demens.
+[pause 2]
+VÆRT: Støjskade. Hvordan ser den ud?
+EKSPERT: Et hak i audiogrammet ved tre til seks kilohertz med bedring ved otte kilohertz. Ved vedvarende støj ligger hakket typisk ved fire kilohertz. Ved impulsstøj ofte ved seks. Ved skydning er tabet værst på øret nærmest mundingen. Et midlertidigt tab kan gå i sig selv. Varer det mere end cirka otteogfyrre timer, regner Lægehåndbogen det for permanent.
+VÆRT: Så hakket er skade og ikke bare alder?
+EKSPERT: Ja. Alder alene giver en jævn kurve.
+VÆRT: Kan det behandles?
+EKSPERT: Kronisk støjskade behandles med høreapparat, hjælpemidler og frem for alt forebyggelse. Der er ingen overbevisende evidens for medicinsk behandling. Skaden forværres ikke, når støjen ophører. Ved akut akustisk traume bruges steroid ofte som ved pludseligt høretab. Det er erfaringsbaseret og svagt underbygget. Dyreforsøg viser, at støj kan ødelægge synapser i sneglen, selv når tærsklen normaliseres. Det kaldes skjult høretab. Betydningen hos mennesker er omdiskuteret.
+VÆRT: Så til lovgivningen. Hvor går grænsen?
+EKSPERT: Ingen må udsættes for en støjbelastning over femogfirs A-vægtede decibel som middel over otte timer. Over firs skal ansatte have adgang til høreundersøgelse. Over femogfirs skal de have adgang til arbejdsmedicinsk undersøgelse. Hver gang støjen stiger med tre decibel, halveres den tilladte tid.
+VÆRT: Og hvem anmelder?
+EKSPERT: Du. Læger har pligt til at anmelde formodede erhvervssygdomme, allerede ved mistanke. Anmeldelsen sker digitalt på Virk med MitID inden fjorten dage. Pligten gælder uanset, om patienten ønsker det. Patienten kan selv bede Arbejdsmarkedets Erhvervssikring om at stoppe sagen.
+VÆRT: Så jeg behøver ikke være sikker?
+EKSPERT: Nej. Mistanke er nok. Det behøver hverken at være varigt eller opfylde betingelserne for anerkendelse.
+VÆRT: Hvornår anerkendes det?
+EKSPERT: Som udgangspunkt ved støj på mindst femogfirs decibel som middelværdi for arbejdsdagen i mindst fem år, og et symmetrisk diskanttab. Ensidigt tab taler normalt imod. Konkurrerende årsager som arv, alder, fritidsstøj og Menière giver fradrag. Vedvarende støj giver højst et tab på tres til halvfjerds decibel. Impulsstøj giver højst halvfems til hundrede. Større tab peger på anden årsag. Dokumentér støjanamnese, toneaudiometri med maskeret benledning, taleaudiometri og tympanometri. Og anmeld også ved tvivl.
+[pause 2]
+VÆRT: Tinnitus. Hvad sker der?
+EKSPERT: Den følger typisk en skade i sneglen. Nedsat input fra hårcellerne giver ubalance i de centrale synapser, øget og synkroniseret aktivitet og omorganisering af hørebarken. Det limbiske system afgør, hvor generende lyden opleves.
+VÆRT: Hvad spørger man til?
+EKSPERT: Om lyden er pulssynkron. Så tænker man på en vaskulær årsag og tager karbilleddannelse. Om den er ensidig, for det kan være vestibularis schwannom. Og om søvn, stress, depressive symptomer og gener fra nakke og kæbe. Ved udtalt gene spørger man direkte til selvmordstanker.
+VÆRT: Så tinnitus alene udløser ikke scanning?
+EKSPERT: Kun hvis den er ensidig og har varet mere end ét og under fem år. Den vurderes sammen med resten af billedet.
+VÆRT: Og behandlingen?
+EKSPERT: Grundig information, lydterapi, høreapparat ved samtidigt høretab og kognitiv adfærdsterapi. Den er bedst dokumenteret i både den europæiske og den amerikanske retningslinje. Begge fraråder medicin rettet mod tinnitus og magnetisk stimulation af hjernen. Den danske retningslinje er fra to tusind og fjorten og altså over tolv år gammel. Moderate til svære gener kan henvises til audiologisk afdeling eller kommunikationscenter.
+VÆRT: Og hyperakuse?
+EKSPERT: Lyde opleves for kraftige eller smertefulde ved niveauer, andre tåler. Forklaringen er øget central forstærkning og ikke recruitment, som er cochleær. Misofoni er noget andet, nemlig en stærk følelsesmæssig reaktion på bestemte lyde, ofte tygning, uanset lydstyrke. Årsager til hyperakuse er blandt andet støjskade, migræne, facialisparese, hovedtraume og angst. Man måler ubehagstærskel og stapediusreflekser.
+VÆRT: Behandlingen?
+EKSPERT: Rådgivning, gradvis lydterapi og kognitiv adfærdsterapi, som har den bedste dokumentation. Undgå at beskytte med ørepropper i almindelige lydmiljøer, for det kan øge den centrale forstærkning. Det er erfaringsbaseret.
+[pause 2]
+VÆRT: Så til hastesagen. Pludseligt høretab.
+EKSPERT: Definitionen er et perceptivt tab på mindst tredive decibel på mindst tre sammenhængende frekvenser over højst tooghalvfjerds timer. Over ni ud af ti er idiopatiske. Første skridt er at udelukke et konduktivt tab. Normal otoskopi og Weber til det raske øre peger på perceptivt tab. Så toneaudiometri og taleaudiometri hurtigst muligt, med maskeret benledning.
+VÆRT: Så jeg skal ikke vente på scanning?
+EKSPERT: Nej. Behandlingen starter tidligt. Udredning for retrocochleær årsag kommer bagefter.
+VÆRT: Hvad gør man?
+EKSPERT: Henviser straks til øre-næse-halslæge eller audiologisk afdeling. Der findes ingen dansk selskabsretningslinje, så den danske kilde er Lægehåndbogen. Den anbefaler steroid i tabletform som primær behandling, ideelt inden for fireogtyve til otteogfyrre timer. Den amerikanske retningslinje fra to tusind og nitten kalder steroid en mulighed inden for to uger efter debut. Ved ufuldstændig bedring tilbydes steroid direkte i mellemøret to til seks uger efter debut. Dosering følger lokal instruks.
+VÆRT: Virker det?
+EKSPERT: Evidensen er svag. En Cochrane-oversigt fra to tusind og tretten fandt ingen konsensus om effekten af steroid i tabletform. Det er en pragmatisk standard og ikke solidt bevist. En Cochrane-oversigt fra to tusind og toogtyve fandt, at steroid i mellemøret som primær behandling sandsynligvis giver lille eller ingen forskel. En dansk metaanalyse fandt heller ingen fordel ved at kombinere.
+VÆRT: Hvad skal man undlade?
+EKSPERT: Ifølge den amerikanske retningslinje skal man ikke rutinemæssigt tage computertomografi af hovedet eller rutineblodprøver. Og man skal ikke rutinemæssigt give antivirale midler, blodproppeopløsende eller karudvidende stoffer. Lægehåndbogen nævner målrettede prøver for autoimmun sygdom, infektion og koagulopati. Det er målrettet og ikke rutine. Antiviral behandling nævnes ved mistanke om herpes zoster oticus.
+VÆRT: Prognosen?
+EKSPERT: Lægehåndbogen angiver op til halvdelen med fuld remission ved behandling inden for et til to døgn. Dårligere prognose ved høj alder, svært tab, svimmelhed og sen behandling. Efter fire til seks uger er yderligere bedring mindre sandsynlig. Der kontrolleres til stationær tilstand, typisk efter seks måneder.
+VÆRT: Og scanning bagefter?
+EKSPERT: Her er kilderne uenige. Den amerikanske retningslinje anbefaler udredning for retrocochleær årsag med magnetisk resonans eller hjernestammeaudiometri. Den nye danske retningslinje om vestibularis schwannom udreder kun, hvis hørelsen ikke er normaliseret efter seks måneder. Følg lokal praksis, men kend uenigheden.
+[pause 2]
+VÆRT: Så til asymmetri og vestibularis schwannom. Hvad har ændret sig?
+EKSPERT: En ny dansk retningslinje er godkendt i juni to tusind og seksogtyve. Den mistænker sygdommen ved tyve decibel eller mere sensorineural asymmetri på to nabofrekvenser med oktavs mellemrum. Eller femten decibel i området to til otte kilohertz. Eller ensidigt tab af diskrimination på mere end tredive procent, hvis det ikke har en anden forklaring. Eller ensidig tinnitus, der har varet mere end ét og under fem år.
+VÆRT: Hvornår udreder man ikke?
+EKSPERT: Når anamnese og fund overbevisende peger på anden årsag. Når asymmetrien har været uændret i ti år eller mere. Og når diagnosen på grund af alder eller anden sygdom ikke vil få konsekvens. Alene asymmetrisk stapediusrefleks udløser heller ikke udredning. Det gør videohovedimpulstest alene heller ikke. Kontrolaudiometri efter seks til tolv måneder kan overvejes i stedet. Ved progression henvises til scanning.
+VÆRT: Så jeg scanner ikke alle med asymmetri?
+EKSPERT: Nej. Kun dem, der opfylder kriterierne, og hvor en diagnose vil få konsekvens.
+VÆRT: Hvilken undersøgelse?
+EKSPERT: Magnetisk resonans af den indre øregang og baghjernegruben er første valg. Kan patienten ikke scannes, tages computertomografi af tindingebenet med kontrast. Hjernestammeaudiometri har lav sensitivitet for tumorer under en centimeter og er svær at tolke ved stort diskanttab. Den er ikke længere et alternativ.
+VÆRT: Og hvis der er en tumor?
+EKSPERT: Rent intrameatale tumorer og tumorer med en ekstrameatal del på op til femten millimeter følges med scanning og audiometri. Årligt de første fem år, derefter hvert andet år i fire år og hvert tredje år til år femten. Der henvises til Rigshospitalet ved ekstrameatal del over femten millimeter. Eller ved vækst over to millimeter mellem to scanninger. Eller ved ønske om hørebevarende kirurgi, eller svimmelhed, der ikke svinder ved træning. Alle med svimmelhed har gavn af vestibulær træning. Sygdommen skal anmeldes til Cancerregisteret.
+VÆRT: Og høreapparat eller implantat?
+EKSPERT: Høreapparatbehandling følger høretabet. Ved svær hørenedsættelse på det ene øre kan cochlear implant være en mulighed, både efter observation, strålebehandling og operation. Især hvis det andet øre også er nedsat.
+[pause 2]
+VÆRT: Kort om Menière. Hvordan adskiller den sig?
+EKSPERT: Gentagne anfald af drejesvimmelhed på tyve minutter til tolv timer, svingende tab i de dybe toner, tinnitus og tryk i øret. Sikker diagnose kræver mindst to anfald og audiometri med perceptivt tab i de dybe og mellemste toner. Pludseligt høretab er som regel en enkelt hændelse. Men et pludseligt tab i de dybe toner kan være første anfald, så recidiv skal få dig til at revurdere. Den nationale kliniske retningslinje fra Sundhedsstyrelsen i to tusind og atten giver en svag anbefaling imod betahistin. Sygdommen bliver bilateral hos femogtyve til fyrre procent.
+VÆRT: Hvornår skal et høretab til en audiologisk sygehusafdeling?
+EKSPERT: Sundhedsstyrelsens kvalitetskrav fra juli to tusind og femogtyve deler høretab i ukompliceret og kompliceret. Ukompliceret kan få høreapparat i offentligt eller privat regi. Kompliceret skal til en audiologisk sygehusafdeling. Det gælder alle under atten år. Det gælder skelneevne under femoghalvfjerds procent lydscore eller tres procent ordscore på det dårligste øre. Og asymmetri over tredive decibel i gennemsnit, eller en forskel i diskrimination på tyve eller mere.
+VÆRT: Så resten er ukompliceret?
+EKSPERT: Ja. Er ingen kriterier for kompliceret høretab opfyldt, og er der indikation for høreapparat, er det ukompliceret.
+VÆRT: Er der flere?
+EKSPERT: Høreapparat til et øre med hørelse på femogtyve decibel eller bedre. Kandidater til cochlear implant eller knogleforankret høreapparat. Væsentligt generende tinnitus eller lydoverfølsomhed. Og svingende eller hurtigt forværrede tab.
+VÆRT: Så der er to grænser for diskrimination?
+EKSPERT: Ja. Tyve i forskel afgør, hvor patienten behandles. Mere end tredive procent afgør, om der skal scannes. Bland dem ikke sammen. Høreapparatbehandlingen skal desuden verificeres, men det tager vi i femte episode.
+[pause 2]
+VÆRT: Så til faldgruberne. Hvad må man ikke overse?
+EKSPERT: Svimmelhed og høretab med neurologiske udfald som dobbeltsyn, sløret tale, ataksi eller facialisparese. Det er apopleksi i den forreste nedre lillehjernearterie, indtil andet er bevist. Hørelse og hovedimpulstest kan narre. Henvis akut. Bilateralt pludseligt høretab kræver mistanke om systemisk sygdom, altså autoimmun, infektiøs, malign eller vaskulær.
+VÆRT: Andre fælder?
+EKSPERT: Høretab efter pres, dykning eller løft med svimmelhed kan være perilymfefistel. Det henvises til otokirurgisk vurdering. Manglende maskering skaber døde ører eller skjuler asymmetri. Hurtigt forværrende bilateralt tab, måske med øjen, led eller hudsymptomer, kan være autoimmun indre ørelidelse. Ototoksiske stoffer som cisplatin og aminoglykosider kræver overvejelse af audiometrisk kontrol. Og presbyakuse er ikke bare alderen. Den skal behandles.
+VÆRT: Og i håndteringen?
+EKSPERT: Ved steroid skal diabetikere have kontrolleret blodsukker. Patienten skal vide, at søvn og humør kan påvirkes. Instruér i at vende tilbage ved forværring, ny svimmelhed, neurologi, nyt høretab på det andet øre og tilbagevendende anfald. Og glem ikke scanning ved asymmetri, hvis den ikke har en forklaring.
+VÆRT: Er der patientgrupper, hvor tilgangen ændrer sig?
+EKSPERT: Hos ældre med kognitiv svækkelse tilbyder man hørescreening, høreapparat og inddrager de pårørende. Her kan man undlade schwannomudredning, hvis den ikke får konsekvens. Hos patienter i en kompensationssag er der større risiko for funktionelt overlay. Så dokumentér nøje og konsistent, og tænk på Stenger test fra første episode.
+VÆRT: Nu til quizzen. Første spørgsmål. Hvordan defineres pludseligt perceptivt høretab?
+[pause 5]
+EKSPERT: Mindst tredive decibel på mindst tre sammenhængende frekvenser over højst tooghalvfjerds timer. Det er en hastesag, så tiden tæller.
+VÆRT: Andet spørgsmål. En kvinde på femoghalvtreds år vågner med et døvt højre øre. Otoskopien er normal. Weber lateraliserer til venstre. Hvad er det, og hvad gør du?
+[pause 8]
+EKSPERT: Et perceptivt tab på højre øre, mistænkt pludseligt høretab. Det er en hastesag. Audiometri hurtigst muligt og henvisning samme dag, med steroid som primær behandling efter Lægehåndbogen.
+VÆRT: Tredje spørgsmål. Hvordan adskiller audiogrammet ved støjskade sig fra presbyakuse?
+[pause 5]
+EKSPERT: Støjskade giver et hak ved tre til seks kilohertz med bedring ved otte kilohertz. Presbyakuse giver et jævnt faldende, symmetrisk diskanttab uden hak.
+VÆRT: Fjerde spørgsmål. Hvem anmelder en formodet støjskade, hvornår og hvordan?
+[pause 5]
+EKSPERT: Lægen, allerede ved mistanke, digitalt inden for fjorten dage. Anmeldelsen går til Arbejdsmarkedets Erhvervssikring og Arbejdstilsynet. Pligten gælder, selv om patienten ikke ønsker det.
+VÆRT: Femte spørgsmål. En mand på otteoghalvtreds år har haft ensidig tinnitus i to år. Audiogrammet viser femogtyve decibel asymmetri på to nabofrekvenser. Hvad er næste skridt?
+[pause 8]
+EKSPERT: Magnetisk resonans af den indre øregang og baghjernegruben, fordi han opfylder kriterierne for mistænkt vestibularis schwannom. Både asymmetrien og en tinnitus på over ét år udløser udredning.
+VÆRT: Sjette spørgsmål. Hvilken behandling har den bedste dokumentation både ved tinnitus og ved hyperakuse?
+[pause 5]
+EKSPERT: Kognitiv adfærdsterapi. Ved tinnitus kommer høreapparat og lydterapi oveni. Medicin rettet mod tinnitus frarådes.
+VÆRT: Syvende spørgsmål. En patient har pludseligt høretab, svimmelhed og dobbeltsyn. Hvad tænker du, og hvad gør du?
+[pause 8]
+EKSPERT: Apopleksi i den forreste nedre lillehjernearterie, indtil andet er bevist. Henvis akut neurologisk. Hørelse og hovedimpulstest kan narre, så et pludseligt høretab med svimmelhed er ikke altid perifert.
+VÆRT: Ottende spørgsmål. En patient har tyve i forskel i diskrimination mellem ørerne, men ellers symmetrisk hørelse. Hvad betyder det for behandlingsstedet, og skal der scannes?
+[pause 8]
+EKSPERT: Forskellen på tyve eller mere gør høretabet kompliceret, så patienten henvises til en audiologisk sygehusafdeling. Scanning udløses først ved mere end tredive procent, hvis forskellen ikke har anden forklaring.
+VÆRT: Lad os samle op.
+EKSPERT: De fleste perceptive høretab er presbyakuse eller støjskade. Pludseligt høretab er en hastesag. Asymmetri og ensidig tinnitus betyder scanning efter den nye danske retningslinje. Støjskade skal anmeldes ved mistanke. Og kognitiv adfærdsterapi er det bedst dokumenterede ved tinnitus og hyperakuse.
+VÆRT: Tak for i dag. Næste gang tager vi børneaudiologi.
