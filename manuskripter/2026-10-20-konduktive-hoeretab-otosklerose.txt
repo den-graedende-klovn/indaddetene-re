@@ -1,0 +1,143 @@
+titel: A-Kursus i Audiologi, episode 2: Konduktive høretab og otosklerose
+beskrivelse: Forberedelse til A-kursus i audiologi. Konduktivt høretab, Carhart notch, stemmegafler, årsager, otosklerose og stapedotomi, og kirurgi versus høreapparat versus knogleforankret høreapparat.
+motor: roest
+kilder:
+- Dansk Selskab for Otorhinolaryngologi, Hoved- og Halskirurgi, Otosklerose, klinisk retningslinje, opdateret 2023, https://dsohh.dk/wp-content/uploads/2023/09/DSOHH-KKR-otosclerose_2023.pdf
+- Dansk Selskab for Otorhinolaryngologi, Hoved- og Halskirurgi, Knogleforankret høreapparat BAHA, klinisk retningslinje, 2019, https://dsohh.dk/wp-content/uploads/2022/05/DSOHH-KKR-BAHA_2019.pdf
+- Dansk Selskab for Otorhinolaryngologi, Hoved- og Halskirurgi, Tubulation af trommehinden, klinisk retningslinje, 2019, https://dsohh.dk/wp-content/uploads/2022/05/DSOHH-KKR-TUBULATION_2019.pdf
+- Dansk Selskab for Otorhinolaryngologi, Hoved- og Halskirurgi, Mellemørekolesteatom, klinisk retningslinje, revideret 2024, https://dsohh.dk/wp-content/uploads/2024/05/Mellemoerekolesteatom_rev2024_final.pdf
+- Dansk Medicinsk Audiologisk Selskab under Dansk Selskab for Otorhinolaryngologi, Hoved- og Halskirurgi, Audiometri til audiologisk diagnostik, udkast 2013, opdateret 2014, https://dsohh.dk/wp-content/uploads/2022/04/DSOHH-KKR-audiometri1.pdf
+- Holmelund, Otosklerose, Lægehåndbogen på sundhed.dk, opdateret 2024, https://www.sundhed.dk/sundhedsfaglig/laegehaandbogen/oere-naese-hals/tilstande-og-sygdomme/mellemoere/otosklerose/
+- Lægehåndbogen på sundhed.dk, Mellemørebetændelse kronisk, https://www.sundhed.dk/sundhedsfaglig/laegehaandbogen/oere-naese-hals/tilstande-og-sygdomme/mellemoere/mellemoerebetaendelse-kronisk/
+- Toscano et al., Stapes surgery for otosclerosis, StatPearls, 2025, https://www.ncbi.nlm.nih.gov/sites/books/NBK562205/
+- Otosclerosis, StatPearls, opdateret 2024, https://www.ncbi.nlm.nih.gov/sites/books/NBK560671/
+- Chau et al., Interventions for the diagnosis and management of otosclerosis, an umbrella review, Otolaryngology Head and Neck Surgery, 2026, https://aao-hnsfjournals.onlinelibrary.wiley.com/doi/10.1002/ohn.70161
+- Diagnostic accuracy of tuning fork tests for hearing loss, a systematic review, Otolaryngology Head and Neck Surgery, 2018, https://www.academia.edu/78467534/Diagnostic_Accuracy_of_Tuning_Fork_Tests_for_Hearing_Loss_A_Systematic_Review
+- Sabbe et al., Otosclerosis, shift in bone conduction after stapedotomy, B-ENT, 2015, https://pubmed.ncbi.nlm.nih.gov/26601550/
+- Wiatr et al., Carhart notch, a prognostic factor in surgery for otosclerosis, Ear, Nose and Throat Journal, 2021, https://journals.sagepub.com/doi/10.1177/0145561319864571
+- Zhou et al., Clinical and diagnostic characterization of canal dehiscence syndrome, Otology and Neurotology, 2007, https://pubmed.ncbi.nlm.nih.gov/17955609/
+- Albazee et al., Endoscopic versus microscopic stapedotomy, systematic review and meta-analysis, Otolaryngology Head and Neck Surgery, 2025, https://pubmed.ncbi.nlm.nih.gov/39749405/
+- Endoscopic versus microscopic stapedotomy, a comprehensive systematic review and meta-analysis, European Archives of Oto-Rhino-Laryngology, 2026, https://pubmed.ncbi.nlm.nih.gov/41838154/
+- Long-term hearing outcomes following cochlear implantation in far advanced otosclerosis, 2025, https://pubmed.ncbi.nlm.nih.gov/40105439/
+---
+VÆRT: Velkommen til anden episode i forberedelsen til A-kurset i audiologi. I dag handler det om konduktive høretab og otosklerose. Vi starter med et billede af den klassiske patient.
+EKSPERT: En kvinde i fyrrerne har over flere år fået dårligere hørelse, først på det ene øre, nu på begge. Hun har tinnitus og hører bedre i støj. Trommehinderne ser normale ud. Audiogrammet viser et gab mellem luftledning og benledning. Næsten alt i den beskrivelse peger i én retning.
+VÆRT: Så lad os starte med det grundlæggende. Hvad er et konduktivt høretab?
+EKSPERT: Lyden ledes ikke effektivt fra omgivelserne til sneglen. Fejlen sidder i øregangen, trommehinden, mellemøret eller knoglekæden. Sneglen er intakt. Derfor kan tabet i princippet behandles kirurgisk, og taleskelneevnen med høreapparat er som regel god. På audiogrammet ser man et gab mellem luftledning og benledning, mens benledningen er normal. Ved blandet tab er benledningen også nedsat.
+VÆRT: Hvornår er gabet reelt?
+EKSPERT: Den danske retningslinje bruger et gab over ti decibel som udløser for maskeret benledning. I praksis regnes femten decibel eller mere på flere nabofrekvenser som sikkert, fordi gentagne målinger varierer fem til ti decibel. Det er erfaringsbaseret. Husk fra sidst, at umaskeret benledning og vibrationer kan skabe et falsk gab.
+VÆRT: Hvor stort kan et rent konduktivt tab blive?
+EKSPERT: Omkring halvtreds til tres decibel. Er tabet over tres til halvfjerds decibel, må der være en perceptiv komponent. Det er lærebogsviden og ikke et skarpt snit.
+[pause 2]
+VÆRT: Så til benledningen. Hvad er Carhart notch?
+EKSPERT: Et dyk i benledningen, mest udtalt ved to kilohertz. Det er klassisk ved stapesfiksation. Benledt lyd når sneglen ad flere veje, og en af dem er ossiklernes inerti. Den har størst betydning ved kædens resonans, omkring to kilohertz. Når stapes sidder fast, mister man den komponent. Notchet er altså en mekanisk artefakt og ikke cochleær skade.
+VÆRT: Hvad betyder det i praksis?
+EKSPERT: At benledningen før operationen undervurderer den cochleære reserve. I en belgisk serie sås notch hos tre ud af fire, og benledningen bedredes cirka otte decibel ved notchets frekvens efter stapedotomi. Et notch er derfor ikke et argument imod kirurgi. I en polsk serie var et dybt notch dog en ugunstig faktor for bedringen. Det er omdiskuteret.
+[pause 2]
+VÆRT: Stemmegaflerne. Bruger man dem stadig?
+EKSPERT: Som krydskontrol ved sengen, men de erstatter ikke audiometri. Er gaflen og audiogrammet uenige, så gentag og masker. Den danske retningslinje nævner fire hundrede og fyrre hertz. Internationalt er fem hundrede og tolv standard. To hundrede og seksoghalvtreds hertz er mere følsom, men giver flere falsk positive, fordi patienten mærker vibrationen.
+VÆRT: Weber først?
+EKSPERT: Weber lateraliserer til det dårligste øre ved konduktivt tab og til det bedste ved perceptivt tab. Et systematisk review fandt dårlig sensitivitet. Den danske retningslinje foretrækker benleder på panden ved audiometri.
+VÆRT: Og Rinne?
+EKSPERT: Rinne sammenligner luft og benledning på samme øre. Negativ Rinne betyder, at benledningen høres bedst. Ved fem hundrede og tolv hertz svarer det til et konduktivt tab på tyve til tredive decibel. Rinne er derfor specifik, men ufølsom for små gab. Den er en test for kirurgisk relevante gab og ikke en screening. En nyere serie viser, at Rinne ved højere frekvenser først bliver negativ ved større gab. Negativ Rinne ved tusind og fireogtyve hertz betyder altså et større gab.
+VÆRT: Hvad er faldgruben?
+EKSPERT: Falsk negativ Rinne ved et stort ensidigt perceptivt eller dødt øre. Benlyden høres af det modsatte øre gennem kraniet og ligner et konduktivt tab. Weber går så til det gode øre, og maskeret audiometri afslører fejlen.
+VÆRT: Så Bing.
+EKSPERT: Gaflen sættes på mastoidet, og øregangen lukkes og åbnes. Når øregangen lukkes, stiger lydtrykket fra benledt lyd under cirka et kilohertz. Det er okklusionseffekten. Ved normalt øre og perceptivt tab bliver lyden højere. Det er positiv Bing. Ved konduktivt tab er effekten allerede brugt, så lyden ændres ikke. Det er negativ Bing. Retningslinjen anbefaler Bing, når Rinne er positiv, men man mistænker et konduktivt element. Bing fanger nemlig små gab, som Rinne overser.
+VÆRT: Og Gellé?
+EKSPERT: Gaflen sættes på mastoidet, mens trykket i øregangen øges. Normalt falder lydstyrken, fordi kæden stives af. Uændret lydstyrke peger mod stapesfiksation eller kædeafbrydelse. Testen bruges sjældent i dag, fordi tympanometri og reflekser har overtaget.
+[pause 2]
+VÆRT: Lad os systematisere årsagerne. Hvordan griber man det an?
+EKSPERT: Fra yderst til inderst, med otomikroskopi som første skridt. I øregangen ses cerumen, fremmedlegeme, otitis externa, exostoser og atresi. De giver kun konduktivt tab ved næsten total obstruktion. Ved trommehinden ser man perforation og kalkplaques. Kalk betyder tympanosklerose, og plaques i mellemøret kan fiksere kæden. Væske, luftbobler eller en indtrukket trommehinde peger på sekretorisk otitis media eller tubadysfunktion.
+VÆRT: Hvornår skal man tænke på kolesteatom?
+EKSPERT: Ved retraktionslomme i pars flaccida eller bagre øvre kvadrant, keratinflager eller polyp. En polyp dækker ofte et kolesteatom. En hvid skygge bag en intakt trommehinde peger mod kongenit kolesteatom. Flåd og konduktivt tab er de hyppigste symptomer. Den danske retningslinje bruger computertomografi til planlægning og til at vise udbredelsen. Diffusionsvægtet magnetisk resonans bruges til at skelne kolesteatom fra andet væv og til kontrol efter operation.
+VÆRT: Og når trommehinden er normal?
+EKSPERT: Så er det kæden. Enten fiksation: otosklerose, hammerfiksation, tympanosklerose eller kongenit stapesfiksation. Eller afbrydelse efter traume eller incusnekrose efter otitis. Pneumatisk otoskopi afslører en hammerfiksation, hvor malleus står stille. Og så er der en tredje gruppe, som efterligner konduktivt tab. Den kommer vi til.
+VÆRT: Hvordan hjælper tympanogram og reflekser?
+EKSPERT: Normal trommehinde, type A eller As og manglende stapediusrefleks peger på otosklerose eller anden fiksation. Type Ad, altså høj compliance, med manglende refleks peger på kædeafbrydelse. Type B med normalt volumen er væske. Refleksen kan være normal tidligt i otosklerose, så en bevaret refleks udelukker ikke diagnosen alene.
+[pause 2]
+VÆRT: Så til otosklerose. Hvad er det?
+EKSPERT: En metabolisk knoglesygdom i labyrintkapslen med patologisk knogleremodellering. Fenestral otosklerose starter foran det ovale vindue og fikserer stapes fodplade. Cochleær otosklerose involverer kapslen omkring sneglen og giver en perceptiv komponent, som kirurgi ikke bedrer.
+VÆRT: Hvad fortæller patienten?
+EKSPERT: Langsomt fremadskridende høretab over år, ofte først ensidigt og senere tosidigt. Ifølge den danske retningslinje får cirka firs procent tosidig sygdom. Der er ofte arvelighed og en overvægt af kvinder. Patienten hører bedre i støj, paracusis Willisii, fordi tabet er konduktivt. Tinnitus er hyppig, og let svimmelhed ses hos cirka hver fjerde.
+VÆRT: Hvilke svar peger væk fra otosklerose?
+EKSPERT: Udtalt anfaldsvis vertigo med svingende hørelse peger mod Menières sygdom og er en relativ kontraindikation for stapeskirurgi. Autofoni, egen puls i øret eller svimmelhed ved høj lyd eller tryk peger mod dehiscens af den øvre buegang. Det skal man altid spørge til før stapeskirurgi. Ildelugtende flåd peger mod kronisk otitis eller kolesteatom.
+VÆRT: Hvordan ser undersøgelsen ud?
+EKSPERT: Audiogrammet viser typisk et gab i bassen først, fordi en stiv kæde rammer bassen, og senere bredere, med et Carhart notch og god taleskelneevne. Trommehinden er normal. En rødlig skær over promontoriet, Schwartzes tegn, ses hos cirka hver tiende, og fraværet udelukker ikke diagnosen. Tympanogrammet er A eller As, og refleksen mangler.
+VÆRT: Hvilke andre diagnoser nævner retningslinjen?
+EKSPERT: Kongenit stapesfiksation, fiksation af hammer eller incus, incusnekrose, tympanosklerose, kolesteatom, misdannelser i det indre øre og en abnorm ansigtsnerve. Dertil Pagets sygdom og osteogenesis imperfecta. Blå sclerae og tidligere frakturer peger på osteogenesis imperfecta, og knoglesmerter hos ældre peger på Paget. Også persisterende arteria stapedia og dehiscens af buegangen står på listen.
+VÆRT: Hvornår skal man tage computertomografi?
+EKSPERT: Retningslinjen fra to tusind og treogtyve anbefaler det i udvalgte tilfælde, ved svimmelhed eller mistanke om anden mellemøreanomali. Det er altså ikke rutine. Internationalt er den meget følsom. Bestil den ved atypiske fund: bevaret refleks, benledning under nul, vestibulære symptomer, mistanke om misdannelse eller revisionskirurgi. Ved asymmetrisk perceptivt tab anbefales magnetisk resonans for at udelukke vestibularis schwannom.
+[pause 2]
+VÆRT: Du nævnte noget, der efterligner. Hvad er det?
+EKSPERT: Tredje vindue. En dehiscens i buegangen eller en stor vestibulær akvædukt skaber en ekstra udgang for energien. Luftledningen bliver dårligere, mens benledningen forstærkes og ofte bliver bedre end nul decibel. Mellemøret er normalt, så stapediusrefleksen er bevaret. En vestibulær test, vestibulært fremkaldte myogene potentialer, viser typisk lav tærskel. Et konduktivt gab med bevaret refleks og supranormal benledning er derfor ikke otosklerose. Så skal man ikke operere stapes.
+VÆRT: Det er næsten hovedbudskabet.
+EKSPERT: Ja. Se altid på refleksen og benledningen, før du lover kirurgi.
+[pause 2]
+VÆRT: Behandlingen af otosklerose. Hvad er mulighederne?
+EKSPERT: Observation ved lille gab eller få gener, med kontrol af hørelsen. Høreapparat, som retningslinjen beskriver som velegnet på grund af den gode skelneevne. Det er et ligeværdigt valg uden kirurgisk risiko. Og stapedotomi. Indikationen er gab over tyve til femogtyve decibel i mellemfrekvenser og bas og negativ Rinne. Målet er et resterende gab på ti decibel eller mindre.
+VÆRT: Hvad sker der ved operationen?
+EKSPERT: Suprastrukturen fjernes, der laves et lille hul i fodpladen, og en protese fæstnes på incus. Ved stapedektomi fjernes hele eller det meste af fodpladen. Der er ingen signifikant forskel i lukning af gabet, men stapedotomi er standard i Danmark. Hullet laves oftest med laser eller mikrobor. Der er ingen afgørende evidens for, at den ene er bedre. Det er omdiskuteret.
+VÆRT: Hvad er resultaterne, og hvad er risikoen?
+EKSPERT: Over halvfems procent får et udmærket resultat ifølge Lægehåndbogen. Risikoen for et døvt øre er cirka en halv procent. Permanent svimmelhed ses hos under en procent. Døvt øre er det vigtigste punkt i samtykket. Patienten oplyses også om forbigående svimmelhed, tinnitus, smagsforstyrrelse fra chorda tympani, sjælden facialisparese og infektion.
+VÆRT: Er der noget særligt efter operationen?
+EKSPERT: Refleksen forsvinder, så øret bliver mere støjoverfølsomt og kan tage skade af støj. Patienter med støjende arbejde skal orienteres. Tamponen fjernes efter en til to uger, og hørelsen kontrolleres efter cirka tre måneder og efter et år. Impedansmåling frarådes efter operationen, og Lægehåndbogen fraråder dykning. Patienten skal henvende sig ved svimmelhed eller fald i hørelsen.
+VÆRT: Hvem skal man ikke operere?
+EKSPERT: Kun hørende øre er en stærk kontraindikation. Det samme gælder aktiv infektion eller perforation, Menières sygdom eller vedvarende vestibulære symptomer, og erhverv som pilot eller dykker. Og udtalt perceptiv komponent med dårlig skelneevne, hvor lukning af gabet ikke giver brugbar hørelse. Ved blandet tab kan kirurgi dog gøre høreapparatbehandling lettere.
+VÆRT: Hvilket øre opereres først, og hvad så med det andet?
+EKSPERT: Typisk det dårligst hørende øre. Det andet øre tidligst efter cirka seks måneder. Mange danske kirurger opererer kun ét øre og tilbyder høreapparat på det andet. Det er erfaringsbaseret.
+VÆRT: Findes der medicin?
+EKSPERT: Lægehåndbogen skriver, at der ikke findes en kendt medicinsk behandling. Et samlet review fra to tusind og seksogtyve fandt utilstrækkelig evidens for natriumfluorid og bisfosfonater, så de anbefales ikke rutinemæssigt. Ved fremskreden otosklerose med svært perceptivt tab kan cochlear implant komme på tale. Det virker godt, men facialisstimulation er hyppigere, og der skal tages computertomografi først.
+[pause 2]
+VÆRT: Så til workshoppen. Kirurgi eller høreapparat ved konduktivt tab. Hvordan tænker man?
+EKSPERT: Først årsagen. Kolesteatom kræver kirurgi for at kontrollere sygdommen, ikke kun for hørelsen. Ved otosklerose, kædeafbrydelse og perforation er kirurgi valgfri og drevet af hørelsen. Dernæst audiometrien. Ved et gab under cirka tyve decibel er gevinsten lille. Benledning og skelneevne viser den cochleære reserve, og det andet øres hørelse er afgørende.
+VÆRT: Og øret og patienten?
+EKSPERT: Kronisk flåd, radikalkavitet, atresi, tidligere fejlslagen kirurgi og eksem fra ørestykket trækker mod knogleforankret høreapparat. Patientens alder, sygdomme, erhverv og præferencer tæller. Den kirurgiske risiko vejes mod apparatets ulemper: vedligehold, okklusion, feedback og stigma.
+VÆRT: Hvilke indgreb passer til hvilken årsag?
+EKSPERT: Dræn ved sekretorisk otitis med gener. Retningslinjen fra to tusind og nitten, som er over fem år gammel, nævner væske i mindst tre måneder med påvirkning, eller gentagne akutte mellemørebetændelser. Hos voksne undersøges rhinopharynx før indgrebet. Hos børn med sekretorisk otitis er tabet ofte femogtyve til tredive decibel, og behandling anbefales oftest først ved så stort et tab. Tympanoplastik type et ved perforation med tab, hvor Lægehåndbogen angiver vellykket rekonstruktion i cirka halvfjerds til halvfems procent ved kronisk otitis. Ossikulær rekonstruktion ved kædeafbrydelse, med autolog ossikel som førstevalg. Stapedotomi ved otosklerose og kongenit stapesfiksation.
+VÆRT: Og knogleforankret høreapparat?
+EKSPERT: Ifølge den danske retningslinje fra to tusind og nitten ved kronisk tosidigt øreflåd, ofte med radikalkavitet og stort konduktivt tab. Ved patienter, hvor tidligere operationer ikke har givet gevinst. Ved tosidigt eksem fra høreapparat og ved atresi. Og ved ensidig døvhed, hvor lyden ledes til det gode øre. Apparatet afprøves først på pandebånd. Retningslinjen angiver ingen audiometriske grænser. Dem tager vi i episode fem.
+VÆRT: Og det klassiske høreapparat?
+EKSPERT: Konduktive tab kræver mere forstærkning end perceptive tab med samme luftledning, især i bassen. Derfor er en lukket tilpasning ofte nødvendig for at bevare basforstærkningen og undgå feedback. Okklusionsgener er mindre, fordi patienten i forvejen har negativ Bing. Åben tilpasning passer til diskanttab med normal bas. Det er erfaringsbaseret og ikke dækket af en dansk retningslinje, jeg har læst.
+[pause 2]
+VÆRT: Så til faldgruberne.
+EKSPERT: Tre er akutte. Pludseligt høretab efter traume med svimmelhed eller perceptivt fald: tænk perilymfefistel, labyrintfraktur eller stapesluksation, med akut vurdering. Akut svimmelhed, høretab eller facialisparese efter stapedotomi: kontakt straks den opererende afdeling. Og kolesteatom med facialisparese, svimmelhed eller tegn på intrakraniel spredning.
+VÆRT: Og alvorligt, men ikke akut?
+EKSPERT: Kolesteatom: retraktion, keratin, polyp, ensidigt flåd eller hvid skygge bag intakt trommehinde. Henvis til ørekirurg. Der findes ikke et kræftpakkeforløb for kolesteatom. Ensidig sekretorisk otitis hos voksne skal give undersøgelse af rhinopharynx for at udelukke tumor, og ved fund henvises i pakkeforløb for hoved-halskræft.
+VÆRT: Og fejlene i håndteringen?
+EKSPERT: Type A tolket som normalt mellemøre. Otosklerose og hammerfiksation giver A eller As, så se på refleksen. Konduktivt tab ved normal otoskopi: tænk kæden og buegangen, mål refleks, se på benledningen og spørg om svimmelhed ved høj lyd og autofoni. Carhart notch tolket som cochleær skade og dermed som kontraindikation. Falsk positiv Rinne ved lille gab, hvor Bing og audiometri afgør. Og kolesteatom overset bag intakt trommehinde.
+VÆRT: Børn?
+EKSPERT: Ensidigt konduktivt tab med normal otoskopi, eller tab der varer ved, efter væsken er væk, kræver udredning for kongenit kædeanomali eller misdannelse med computertomografi.
+[pause 2]
+VÆRT: Hvad er nyt, og hvad er uafklaret?
+EKSPERT: Endoskopisk stapeskirurgi er kommet de seneste år. Metaanalyser fra to tusind og tyve til to tusind og seksogtyve viser samme høreresultat som med mikroskop, men færre smagsforstyrrelser. Langtidsdata mangler, og indlæringskurven er reel. Medicinsk behandling er uafklaret, og det samme er laser versus mikrobor og valg af protese. Lægehåndbogen og den danske retningslinje angiver også forskellige tal for hyppighed og debutalder, og det er uafklaret. Retningslinjerne om knogleforankret høreapparat og dræn er fra to tusind og nitten, og den om antibiotika ved ørekirurgi er ikke læst her, så slå den op.
+VÆRT: Tre ting at tage med?
+EKSPERT: Ét: normal trommehinde og konduktivt tab, se på refleksen. Manglende refleks peger på fiksation, og bevaret refleks med benledning under nul peger på buegangsdehiscens. To: Carhart notch er mekanisk og forsvinder ofte efter kirurgi, så det er ikke en kontraindikation. Tre: stapedotomi og høreapparat er ligeværdige valg, og det vigtigste i samtykket er risikoen på cirka en halv procent for et døvt øre.
+[pause 2]
+VÆRT: Så til quizzen. Otte spørgsmål. Første spørgsmål. Ved hvilken frekvens er Carhart notch mest udtalt, og hvorfor opstår det?
+[pause 5]
+EKSPERT: Ved cirka to kilohertz. Når stapes er fikseret, mister man ossiklernes inertikomponent af benledningen, så det er en mekanisk artefakt og ikke cochleær skade.
+VÆRT: Andet spørgsmål. En patient har positiv Rinne, men du mistænker et lille konduktivt tab. Hvilken test tager du, og hvad betyder en negativ Bing?
+[pause 5]
+EKSPERT: Bing. Negativ Bing betyder, at lyden ikke ændres ved lukning af øregangen, og det peger på konduktivt tab, for eksempel otosklerose. Bing fanger små gab, som Rinne overser.
+VÆRT: Tredje spørgsmål. En kvinde på tooghalvtreds år har et konduktivt gab i bassen, normal trommehinde, bevaret stapediusrefleks og benledning under nul decibel. Hvad mistænker du, og hvad gør du ikke?
+[pause 8]
+EKSPERT: Tredje vindue, for eksempel dehiscens af den øvre buegang. Jeg opererer ikke stapes, men spørger om autofoni og svimmelhed ved høj lyd og tager computertomografi.
+VÆRT: Fjerde spørgsmål. Hvorfor kan Rinne være falsk negativ, og hvordan afslører man det?
+[pause 5]
+EKSPERT: Ved et stort ensidigt perceptivt eller dødt øre høres benlyden af det modsatte øre gennem kraniet. Weber går til det gode øre, og maskeret audiometri afslører fejlen.
+VÆRT: Femte spørgsmål. Hvad er den danske indikation for stapedotomi ved otosklerose?
+[pause 5]
+EKSPERT: Gab over tyve til femogtyve decibel i mellemfrekvenser og bas og negativ Rinne. Målet er et resterende gab på ti decibel eller mindre.
+VÆRT: Sjette spørgsmål. En mand på seksogtyve år har otosklerose på det eneste øre, der hører. Det andet er næsten døvt. Hvad er dit råd?
+[pause 8]
+EKSPERT: Ikke stapedotomi, for kun hørende øre er en stærk kontraindikation. Risikoen for et døvt øre er cirka en halv procent, så høreapparat er det rigtige valg.
+VÆRT: Syvende spørgsmål. En mand på fireoghalvtreds år har kronisk tosidigt øreflåd, radikalkavitet og stort konduktivt tab. Hvad er næste skridt?
+[pause 8]
+EKSPERT: Når kolesteatom er vurderet, er det knogleforankret høreapparat, afprøvet først på pandebånd. Et ørestykke tåles dårligt ved kronisk flåd, og det er en klassisk indikation i retningslinjen.
+VÆRT: Ottende spørgsmål. Hvilke fund ved otomikroskopi peger på kolesteatom, og hvilket pakkeforløb følger?
+[pause 8]
+EKSPERT: Retraktionslomme i pars flaccida eller bagre øvre kvadrant, keratin, polyp eller ensidigt flåd. Der findes ikke et kræftpakkeforløb for kolesteatom, så patienten henvises til ørekirurg.
+[pause 2]
+VÆRT: Lad os samle op.
+EKSPERT: Konduktivt tab er et gab med normal benledning. Find årsagen systematisk, fra yderst til inderst. Normal trommehinde og manglende refleks peger på fiksation, ofte otosklerose. Bevaret refleks og supranormal benledning peger på tredje vindue. Og valget mellem stapedotomi, høreapparat og knogleforankret høreapparat afhænger af årsag, gab, øre og patient.
