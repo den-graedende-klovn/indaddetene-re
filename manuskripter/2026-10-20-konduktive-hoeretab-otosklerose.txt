@@ -1,6 +1,7 @@
 titel: A-Kursus i Audiologi, episode 2: Konduktive høretab og otosklerose
 beskrivelse: Forberedelse til A-kursus i audiologi. Konduktivt høretab, Carhart notch, stemmegafler, årsager, otosklerose og stapedotomi, og kirurgi versus høreapparat versus knogleforankret høreapparat.
 motor: roest
+version: 2
 kilder:
 - Dansk Selskab for Otorhinolaryngologi, Hoved- og Halskirurgi, Otosklerose, klinisk retningslinje, opdateret 2023, https://dsohh.dk/wp-content/uploads/2023/09/DSOHH-KKR-otosclerose_2023.pdf
 - Dansk Selskab for Otorhinolaryngologi, Hoved- og Halskirurgi, Knogleforankret høreapparat BAHA, klinisk retningslinje, 2019, https://dsohh.dk/wp-content/uploads/2022/05/DSOHH-KKR-BAHA_2019.pdf
