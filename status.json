@@ -1,40 +1,31 @@
 {
-  "start": "2026-10-20T18:31:49+00:00",
-  "maskine": "runnervmxehtw (x86_64)",
+  "start": "2026-10-21T06:54:18+00:00",
+  "maskine": "runnervm8k3b6 (x86_64)",
   "afsnit": [
     {
-      "id": "2026-10-20-konduktive-hoeretab-otosklerose",
+      "id": "2026-10-20-perceptive-hoeretab-voksne",
       "handling": "lavet",
       "motor": "roest",
-      "lyd_sekunder": 1304.9,
-      "tegn": 19063,
-      "beregning_sekunder": 11646.1,
+      "lyd_sekunder": 1349.7,
+      "tegn": 20078,
+      "beregning_sekunder": 13791.5,
       "udtale": {
-        "chorda": "korda",
         "cirka": "sirka",
         "cochle": "kokle",
-        "Cochle": "Kokle",
-        "externa": "eksterna",
-        "flaccida": "flaksida",
-        "imperfecta": "imperfekta",
-        "incus": "inkus",
-        "incusnekrose": "inkusnekrose",
-        "paracusis": "parakusis",
-        "rhinopharynx": "rinofarynks",
-        "schwannom": "sjvannom",
-        "sclerae": "skleræ"
+        "oticus": "otikus",
+        "schwannom": "sjvannom"
       }
     }
   ],
   "motorer": {
     "roest": {
-      "opstart_sekunder": 34.0,
-      "lyd_sekunder": 1188.5,
-      "beregning_sekunder": 11620.4,
-      "beregning_pr_lydminut": 586.6,
+      "opstart_sekunder": 36.4,
+      "lyd_sekunder": 1230.3,
+      "beregning_sekunder": 13759.9,
+      "beregning_pr_lydminut": 671.0,
       "genforsoeg": 0
     }
   },
   "fejl": [],
-  "slut": "2026-10-20T21:46:29+00:00"
+  "slut": "2026-10-21T10:44:46+00:00"
 }

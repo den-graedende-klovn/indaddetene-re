@@ -196,5 +196,40 @@
     "bytes": 10439868,
     "sekunder": 1304.9,
     "udgivet": "2026-10-20T21:46:29+00:00"
+  },
+  {
+    "id": "2026-10-20-perceptive-hoeretab-voksne",
+    "guid": "2026-10-20-perceptive-hoeretab-voksne-c2c07801",
+    "titel": "A-Kursus i Audiologi, episode 3: Perceptive høretab hos voksne",
+    "beskrivelse": "Forberedelse til A-kursus i audiologi. Presbyakuse, støjskade med lovgivning og anmeldelse, tinnitus, hyperakuse, pludseligt høretab, asymmetri og vestibularis schwannom, og hvornår et høretab er kompliceret.",
+    "kilder": [
+      "Dansk Selskab for Vestibulogi og Dansk Medicinsk Audiologisk Selskab under Dansk Selskab for Otorhinolaryngologi, Hoved- og Halskirurgi, Vestibulært schwannom, version 1, godkendt 7. juni 2026, https://dsohh.dk/wp-content/uploads/2026/06/VS%20til%20DSOHH%20endelig%20version%2028052026.pdf",
+      "Sundhedsstyrelsen, Faglige kvalitetskrav og anbefalinger til høreapparatbehandling af voksne, version 1, juli 2025, https://www.sst.dk/da/udgivelser/2025/Kvalitetskrav-til-hoereapparatbehandling",
+      "Dansk Medicinsk Audiologisk Selskab under Dansk Selskab for Otorhinolaryngologi, Hoved- og Halskirurgi, Udredning og behandling af patienter med tinnitus, udkast 2013, opdateret 2014, https://dsohh.dk/wp-content/uploads/2022/04/DSOHH-KKR-tinnitus1.pdf",
+      "Dansk Selskab for Vestibulogi under Dansk Selskab for Otorhinolaryngologi, Hoved- og Halskirurgi, Menières sygdom, 2022, https://dsohh.dk/wp-content/uploads/2022/05/Meniere.pdf",
+      "Holmelund, Pludseligt sensorineuralt høretab, Lægehåndbogen på sundhed.dk, opdateret 2025, https://www.sundhed.dk/sundhedsfaglig/laegehaandbogen/oere-naese-hals/tilstande-og-sygdomme/indre-oere/pludseligt-sensorineuralt-hoeretab/",
+      "Tauris, Støjskade, Lægehåndbogen på sundhed.dk, opdateret 2026, https://www.sundhed.dk/sundhedsfaglig/laegehaandbogen/oere-naese-hals/tilstande-og-sygdomme/indre-oere/stoejskade/",
+      "Lægehåndbogen på sundhed.dk, Hørenedsættelse hos ældre, https://www.sundhed.dk/sundhedsfaglig/laegehaandbogen/oere-naese-hals/tilstande-og-sygdomme/indre-oere/hoerenedsaettelse-hos-aeldre/",
+      "Udredning og behandling af tinnitus, Ugeskrift for Læger, 2023, https://ugeskriftet.dk/videnskab/udredning-og-behandling-af-tinnitus-0",
+      "Arbejdstilsynet, Bekendtgørelse om beskyttelse mod udsættelse for støj i forbindelse med arbejdet, 2006 med senere ændringer, https://at.dk/regler/bekendtgoerelse-om-beskyttelse-mod-udsaettelse-for-stoej-i-forbindelse-med-arbejdet-sammenskrivning/",
+      "Arbejdsmarkedets Erhvervssikring, Læger og tandlægers anmeldepligt, https://www.aes.dk/sagsforloeb/laeger-og-tandlaegers-anmeldepligt",
+      "Arbejdsmarkedets Erhvervssikring, Vejledning om erhvervssygdomme anmeldt fra 1. januar 2005, 2020, https://www.retsinformation.dk/eli/retsinfo/2020/9563/dan/xml",
+      "Chandrasekhar et al., Clinical practice guideline, sudden hearing loss, update, Otolaryngology Head and Neck Surgery, 2019, https://journals.sagepub.com/doi/full/10.1177/0194599819859885",
+      "Plontke et al., Intratympanic corticosteroids for sudden sensorineural hearing loss, Cochrane Database of Systematic Reviews, 2022, https://www.cochranelibrary.com/cdsr/doi/10.1002/14651858.CD008080.pub2",
+      "Mirian og Ovesen, Intratympanic versus systemic corticosteroids in first-line treatment of idiopathic sudden sensorineural hearing loss, JAMA Otolaryngology Head and Neck Surgery, 2020, https://jamanetwork.com/journals/jamaotolaryngology/fullarticle/2762718",
+      "Cima et al., A multidisciplinary European guideline for tinnitus, HNO, 2019, https://link.springer.com/article/10.1007/s00106-019-0633-7",
+      "Tunkel et al., Clinical practice guideline, tinnitus, Otolaryngology Head and Neck Surgery, 2014, https://journals.sagepub.com/doi/10.1177/0194599814545325",
+      "Sound tolerance conditions, hyperacusis, misophonia, noise sensitivity and phonophobia, American Journal of Audiology, 2022, https://pubs.asha.org/doi/10.1044/2022_AJA-22-00035",
+      "Livingston et al., Dementia prevention, intervention, and care, 2024 report of the Lancet standing commission, The Lancet, 2024, https://www.thelancet.com/journals/lancet/article/PIIS0140-6736(24)01296-0/fulltext",
+      "Lin et al., Hearing intervention versus health education control to reduce cognitive decline in older adults with hearing loss, ACHIEVE, The Lancet, 2023, https://www.thelancet.com/journals/lancet/article/PIIS0140-6736(23)01406-X/fulltext"
+    ],
+    "manuskript": "2026-10-20-perceptive-hoeretab-voksne.txt",
+    "fingeraftryk": "c2c07801",
+    "motor": "roest",
+    "motor_navn": "Røst",
+    "fil": "afsnit/2026-10-20-perceptive-hoeretab-voksne-c2c07801.mp3",
+    "bytes": 10798678,
+    "sekunder": 1349.7,
+    "udgivet": "2026-10-21T10:44:46+00:00"
   }
 ]
