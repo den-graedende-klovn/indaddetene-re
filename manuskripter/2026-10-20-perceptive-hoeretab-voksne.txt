@@ -1,6 +1,7 @@
 titel: A-Kursus i Audiologi, episode 3: Perceptive høretab hos voksne
 beskrivelse: Forberedelse til A-kursus i audiologi. Presbyakuse, støjskade med lovgivning og anmeldelse, tinnitus, hyperakuse, pludseligt høretab, asymmetri og vestibularis schwannom, og hvornår et høretab er kompliceret.
 motor: roest
+version: 1
 kilder:
 - Dansk Selskab for Vestibulogi og Dansk Medicinsk Audiologisk Selskab under Dansk Selskab for Otorhinolaryngologi, Hoved- og Halskirurgi, Vestibulært schwannom, version 1, godkendt 7. juni 2026, https://dsohh.dk/wp-content/uploads/2026/06/VS%20til%20DSOHH%20endelig%20version%2028052026.pdf
 - Sundhedsstyrelsen, Faglige kvalitetskrav og anbefalinger til høreapparatbehandling af voksne, version 1, juli 2025, https://www.sst.dk/da/udgivelser/2025/Kvalitetskrav-til-hoereapparatbehandling
