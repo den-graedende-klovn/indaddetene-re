@@ -231,5 +231,20 @@
     "bytes": 10798678,
     "sekunder": 1349.7,
     "udgivet": "2026-10-21T10:44:46+00:00"
+  },
+  {
+    "id": "2026-10-26-trykproeve",
+    "guid": "2026-10-26-trykproeve-2de16729",
+    "titel": "Trykprøve: uden og med accent",
+    "beskrivelse": "Hvert ord siges to gange, først uden og derefter med accent på den trykstærke vokal. Afprøver om accenttegn kan styre trykket. 1: Nervus fasiális. 2: Neuritis vestibuláris. 3: Nervus vestibulokokleáris. 4: Prosessus mastoídeus. 5: Konka nasális. 6: Moraksella katarrális. 7: Otosklerósis. 8: Kolesteatóma. 9: Øsófagus. 10: Hæmófilus influénsæ. 11: Streptokókkus pneumóniæ. 12: Artéria serebélli inférior antérior. 13: Orofárynks. 14: Korda týmpani.",
+    "kilder": [],
+    "manuskript": "2026-10-26-trykproeve.txt",
+    "fingeraftryk": "2de16729",
+    "motor": "roest",
+    "motor_navn": "Røst",
+    "fil": "afsnit/2026-10-26-trykproeve-2de16729.mp3",
+    "bytes": 782429,
+    "sekunder": 97.7,
+    "udgivet": "2026-10-26T06:27:42+00:00"
   }
 ]

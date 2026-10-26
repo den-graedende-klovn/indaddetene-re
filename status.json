@@ -1,31 +1,26 @@
 {
-  "start": "2026-10-21T06:54:18+00:00",
-  "maskine": "runnervm8k3b6 (x86_64)",
+  "start": "2026-10-26T06:06:22+00:00",
+  "maskine": "runnervmtai0g (x86_64)",
   "afsnit": [
     {
-      "id": "2026-10-20-perceptive-hoeretab-voksne",
+      "id": "2026-10-26-trykproeve",
       "handling": "lavet",
       "motor": "roest",
-      "lyd_sekunder": 1349.7,
-      "tegn": 20078,
-      "beregning_sekunder": 13791.5,
-      "udtale": {
-        "cirka": "sirka",
-        "cochle": "kokle",
-        "oticus": "otikus",
-        "schwannom": "sjvannom"
-      }
+      "lyd_sekunder": 97.7,
+      "tegn": 944,
+      "beregning_sekunder": 1243.9,
+      "udtale": {}
     }
   ],
   "motorer": {
     "roest": {
-      "opstart_sekunder": 36.4,
-      "lyd_sekunder": 1230.3,
-      "beregning_sekunder": 13759.9,
-      "beregning_pr_lydminut": 671.0,
+      "opstart_sekunder": 35.1,
+      "lyd_sekunder": 70.8,
+      "beregning_sekunder": 1241.7,
+      "beregning_pr_lydminut": 1052.7,
       "genforsoeg": 0
     }
   },
   "fejl": [],
-  "slut": "2026-10-21T10:44:46+00:00"
+  "slut": "2026-10-26T06:27:42+00:00"
 }
