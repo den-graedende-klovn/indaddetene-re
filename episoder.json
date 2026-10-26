@@ -246,5 +246,35 @@
     "bytes": 782429,
     "sekunder": 97.7,
     "udgivet": "2026-10-26T06:27:42+00:00"
+  },
+  {
+    "id": "2026-10-26-endetest-efter",
+    "guid": "2026-10-26-endetest-efter-3d407bc3",
+    "titel": "Endetest: efter rettelsen",
+    "beskrivelse": "Ti ekspertsætninger fra tidligere afsnit. Lyt efter, om sidste stavelse kommer med. Afsnittet før og efter rettelsen indeholder de samme sætninger.",
+    "kilder": [],
+    "manuskript": "2026-10-26-endetest-efter.txt",
+    "fingeraftryk": "3d407bc3",
+    "motor": "roest",
+    "motor_navn": "Røst",
+    "fil": "afsnit/2026-10-26-endetest-efter-3d407bc3.mp3",
+    "bytes": 647601,
+    "sekunder": 80.9,
+    "udgivet": "2026-10-26T06:39:07+00:00"
+  },
+  {
+    "id": "2026-10-26-endetest-foer",
+    "guid": "2026-10-26-endetest-foer-47bf3f2f",
+    "titel": "Endetest: før rettelsen",
+    "beskrivelse": "Ti ekspertsætninger fra tidligere afsnit. Lyt efter, om sidste stavelse kommer med. Afsnittet før og efter rettelsen indeholder de samme sætninger.",
+    "kilder": [],
+    "manuskript": "2026-10-26-endetest-foer.txt",
+    "fingeraftryk": "47bf3f2f",
+    "motor": "roest",
+    "motor_navn": "Røst",
+    "fil": "afsnit/2026-10-26-endetest-foer-47bf3f2f.mp3",
+    "bytes": 566750,
+    "sekunder": 70.8,
+    "udgivet": "2026-10-26T06:47:43+00:00"
   }
 ]

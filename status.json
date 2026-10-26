@@ -1,26 +1,45 @@
 {
-  "start": "2026-10-26T06:06:22+00:00",
+  "start": "2026-10-26T06:30:00+00:00",
   "maskine": "runnervmtai0g (x86_64)",
   "afsnit": [
     {
-      "id": "2026-10-26-trykproeve",
+      "id": "2026-10-26-endetest-efter",
       "handling": "lavet",
       "motor": "roest",
-      "lyd_sekunder": 97.7,
-      "tegn": 944,
-      "beregning_sekunder": 1243.9,
-      "udtale": {}
+      "lyd_sekunder": 80.9,
+      "tegn": 1015,
+      "beregning_sekunder": 519.7,
+      "udtale": {
+        "Cochle": "Kokle"
+      }
+    },
+    {
+      "id": "2026-10-26-endetest-foer",
+      "handling": "lavet",
+      "motor": "roest",
+      "lyd_sekunder": 70.8,
+      "tegn": 1013,
+      "beregning_sekunder": 515.9,
+      "udtale": {
+        "Cochle": "Kokle"
+      }
     }
   ],
   "motorer": {
     "roest": {
-      "opstart_sekunder": 35.1,
-      "lyd_sekunder": 70.8,
-      "beregning_sekunder": 1241.7,
-      "beregning_pr_lydminut": 1052.7,
-      "genforsoeg": 0
+      "opstart_sekunder": 27.7,
+      "lyd_sekunder": 128.1,
+      "beregning_sekunder": 1032.7,
+      "beregning_pr_lydminut": 483.6,
+      "genforsoeg": 0,
+      "tvunget_stop": {
+        "lang_hale": 1,
+        "justering": 0,
+        "gentagelse": 0,
+        "fejl_i_rettelse": 0
+      }
     }
   },
   "fejl": [],
-  "slut": "2026-10-26T06:27:42+00:00"
+  "slut": "2026-10-26T06:47:43+00:00"
 }
