@@ -46,6 +46,7 @@ class Manuskript:
     dele: list = field(default_factory=list)
     fingeraftryk: str = ""
     udtale: bool = True  # "udtale: fra" i hovedet slår udtalelaget fra
+    stop: str = "lempelig"  # "stop: original" bruger Røsts oprindelige, for strenge stopmekanisme
 
     @property
     def antal_tegn(self):
@@ -113,6 +114,7 @@ def laes(sti, roller):
         dele=dele,
         fingeraftryk=hashlib.sha256(raa.encode("utf-8")).hexdigest()[:8],
         udtale=hoved.get("udtale", "til").strip().lower() not in ("fra", "nej", "off"),
+        stop=hoved.get("stop", "lempelig").strip().lower(),
     )
 
 

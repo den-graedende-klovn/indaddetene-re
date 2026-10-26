@@ -1,0 +1,27 @@
+titel: Endetest: efter rettelsen
+beskrivelse: Ti ekspertsætninger fra tidligere afsnit. Lyt efter, om sidste stavelse kommer med. Afsnittet før og efter rettelsen indeholder de samme sætninger.
+motor: roest
+stop: lempelig
+---
+VÆRT: Endetest: efter rettelsen. Ti sætninger fra tidligere afsnit.
+VÆRT: Sætning nummer et.
+EKSPERT: Undgå at beskytte med ørepropper i almindelige lydmiljøer, for det kan øge den centrale forstærkning.
+VÆRT: Sætning nummer to.
+EKSPERT: Cochleært tab giver en diskrimination, der passer til tærsklerne.
+VÆRT: Sætning nummer tre.
+EKSPERT: Den ligger tæt på hjernestammen og er særlig sårbar for mekanisk påvirkning.
+VÆRT: Sætning nummer fire.
+EKSPERT: Materialet er lille og fra ét center, og det er endnu ikke i retningslinjer.
+VÆRT: Sætning nummer fem.
+EKSPERT: Der skal være mindst fem anfald med vestibulære symptomer af moderat eller svær intensitet.
+VÆRT: Sætning nummer seks.
+EKSPERT: Op til tredive eller flere anfald om dagen er typisk.
+VÆRT: Sætning nummer syv.
+EKSPERT: Refleksen kan være normal tidligt i otosklerose, så en bevaret refleks udelukker ikke diagnosen alene.
+VÆRT: Sætning nummer otte.
+EKSPERT: Der kontrolleres til stationær tilstand, typisk efter seks måneder.
+VÆRT: Sætning nummer ni.
+EKSPERT: Alle med svimmelhed har gavn af vestibulær træning.
+VÆRT: Sætning nummer ti.
+EKSPERT: Hypotesen er, at migræne giver en følsomhed i hjernens balancebaner.
+VÆRT: Det var testen.

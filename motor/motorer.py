@@ -113,6 +113,12 @@ class RoestMotor:
         from huggingface_hub import snapshot_download
         from chatterbox.mtl_tts import ChatterboxMultilingualTTS
 
+        import roest_stop
+
+        roest_stop.installer()
+        self.roest_stop = roest_stop
+        self.saet_stop("lempelig")
+
         self.torch = torch
         self.indst = indst
         self.p = indst["roest"]
@@ -135,6 +141,17 @@ class RoestMotor:
             self.stemmer[navn] = self.model.conds
         self.indlaesning_sek = time.time() - t0
 
+    TRIM = {
+        # Oprindelig trimning til sammenligning, og en mildere, der ikke skærer svage slutlyde væk.
+        "original": {"taerskel_db": -42.0, "polstring": 0.03, "hale": 0.03},
+        "lempelig": {"taerskel_db": -50.0, "polstring": 0.03, "hale": 0.10},
+    }
+
+    def saet_stop(self, tilstand):
+        """'lempelig' (standard) eller 'original'. Styres med 'stop:' i manuskriptets hoved."""
+        self.roest_stop.saet(tilstand)
+        self.trim = self.TRIM[tilstand]
+
     def _generer(self, tekst, seed):
         self.torch.manual_seed(seed)
         wav = self.model.generate(
@@ -147,7 +164,7 @@ class RoestMotor:
             min_p=self.p["min_p"],
             top_p=self.p["top_p"],
         )
-        return lyd.trim(wav.squeeze(0).cpu().numpy().astype(np.float32))
+        return lyd.trim(wav.squeeze(0).cpu().numpy().astype(np.float32), **self.trim)
 
     def _saetning(self, tekst, stemme):
         """Genererer én sætning og prøver igen, hvis længden er urimelig (fx løbsk generering),

@@ -14,8 +14,9 @@ def stilhed(sekunder):
     return np.zeros(int(SR * max(0.0, sekunder)), dtype=np.float32)
 
 
-def trim(x, taerskel_db=-42.0, polstring=0.03):
-    """Fjerner stilhed i start og slut, relativt til lydens højeste niveau."""
+def trim(x, taerskel_db=-42.0, polstring=0.03, hale=None):
+    """Fjerner stilhed i start og slut, relativt til lydens højeste niveau.
+    hale: ekstra polstring i slutningen (sekunder), så svage slutlyde ikke skæres væk."""
     x = np.asarray(x, dtype=np.float32).reshape(-1)
     if x.size == 0:
         return x
@@ -33,7 +34,7 @@ def trim(x, taerskel_db=-42.0, polstring=0.03):
         return x[:0]
     pad = int(SR * polstring)
     start = max(0, hoej[0] * vindue - pad)
-    slut = min(x.size, (hoej[-1] + 1) * vindue + pad)
+    slut = min(x.size, (hoej[-1] + 1) * vindue + int(SR * (polstring if hale is None else hale)))
     return x[start:slut]
 
 

@@ -85,5 +85,6 @@ Udtalelaget (`motor/udtale.py`) omskriver latinske og medicinske ord til dansk l
 ## Teknik
 
 - `motor/lav_afsnit.py` laver det, der mangler. Lokal afprøvning uden netadgang: `python motor/lav_afsnit.py --motor test`. Nulstil bagefter med `git checkout -- . && git clean -fd afsnit`.
+- Afklippede sætningsender: Chatterbox' stopmekanisme (AlignmentStreamAnalyzer) stoppede for tidligt ved to ens lydbidder i træk og efter 0,2 sekunder på sidste stavelse. `motor/roest_stop.py` lemper det (tre ens bidder og kun til sidst, 0,6 sekunder) og fjerner gamle hooks. Trimningen af stilhed er også mildere i slutningen. `stop: original` i et manuskripts hoved genskaber den gamle opførsel til sammenligning. `status.json` viser under `tvunget_stop`, hvor tit mekanismen griber ind.
 - Røst-modellen: `CoRal-project/roest-v3-chatterbox-500m` via `chatterbox-tts==0.1.7`, torch 2.6.0 CPU. Stemmereferencer: `audio_samples/00_mic_*` og `00_nic_*` fra modellens repository.
 - Feedet har `itunes:block`, så det ikke optræder i podcastkataloger.

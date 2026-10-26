@@ -70,6 +70,8 @@ def planlaeg(indst, episoder, tving_motor=None):
 def byg_lyd(manus, motor, indst, aendringer=None):
     """Bygger afsnittets lyd. Udtalelaget anvendes på hver replik lige før talesyntesen."""
     p = indst["pauser"]
+    if hasattr(motor, "saet_stop"):
+        motor.saet_stop(manus.stop)
     stykker = [lyd.stilhed(p["start"])]
     forrige = None
     for d in manus.dele:
@@ -170,6 +172,8 @@ def main():
 
     for navn, motor in instanser.items():
         status["motorer"][navn].update(motor.stat.som_dict())
+        if hasattr(motor, "roest_stop"):
+            status["motorer"][navn]["tvunget_stop"] = dict(motor.roest_stop.taellere)
 
     if not status["afsnit"] and not status["fejl"]:
         print("Intet at lave.")
