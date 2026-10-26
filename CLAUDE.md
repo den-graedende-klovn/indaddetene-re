@@ -45,7 +45,7 @@ EKSPERT: ...
 - Latinske termer må gerne bruges, men kun når de er nødvendige, og gerne med den danske betegnelse ved siden af.
 - Korte sætninger, højst cirka 25 ord. Røst-motoren deler ved punktum.
 - Ingen doser i lyden.
-- Foretræk danske betegnelser frem for engelske i lyden: "hovedimpulstest", "Bárány-selskabet", "calcitonin-genrelateret peptid", "Menières sygdom" (ikke "Menière's"). Engelske titler på spørgeskemaer, selskaber og studier omskrives på dansk. De må gerne stå i kilderne.
+- Engelske udtryk og navne (fx "head impulse test", "Bárány Society", "Dix-Hallpike", "Cochrane") skrives med deres rigtige stavning. Røst udtaler dem fint, og lydskrift med dansk stavning lyder værre (udtaletest, oktober 2026). Skriv dog "Menières sygdom", ikke "Menière's".
 - Struktur: åbning med case, kernen (anamnese, fund, udredning, behandling), faldgruber, quiz, kort opsummering.
 - Undgå tankestreger.
 
@@ -71,6 +71,8 @@ Udtalelaget (`motor/udtale.py`) omskriver latinske og medicinske ord til dansk l
 - Ændringerne for hvert afsnit står i `status.json` under `udtale`. Test: `python motor/test_udtale.py`.
 - `udtale: fra` i manuskriptets hoved slår begge lag fra (bruges til udtaletests).
 
+- Tryk: Røst laver al tekst om til små bogstaver, så store bogstaver kan ikke markere tryk. Accent på den trykstærke vokal (fx `fasiális`) kommer igennem til modellen og afprøves i trykprøven (`manuskripter/2026-10-26-trykproeve.txt`, oktober 2026). Brug det ikke, før brugeren har bekræftet, at det virker.
+- Lydskrift bruges kun til latinske og græske ord. Engelske ord og navne lydskrives ikke.
 - `udtale/kandidater.md` er arbejdslisten over ord, der kan blive udtalt forkert, med forslag og status. Hold den opdateret.
 - Accenter ignoreres i undtagelser, så `Menière*` også rammer "Ménière".
 

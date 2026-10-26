@@ -1,0 +1,63 @@
+titel: Trykprøve: uden og med accent
+beskrivelse: Hvert ord siges to gange, først uden og derefter med accent på den trykstærke vokal. Afprøver om accenttegn kan styre trykket. 1: Nervus fasiális. 2: Neuritis vestibuláris. 3: Nervus vestibulokokleáris. 4: Prosessus mastoídeus. 5: Konka nasális. 6: Moraksella katarrális. 7: Otosklerósis. 8: Kolesteatóma. 9: Øsófagus. 10: Hæmófilus influénsæ. 11: Streptokókkus pneumóniæ. 12: Artéria serebélli inférior antérior. 13: Orofárynks. 14: Korda týmpani.
+motor: roest
+udtale: fra
+---
+VÆRT: Trykprøve. For hvert ord siger eksperten det først uden accent og derefter med accent på den vokal, der skal have trykket.
+VÆRT: Ord nummer et.
+EKSPERT: Nervus fasialis.
+[pause 0.8]
+EKSPERT: Nervus fasiális.
+VÆRT: Ord nummer to.
+EKSPERT: Neuritis vestibularis.
+[pause 0.8]
+EKSPERT: Neuritis vestibuláris.
+VÆRT: Ord nummer tre.
+EKSPERT: Nervus vestibulokoklearis.
+[pause 0.8]
+EKSPERT: Nervus vestibulokokleáris.
+VÆRT: Ord nummer fire.
+EKSPERT: Prosessus mastoideus.
+[pause 0.8]
+EKSPERT: Prosessus mastoídeus.
+VÆRT: Ord nummer fem.
+EKSPERT: Konka nasalis.
+[pause 0.8]
+EKSPERT: Konka nasális.
+VÆRT: Ord nummer seks.
+EKSPERT: Moraksella katarralis.
+[pause 0.8]
+EKSPERT: Moraksella katarrális.
+VÆRT: Ord nummer syv.
+EKSPERT: Otosklerosis.
+[pause 0.8]
+EKSPERT: Otosklerósis.
+VÆRT: Ord nummer otte.
+EKSPERT: Kolesteatoma.
+[pause 0.8]
+EKSPERT: Kolesteatóma.
+VÆRT: Ord nummer ni.
+EKSPERT: Øsofagus.
+[pause 0.8]
+EKSPERT: Øsófagus.
+VÆRT: Ord nummer ti.
+EKSPERT: Hæmofilus influensæ.
+[pause 0.8]
+EKSPERT: Hæmófilus influénsæ.
+VÆRT: Ord nummer elleve.
+EKSPERT: Streptokokkus pneumoniæ.
+[pause 0.8]
+EKSPERT: Streptokókkus pneumóniæ.
+VÆRT: Ord nummer tolv.
+EKSPERT: Arteria serebelli inferior anterior.
+[pause 0.8]
+EKSPERT: Artéria serebélli inférior antérior.
+VÆRT: Ord nummer tretten.
+EKSPERT: Orofarynks.
+[pause 0.8]
+EKSPERT: Orofárynks.
+VÆRT: Ord nummer fjorten.
+EKSPERT: Korda tympani.
+[pause 0.8]
+EKSPERT: Korda týmpani.
+VÆRT: Det var trykprøven. Notér de numre, hvor den anden udgave har det rigtige tryk.
