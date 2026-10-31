@@ -1,0 +1,149 @@
+titel: Reinkes ødem
+beskrivelse: Reinkes ødem hos rygeren med hæshed. Differentialdiagnoser, skopi og stroboskopi, rygestop, skånsom fonokirurgi, luftvejen ved intubation og ekstubation, og hvad nyere evidens siger om rygning og tilbagefald.
+motor: roest
+kilder:
+- Dansk Laryngologisk Selskab under Dansk Selskab for Otolaryngologi, Hoved- og Halskirurgi, Reinkes ødem, 2024, https://dsohh.dk/wp-content/uploads/2024/12/KKR-Reinkes-oedem.pdf
+- Dansk Laryngologisk Selskab under Dansk Selskab for Otolaryngologi, Hoved- og Halskirurgi, Fonokirurgi, 2024, https://dsohh.dk/wp-content/uploads/2024/12/KKR-Fonokirurgi.pdf
+- Sundhedsstyrelsen, Pakkeforløb for hoved- og halskræft, 2020, https://sundhedsstyrelsen.dk/-/media/Udgivelser/2020/Hoved-halskraeft/220620-Pakkeforloeb-for-hoved--og-halskraeft.ashx
+- Stachler et al., Clinical Practice Guideline: Hoarseness (Dysphonia) (Update), Otolaryngology Head and Neck Surgery, 2018, https://www.entnet.org/resource/clinical-practice-guideline-hoarseness-dysphonia/
+- Dewan, Chhetri og Hoffman, Reinke's edema management and voice outcomes, Laryngoscope Investigative Otolaryngology, 2022, https://pmc.ncbi.nlm.nih.gov/articles/PMC9392404
+- Quinton et al., Reassessing the Role of Phonomicrosurgery and Smoking Status in the Management of Reinke's Edema, Laryngoscope, 2024, https://pubmed.ncbi.nlm.nih.gov/38009572/
+- Hamdan et al., Office-based Laser Therapy in Reinke's Edema: A Systematic Review and Meta-analysis, Journal of Voice, 2023, https://scholarworks.aub.edu.lb/items/4a25bfa5-46ec-4a9e-9983-5bbe473403ff
+- Office-Based Treatment of Vocal Fold Polyps and Reinke's Edema: A Rational Comparison With Suspension Laryngoscopy, Laryngoscope, 2023, https://pubmed.ncbi.nlm.nih.gov/36647733/
+- Khodeir et al., Surgical and Nonsurgical Lines of Treatment of Reinke's Edema: A Systematic Literature Review, Journal of Voice, 2021, https://pubmed.ncbi.nlm.nih.gov/31761692/
+- Schyberg et al., Cold-Steel Phonosurgery of Reinke Edema Evaluated by the Multidimensional Voice Program, Journal of Voice, 2018, https://pubmed.ncbi.nlm.nih.gov/28596099/
+- Højslet, Moesgaard-Nielsen og Karlsmose, Smoking cessation in chronic Reinke's oedema, Journal of Laryngology and Otology, 1990, https://pubmed.ncbi.nlm.nih.gov/2230558/
+- Lim et al., The incidence of premalignant and malignant disease in Reinke's edema, Otolaryngology Head and Neck Surgery, 2014, https://eprints.gla.ac.uk/106114
+- Moesgaard Nielsen, Højslet og Palvio, Reinke's oedema: a premalignant condition?, Journal of Laryngology and Otology, 1986, https://pubmed.ncbi.nlm.nih.gov/3772241/
+- Tan et al., Clinical grading of Reinke's edema, Laryngoscope, 2017, https://pubmed.ncbi.nlm.nih.gov/28581063/
+- White, Sim og Maran, Reinke's oedema and thyroid function, Journal of Laryngology and Otology, 1991, https://doi.org/10.1017/s0022215100115646
+- Desloge og Zeitels, Endolaryngeal microsurgery at the anterior glottal commissure, Annals of Otology, Rhinology and Laryngology, 2000
+- Cortegiani et al., Should Reinke edema be considered a contributing factor to post-extubation failure?, Critical Care, 2015, https://pmc.ncbi.nlm.nih.gov/articles/PMC4699335
+---
+VÆRT: Velkommen. I dag handler det om Reinkes ødem, på engelsk også kaldet polypoid corditis. Jeg lægger ud med en case. En kvinde på seksoghalvtreds år kommer med hæshed. Hendes stemme er blevet dybere over flere år, og i telefonen bliver hun tiltalt som en mand. Hun har røget i mange år, og hun kan ikke længere nå de høje toner.
+EKSPERT: Det lyder klassisk. Men hos en storryger med hæshed skal vi altid også tænke på cancer. Det er den balance, vi gennemgår i dag.
+VÆRT: Hvad er Reinkes ødem helt kort?
+EKSPERT: Det er en ødematøs hævelse af den overfladiske del af lamina propria på plica vocalis, altså stemmelæben. Rygning er langt den hyppigste årsag. Det ses oftest hos kvinder mellem tredive og tres år. I svære tilfælde kan det give luftvejsobstruktion.
+VÆRT: Og hvorfor er det vigtigt for os?
+EKSPERT: Af tre grunde. Det skal skelnes fra tobaksrelateret dysplasi og cancer. Det kan komplicere intubation og ekstubation. Og resultatet afhænger af skånsom kirurgi og rygestop.
+VÆRT: Den danske retningslinje nævner cyste, polypper og noduli som differentialdiagnoser. Hvordan skelner du?
+EKSPERT: En polyp er oftest ensidig og afgrænset. Den kommer tit akut efter et stemmetraume eller en blødning. Noduli er små og symmetriske i overgangen mellem forreste og midterste tredjedel hos yngre stemmebrugere. En cyste er ensidig og fast under epitelet med nedsat slimhindebølge lige over den. Reinkes ødem er derimod diffust langs hele den membranøse stemmelæbe og som regel på begge sider.
+VÆRT: Og det, vi er bange for?
+EKSPERT: Leukoplaki, dysplasi og glottisk planocellulært karcinom. De er hvide eller røde, ru og ofte ensidige. Slimhinden er stiv, bølgen mangler, og bevægeligheden kan være nedsat. Reinkes ødem er glat og gennemskinneligt med øget amplitude.
+VÆRT: Hvad med andre årsager til hæshed hos en ryger? Jeg tænker på refluks og parese.
+EKSPERT: Kronisk laryngitis og laryngofaryngeal refluks giver diffus rødme og hævelse bagtil mellem arytenoiderne, men ingen vandfyldte poser. Recurrensparese giver en svag, luftfyldt stemme, fejlsynkning og nedsat bevægelighed. Reinkes ødem giver tværtimod en dyb, ru stemme med normal bevægelighed. Akut laryngitis kan også give væske i Reinkes rum, men det går over.
+VÆRT: Så det afgørende er rygeanamnesen, forløbet, åndenød og alarmsymptomer. Og så skopien.
+EKSPERT: Netop. Fleksibel laryngoskopi med stroboskopi afgør næsten altid diagnosen.
+VÆRT: Lidt anatomi. Hvad er Reinkes rum?
+EKSPERT: Det er den overfladiske lamina propria. Det er cirka tre tiendedele millimeter tykt og ligger mellem epitelet og ligamentum vocale. Fortil afgrænses det af Broyles ligament og bagtil af arytenoidbrusken. Opad og nedad er grænserne linea arcuata superior og inferior. Det er dækket i Hiranos body-cover-teori, og det er her, slimhindebølgen opstår.
+VÆRT: Hvad gør røgen ved det lag?
+EKSPERT: Røg øger kapillærernes gennemtrængelighed. Indholdet af hyaluronsyre stiger, og kollagenet kommer i uorden. Slimhinden bliver slap og tung. I sene stadier bliver den fibrøs og polypøs.
+VÆRT: Så den større masse sænker grundtonen, og den slappe slimhinde giver større amplitude.
+EKSPERT: Ja. Og ødemet kan suges ind i glottis ved indånding, som en ventil. Det forklarer åndenøden. En vigtig pointe til patientsamtalen er, at forandringerne hos kvinder ikke er fuldt reversible. Hverken kirurgi eller rygestop gør stemmen helt normal.
+VÆRT: Så til anamnesen. Hvad fortæller patienten?
+EKSPERT: Typisk en grov, dyb stemme og stemmeudtrætning. Sjældnere åndenød eller stridor. Retningslinjen siger, at man skal spørge til tobak, stemmevaner, stofskiftesygdom og refluks.
+VÆRT: Hvad peger hvorhen?
+EKSPERT: En stemme, der langsomt bliver dybere over måneder til år, peger mod Reinkes ødem og andre kroniske godartede læsioner. Det peger væk fra blødning, polyp og parese, som kommer pludseligt. Mænd opdager det ofte sent, fordi stemmen i forvejen er dyb.
+VÆRT: Og hvad peger væk fra Reinkes ødem?
+EKSPERT: Smerter, ondt i øret, synkebesvær, blodigt opspyt, vægttab eller en knude på halsen peger mod cancer. Reinkes ødem gør ikke ondt. Det er erfaringsbaseret, men en god tommelfingerregel.
+VÆRT: Hvad med åndenød og snorken?
+EKSPERT: Åndenød ved anstrengelse, stridor, snorken eller søvnapnø peger mod et stort ødem. Snorken og obstruktiv søvnapnø er faktisk hyppigere hos patienter med Reinkes ødem. Men er obstruktionen ensidig eller hurtigt tiltagende, skal man tænke tumor.
+VÆRT: Og stofskiftet?
+EKSPERT: Træthed, kuldeintolerans og vægtøgning kan pege mod hypothyreose, men sammenhængen er omdiskuteret. Spørg også til erhverv, blodfortyndende medicin, kronisk obstruktiv lungesygdom og søvnapnø. Det betyder noget for den operative planlægning.
+VÆRT: Hvordan undersøger du?
+EKSPERT: Først lytter jeg. Stemmen er grov og dyb, og ved store ødemer kan fonationstiden være kort. Som minimum registrerer jeg Voice Handicap Index, fonationstid og en lydoptagelse.
+VÆRT: Og så skopien.
+EKSPERT: Hævelsen ligner vandballoner langs hele stemmelæben og flytter sig med vejrtrækningen. Hele udstrækningen ses ofte først ved en hurtig indånding. Bevægeligheden er normal.
+VÆRT: Hvad leder du efter, der ikke passer?
+EKSPERT: Hvid eller rød belægning, sår eller en ru, fast overflade peger mod dysplasi eller cancer. Nedsat bevægelighed peger mod tumorindvækst eller parese. Åreknuder eller blødning giver øget risiko for blødning og obstruktion.
+VÆRT: Og stroboskopien?
+EKSPERT: Amplituden er asymmetrisk og øget, og der kan være en lukkedefekt fortil og bagtil. Et segment uden slimhindebølge peger mod indvækst eller arvæv. Det skal biopteres.
+VÆRT: Der findes graderingssystemer. Yonekawa inddeler i type et til tre efter udseendet, og Tan og kolleger graderer et til fire efter, hvor meget af glottis der er lukket.
+EKSPERT: Ja. Tans skala går fra under en fjerdedel til over tre fjerdedele og er reproducerbar mellem undersøgere.
+VÆRT: Skal der scannes?
+EKSPERT: Nej. Den amerikanske hæshedsretningslinje fraråder computertomografi og magnetisk resonans, før larynx er set. Bliver der alligevel scannet, kan ødemet ligne tumorindvækst og give falsk positiv optagelse på positronemissionstomografi.
+VÆRT: Og ellers?
+EKSPERT: Stofskiftetal ved kliniske tegn på hypothyreose. Det er erfaringsbaseret, og et britisk studie fra nitten hundrede og enoghalvfems fandt ingen sammenhæng. Dertil en fuld øre-næse-hals-undersøgelse med mundhule, svælg og hals. Og en logopædisk vurdering før en eventuel operation.
+VÆRT: Så kort sagt. Lyt og mål stemmen, skopér ved indånding, kig efter alt der ikke passer, og drop scanningen.
+EKSPERT: Det er det.
+VÆRT: Behandling. Hvor starter man?
+EKSPERT: Med rygestop. Den danske retningslinje siger, at det ofte er nok ved mindre ødemer. Men forvent ikke for meget. I et dansk studie fra Aalborg holdt kun otte af niogtyve patienter op med at ryge. Alle fik færre gener. Men ingen fik normal stemme, og ødemet forsvandt ikke helt hos nogen.
+VÆRT: Logopædi og refluksmedicin?
+EKSPERT: Logopædi anbefales ved mindre ødemer og stemmemisbrug, men evidensen er svag. Den amerikanske retningslinje fraråder refluksmedicin mod isoleret hæshed, før larynx er set.
+VÆRT: Kan man behandle ambulant?
+EKSPERT: Ja, med fotoangiolytisk laser i lokalbedøvelse. Det er for eksempel pulsed dye laser, kaliumtitanylfosfat-laser og blå laser. Ødemet skrumper gradvist. Stemmen kan blive dårligere de første en til fire uger, og effekten gøres op efter cirka fem uger.
+VÆRT: Virker det?
+EKSPERT: En metaanalyse fra to tusind og treogtyve med seks studier og otteoghalvtreds patienter viste bedre Voice Handicap Index, højere grundtone og mindre læsioner. I en sammenlignende serie med et hundrede og treoghalvtreds patienter var Voice Handicap Index ens efter ambulant behandling og fuld bedøvelse. Men evidensen er lav, og metoden står ikke i den danske retningslinje.
+VÆRT: Og steroidinjektion?
+EKSPERT: Ved milde tilfælde ses komplet bedring hos en tredjedel og delvis bedring hos tres procent. Men tilbagefald er hyppigt. Hyaluronidase er eksperimentelt.
+VÆRT: Hvornår opererer man?
+EKSPERT: Ved større ødemer, og når konservativ behandling ikke er nok. Ved åndenød eller påvirket luftvej er kirurgi førstevalg.
+VÆRT: Hvordan?
+EKSPERT: Mikrolaryngoskopi i fuld bedøvelse. Man lægger et snit på oversiden af stemmelæben og suger ødemet ud. Overskydende slimhinde fjernes, men slimhindedækket bevares. Lidt af det geléagtige materiale efterlades, så bølgen bevares.
+VÆRT: Hvad må man ikke?
+EKSPERT: Stripning er forældet, især ved Reinkes ødem. Rør ikke den frie rand og ikke ligamentet. Undgå at instrumentere commissura anterior på begge sider, fordi det giver sammenvoksninger. Om begge sider tages i samme seance, er delvis omdiskuteret. I en serie med fireogtredive patienter fik ingen sammenvoksning, når kommissuren blev skånet.
+VÆRT: Kold stål eller laser?
+EKSPERT: Kold stål, kuldioxidlaser og microdebrider bruges alle. Et systematisk review fandt kun ti små studier og kunne ikke vise, at én metode er bedst.
+VÆRT: Hvad skal anæstesien vide?
+EKSPERT: At glottis er trang, så man foretrækker små tuber. Ventilation på larynxmaske kan blokeres af ødemet. Det kan fejltolkes som forkert placering eller laryngospasme.
+VÆRT: Og efter operationen?
+EKSPERT: Som regel udskrivelse samme dag. Ofte tre dages stemmero og ingen overanstrengelse af stemmen i to uger. Stemmen evalueres med akustisk analyse efter to til tre måneder. Overvej syrepumpehæmmer, antibiotikaprofylakse og steroid gennem munden hos udvalgte patienter.
+VÆRT: Hvor godt bliver det?
+EKSPERT: På Rigshospitalet steg grundtonen hos kvinder fra et hundrede og tooghalvfjerds til to hundrede og toogtyve hertz efter tre måneder. Syv af syvogtredive blev opereret igen. Og kun fireogtyve procent ændrede rygevaner.
+VÆRT: Så til faldgruberne. Hvad er akut?
+EKSPERT: Stridor ved indånding, åndenød i hvile og fald i iltmætningen. Især ved samtidig luftvejsinfektion, blødning i ødemet eller efter ekstubation. Lad patienten sidde op, og giv ilt. Skopér, og vurder ved dyb indånding. Giv intravenøs steroid. Inhaleret adrenalin kan overvejes, men det er erfaringsbaseret.
+VÆRT: Og hvis det ikke er nok?
+EKSPERT: Kontakt anæstesien tidligt. Ved total obstruktion kan vågen trakeotomi i lokalbedøvelse være nødvendig. Derefter akut mikrolaryngoskopisk reduktion af ødemet. Henvisningen går akut til en øre-næse-hals-afdeling med døgnberedskab.
+VÆRT: Forestil dig, at intensivafdelingen ringer. En rygende kvinde har stridor lige efter ekstubation. Hvad tænker du?
+EKSPERT: At det kan være et uopdaget Reinkes ødem. Før ekstubation kan man lave en cuff-lækagetest, ekstubere over en tubeudskifter eller vente med at ekstubere.
+VÆRT: Hvad udløser mistanke om cancer?
+EKSPERT: En ensidig, fast eller uregelmæssig læsion. Leukoplaki eller erytroplaki, sår, et segment uden bølge eller nedsat bevægelighed. Og de symptomer, vi nævnte: smerter, ondt i øret, synkebesvær, blodigt opspyt, vægttab eller en knude på halsen.
+VÆRT: Og pakkeforløbet?
+EKSPERT: Hæshed i mere end to uger uden bedring og uden oplagt forklaring hos patienter over fyrre år skal ses af praktiserende øre-næse-hals-læge. Det er filterfunktionen med fiberlaryngoskopi. Ved begrundet mistanke henvises til pakkeforløb for hoved- og halskræft. Pakkeforløbet er fra to tusind og tyve og er under revision.
+VÆRT: Er Reinkes ødem præmalignt?
+EKSPERT: Det er omdiskuteret. Det danske selskab siger nej. I en skotsk serie på et hundrede og niogfirs patienter havde halvfems procent ingen dysplasi, og ingen havde cancer. Ældre danske data på et hundrede og tyve patienter fandt let dysplasi hos femogtyve procent og ét invasivt karcinom. Så send væv til histologi, og hav lav tærskel for det.
+VÆRT: Hvad med overbehandling?
+EKSPERT: At operere et mildt, velkompenseret ødem, for eksempel hos en mand, der er tilfreds med sin dybe stemme. Tilbyd hellere rygestop og observation. Fjerner man for meget, får patienten arvæv og en dårligere stemme end før. Og giv ikke antibiotika eller steroid, før larynx er set.
+VÆRT: Og fejl i håndteringen?
+EKSPERT: Øget amplitude på stroboskopi er forventet ved Reinkes ødem og er ikke beroligende i sig selv. Det er segmenter uden bølge, der er alarmerende. Og billedet under fonation undervurderer obstruktionen.
+VÆRT: Hvilke komplikationer skal patienten informeres om?
+EKSPERT: Arvæv, hæshed, svag stemme, granulom, infektion, blødning og ødem. Dertil sammenvoksning fortil, tandskade og tilbagefald. Den højere grundtone kan opleves fremmed. Og det endelige resultat ses først efter cirka tre måneder.
+VÆRT: Og patienten skal henvende sig ved åndenød, stridor, blodigt opspyt, feber eller tiltagende smerter. Eller hvis hæsheden bliver værre igen.
+EKSPERT: Ja. Det sidste er ofte tilbagefald.
+VÆRT: Særlige patientgrupper?
+EKSPERT: Hos patienter i blodfortyndende behandling pauserer man efter lokal instruks. Åreknuder på stemmelæberne kan bløde og give akut obstruktion. Hos patienter med kronisk obstruktiv lungesygdom kan ekstubationen blive vanskelig. Hos børn er Reinkes ødem ekstremt sjældent, så tænk på andre diagnoser. Hos gravide udsættes planlagt kirurgi.
+VÆRT: Hvad er nyt?
+EKSPERT: Et amerikansk studie fra to tusind og fireogtyve fulgte otteoghalvfjerds patienter opereret med microflap-teknik. Der var otte tilbagefald. Rygere og tidligere rygere havde ikke signifikant forskellig risiko for tilbagefald. Det udfordrer den danske retningslinje og ældre danske data, der angav tilbagefald hos op til tres procent.
+VÆRT: Skal vi så holde op med at kræve rygestop før operationen?
+EKSPERT: Studiet er retrospektivt med få tilbagefald. Gruppen af rygere talte også dem, der stoppede på operationsdagen. Rygestop anbefales fortsat. Men om man skal udsætte operationen hos en ryger med symptomer, er nu omdiskuteret.
+VÆRT: Og hvad er stadig uafklaret?
+EKSPERT: Refluksens rolle, den bedste kirurgiske metode og det præmaligne potentiale. Den ambulante laser er lovende, men bygger på små observationsstudier.
+VÆRT: Tre perler til vagten?
+EKSPERT: Et. Kig ved indånding, for obstruktionen er ofte værre, end billedet i fonation antyder. To. Tænk Reinkes ødem ved uventet stridor efter ekstubation hos en storrygende kvinde. Tre. Smerter eller en ensidig, stiv læsion uden bølge er cancer, indtil det modsatte er bevist.
+VÆRT: Nu til quizzen. Første spørgsmål. I hvilket lag sidder ødemet, og hvorfor betyder det noget for stemmen?
+[pause 5]
+EKSPERT: I den overfladiske lamina propria, Reinkes rum, mellem epitelet og ligamentum vocale. Det er laget, hvor slimhindebølgen opstår.
+VÆRT: Andet spørgsmål. En kvinde på seksoghalvtreds år ryger og forveksles med en mand i telefonen. Du ser glatte, gennemskinnelige hævelser på begge stemmelæber med normal bevægelighed. Hvad leder du stadig efter?
+[pause 8]
+EKSPERT: Tegn på dysplasi eller cancer. Hvid eller rød belægning, sår, segmenter uden slimhindebølge og nedsat bevægelighed. Hun ryger og er i risikogruppen.
+VÆRT: Tredje spørgsmål. Hvorfor skal du vurdere stemmelæberne ved dyb indånding?
+[pause 5]
+EKSPERT: Fordi ødemet suges ind i glottis som en ventil. Billedet under fonation undervurderer obstruktionen.
+VÆRT: Fjerde spørgsmål. Hvilken operation er forældet, og hvad gør man i stedet?
+[pause 5]
+EKSPERT: Stripning er forældet. I stedet lægges snittet på oversiden, ødemet suges ud, slimhindedækket bevares, og commissura anterior skånes.
+VÆRT: Femte spørgsmål. En rygende kvinde får stridor lige efter ekstubation efter en planlagt operation. Hvad tænker du, og hvad gør du?
+[pause 8]
+EKSPERT: Uopdaget Reinkes ødem. Skopér, giv intravenøs steroid, og vælg en lille tube, hvis hun skal reintuberes. Ødemet gør glottis trang.
+VÆRT: Sjette spørgsmål. Hvornår skal hæshed ses af praktiserende øre-næse-hals-læge efter pakkeforløbet?
+[pause 5]
+EKSPERT: Ved hæshed i mere end to uger uden bedring og uden oplagt forklaring hos patienter over fyrre år. Det er filterfunktionen før pakkeforløbet.
+VÆRT: Syvende spørgsmål. Hvad udfordrede studiet fra to tusind og fireogtyve?
+[pause 5]
+EKSPERT: Antagelsen om, at fortsat rygning giver mange tilbagefald efter operation. Rygere og tidligere rygere havde ikke signifikant forskellig risiko, men studiet var lille og retrospektivt.
+VÆRT: Ottende spørgsmål. En mand på toogtres år har et mildt Reinkes ødem på begge sider. Han har ingen åndenød og er tilfreds med sin stemme. Skal han opereres?
+[pause 8]
+EKSPERT: Nej, det vil være overbehandling. Tilbyd rygestop og observation, og operér først ved generende symptomer eller åndenød.
+VÆRT: Lad os samle op.
+EKSPERT: Reinkes ødem er en kronisk hævelse af Reinkes rum, næsten altid udløst af rygning. Diagnosen stilles med skopi og stroboskopi, men cancer skal altid overvejes. Rygestop er første skridt. Kirurgien skal være skånsom og skåne commissura anterior. Og husk luftvejen ved intubation og ekstubation.
+VÆRT: Tak for i dag.

@@ -71,3 +71,15 @@ Skrives med rigtig stavning. Røst udtaler engelsk fint.
 | dehiscens | middel | dehissens | 32 |
 | oscillopsi | | klares af reglerne (osillopsi) | |
 | nystagmus, tinnitus, vertigo, hyperakusi, paroksysmi, paroxystisk, stereotypi, iskæmi, apopleksi | lav | kun trykket er usikkert | |
+
+## Reinkes ødem (30. oktober 2026)
+
+Ikke afprøvet. Rettes kun, hvis det lyder forkert i afsnittet.
+
+| Ord | Risiko | Status |
+|---|---|---|
+| Reinke, Broyles, Hirano, Yonekawa | lav til middel | rigtig stavning |
+| polypoid corditis, pulsed dye laser, microdebrider, Voice Handicap Index, body-cover | middel | rigtig stavning, reglerne giver korditis og Indeks |
+| plica vocalis, linea arcuata, commissura anterior | lav | reglerne: plika vokalis, arkuata, kommissura |
+| ligamentum vocale, lamina propria | lav | røres ikke af reglerne, kun trykket er usikkert |
+| præcis | | ændres af reglerne til præsis, undgået i manuskriptet |
