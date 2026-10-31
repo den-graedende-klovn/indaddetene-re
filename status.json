@@ -1,39 +1,37 @@
 {
-  "start": "2026-10-26T06:30:00+00:00",
-  "maskine": "runnervmtai0g (x86_64)",
+  "start": "2026-10-31T09:30:02+00:00",
+  "maskine": "runnervm48cm3 (x86_64)",
   "afsnit": [
     {
-      "id": "2026-10-26-endetest-efter",
+      "id": "2026-10-31-reinkes-oedem",
       "handling": "lavet",
       "motor": "roest",
-      "lyd_sekunder": 80.9,
-      "tegn": 1015,
-      "beregning_sekunder": 519.7,
+      "lyd_sekunder": 1197.2,
+      "tegn": 15716,
+      "beregning_sekunder": 11002.5,
       "udtale": {
-        "Cochle": "Kokle"
-      }
-    },
-    {
-      "id": "2026-10-26-endetest-foer",
-      "handling": "lavet",
-      "motor": "roest",
-      "lyd_sekunder": 70.8,
-      "tegn": 1013,
-      "beregning_sekunder": 515.9,
-      "udtale": {
-        "Cochle": "Kokle"
+        "arcuata": "arkuata",
+        "cirka": "sirka",
+        "commissura": "kommissura",
+        "corditis": "korditis",
+        "hypothyreose": "hypotyreose",
+        "Index": "Indeks",
+        "karcinom": "karsinom",
+        "larynx": "larynks",
+        "plica": "plika",
+        "vocalis": "vokalis"
       }
     }
   ],
   "motorer": {
     "roest": {
-      "opstart_sekunder": 27.7,
-      "lyd_sekunder": 128.1,
-      "beregning_sekunder": 1032.7,
-      "beregning_pr_lydminut": 483.6,
+      "opstart_sekunder": 34.9,
+      "lyd_sekunder": 1091.8,
+      "beregning_sekunder": 10974.7,
+      "beregning_pr_lydminut": 603.1,
       "genforsoeg": 0,
       "tvunget_stop": {
-        "lang_hale": 1,
+        "lang_hale": 0,
         "justering": 0,
         "gentagelse": 0,
         "fejl_i_rettelse": 0
@@ -41,5 +39,5 @@
     }
   },
   "fejl": [],
-  "slut": "2026-10-26T06:47:43+00:00"
+  "slut": "2026-10-31T12:33:59+00:00"
 }
